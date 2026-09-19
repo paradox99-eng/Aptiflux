@@ -1,0 +1,143 @@
+Sentence Correction
+
+
+
+Q1. He [is suffering from] fever since yesterday.
+A) has been suffering from
+B) have been suffering from
+C) was suffering from
+D) No correction required
+Answer: A) has been suffering from
+
+Q2. I [have seen] him yesterday at the supermarket.
+A) had seen
+B) saw
+C) was seen
+D) No correction required
+Answer: B) saw
+
+Q3. She always prefers tea [than coffee].
+A) to coffee
+B) over coffee
+C) against coffee
+D) No correction required
+Answer: A) to coffee
+
+Q4. He [did not wrote] the final examination.
+A) did not written
+B) do not write
+C) did not write
+D) No correction required
+Answer: C) did not write
+
+Q5. The population of Tokyo is greater [than London].
+A) than those of London
+B) than that of London
+C) than London's population
+D) No correction required
+Answer: B) than that of London
+
+Q6. Neither the principal nor the teachers [is present] in the meeting.
+A) was present
+B) are present
+C) has present
+D) No correction required
+Answer: B) are present
+
+Q7. If I [was you], I would not make such a reckless decision.
+A) am you
+B) were you
+C) had been you
+D) No correction required
+Answer: B) were you
+
+Q8. He is the boy [which won] the first prize in the competition.
+A) who won
+B) whom won
+C) whose won
+D) No correction required
+Answer: A) who won
+
+Q9. One of my [best friend] is a highly qualified doctor.
+A) better friend
+B) best friends
+C) good friend
+D) No correction required
+Answer: B) best friends
+
+Q10. I look forward [to meet you] at the conference tomorrow.
+A) to meeting you
+B) to have met you
+C) meeting you
+D) No correction required
+Answer: A) to meeting you
+
+Q11. [Despite of the rain], we continued to play the match.
+A) In spite the rain
+B) Despite the rain
+C) Despiting the rain
+D) No correction required
+Answer: B) Despite the rain
+
+Q12. The child [is crying] continuously for three hours.
+A) has been crying
+B) was crying
+C) have been crying
+D) No correction required
+Answer: A) has been crying
+
+Q13. We reached the station long after the train [left].
+A) had left
+B) has left
+C) was left
+D) No correction required
+Answer: A) had left
+
+Q14. Let [you and I] finish this work before the deadline.
+A) you and me
+B) me and you
+C) I and you
+D) No correction required
+Answer: A) you and me
+
+Q15. He is [too weak that] he cannot even walk a mile.
+A) so weak that
+B) very weak that
+C) much weak that
+D) No correction required
+Answer: A) so weak that
+
+Q16. Scarcely had he gone out [than it started] raining heavily.
+A) when it started
+B) then it started
+C) while it started
+D) No correction required
+Answer: A) when it started
+
+Q17. I [have returned back] the borrowed book to the public library.
+A) have returned
+B) returned back
+C) had returned back
+D) No correction required
+Answer: A) have returned
+
+Q18. She is definitely [more smarter] than her elder sister.
+A) most smart
+B) much smarter
+C) smarter
+D) No correction required
+Answer: C) smarter
+
+Q19. He asked me what [was my name].
+A) what my name is
+B) what my name was
+C) that what my name was
+D) No correction required
+Answer: B) what my name was
+
+Q20. Unless you [do not work] hard, you will certainly fail the test.
+A) not work
+B) work
+C) will work
+D) No correction required
+Answer: B) work

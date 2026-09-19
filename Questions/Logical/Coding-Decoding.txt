@@ -1,0 +1,141 @@
+Coding-Decoding
+
+Q1. In a certain code, COMPUTER is written as RFUVQNPC. How is MEDICINE written in the same code?
+A) MFEDJJOE
+B) EOJDEJFM
+C) MFEJDJOE
+D) EOJDJEFM
+Answer: D) EOJDJEFM
+
+Q2. If in a certain language, MADRAS is coded as NBESBT, how is BOMBAY coded in that code?
+A) CPNCBX
+B) CPNCBZ
+C) CPOCBZ
+D) CQOCBZ
+Answer: B) CPNCBZ
+
+Q3. If TRIPPLE is coded as SQHOOKD, how is DISPOSE written in that code?
+A) CHRONRD
+B) DSOQPTF
+C) ESJTPTF
+D) ESOPSID
+Answer: A) CHRONRD
+
+Q4. In a certain code language, '134' means 'good and tasty'; '478' means 'see good pictures' and '729' means 'pictures are faint'. Which of the following digits stands for 'see'?
+A) 4
+B) 7
+C) 8
+D) 9
+Answer: C) 8
+
+Q5. If Z = 52 and ACT = 48, then BAT will be equal to:
+A) 39
+B) 41
+C) 44
+D) 46
+Answer: D) 46
+
+Q6. In a certain code, ROAST is coded as PQYUR. How is SLOPPY coded in that language?
+A) MRNAQN
+B) NRMNQA
+C) QNMRNA
+D) RANNMQ
+Answer: C) QNMRNA
+
+Q7. If 'white' is called 'blue', 'blue' is called 'red', 'red' is called 'yellow', 'yellow' is called 'green', 'green' is called 'black', 'black' is called 'violet' and 'violet' is called 'orange', what would be the colour of human blood?
+A) Red
+B) Green
+C) Yellow
+D) Violet
+Answer: C) Yellow
+
+Q8. If BAT = 23 and CAT = 24, then you will code BALL as:
+A) 27
+B) 28
+C) 32
+D) 120
+Answer: A) 27
+
+Q9. If A = 1, B = 2, C = 3, and so on, what does the number sequence 8, 5, 12, 16 stand for?
+A) HEAD
+B) HELP
+C) HEAL
+D) HOPE
+Answer: B) HELP
+
+Q10. In a certain code, 15789 is written as XTZAL and 2346 is written as NPSU. How is 23549 written in that code?
+A) NPTUL
+B) PNTSL
+C) NPTSL
+D) NBTSL
+Answer: C) NPTSL
+
+Q11. If DELHI is coded as 73541 and CALCUTTA as 82589662, how can CALICUT be coded?
+A) 5279431
+B) 5978213
+C) 8251896
+D) 8543691
+Answer: C) 8251896
+
+Q12. If E = 5 and HOTEL = 12, how will you code LAMB?
+A) 7
+B) 10
+C) 26
+D) 28
+Answer: A) 7
+
+Q13. In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?
+A) QDFHS
+B) SDFHS
+C) SHFDQ
+D) UJHFS
+Answer: A) QDFHS
+
+Q14. If 'water' is called 'food', 'food' is called 'tree', 'tree' is called 'sky', and 'sky' is called 'wall', on which of the following grows a fruit?
+A) Water
+B) Food
+C) Sky
+D) Tree
+Answer: C) Sky
+
+Q15. In a certain code, SISTER is written as RHRSDQ. How is UNCLE written in that code?
+A) TMBKD
+B) TMBOD
+C) TVBOD
+D) TMKBD
+Answer: A) TMBKD
+
+Q16. If ACNE can be coded as 3, 7, 29, 11, then BOIL will be coded as:
+A) 5, 29, 19, 25
+B) 5, 31, 19, 25
+C) 5, 31, 21, 25
+D) 5, 29, 19, 27
+Answer: B) 5, 31, 19, 25
+
+Q17. In a code language, 123 means 'hot filtered coffee', 356 means 'very hot day' and 589 means 'day and night'. Which digit stands for 'very'?
+A) 3
+B) 5
+C) 6
+D) 9
+Answer: C) 6
+
+Q18. If REASON is coded as 5 and BELIEVED as 7, what is the code for GOVERNMENT?
+A) 6
+B) 8
+C) 9
+D) 10
+Answer: C) 9
+
+Q19. In a certain code language, BEAT is written as YVZG, then what will be the code for SOUP?
+A) HLFK
+B) HLFJ
+C) HLEK
+D) GLFK
+Answer: A) HLFK
+
+Q20. If A = 26 and SUN = 27, then CAT = ?
+A) 24
+B) 27
+C) 57
+D) 58
+Answer: C) 57

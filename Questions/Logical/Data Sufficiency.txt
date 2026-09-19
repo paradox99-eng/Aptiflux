@@ -1,0 +1,187 @@
+Data Sufficiency
+
+Directions (Q1-Q20): Each of the following questions is followed by two statements numbered I and II. You have to decide whether the data provided in the statements are sufficient to answer the question. Choose the correct option from the following:
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+
+Q1. What is the exact value of x?
+I. x² = 36
+II. x > 0
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q2. What is the two-digit number?
+I. The sum of the digits of the number is 8.
+II. The difference between the two digits is 2.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: D) Both statements I and II together are not sufficient to answer the question.
+
+Q3. What is the present age of P?
+I. P is 5 years older than Q.
+II. Q is currently 10 years old.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q4. What is the speed of the train?
+I. The train crosses a stationary pole in 10 seconds.
+II. The total length of the train is 200 meters.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q5. How much did Amit earn at the end of the year?
+I. Amit earns Rs. 5000 per month.
+II. Amit worked for 12 months in the year.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q6. What is the area of the given rectangle?
+I. The perimeter of the rectangle is 40 cm.
+II. The length of the rectangle is 12 cm.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q7. Who is the tallest among A, B, C, and D?
+I. A is taller than B and C.
+II. D is taller than A.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q8. What is the present age of the father?
+I. The father's present age is three times his son's present age.
+II. After 5 years, the father's age will be exactly twice the son's age.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q9. In which year was Rahul born?
+I. Rahul's mother remembers that he was born after 1990 but before 1995.
+II. Rahul's father remembers that he was born in an even year.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: D) Both statements I and II together are not sufficient to answer the question.
+
+Q10. What is the code for the word 'sky' in a certain code language?
+I. 'blue sky' is coded as 'ka pa'.
+II. 'clear blue' is coded as 'pa la'.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q11. What is the volume of the cube?
+I. The cube is painted red on all of its outside faces.
+II. The length of one edge of the cube is 5 cm.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: B) Statement II alone is sufficient to answer the question.
+
+Q12. Are the points A, B, and C located on a single straight line?
+I. The distance between A and B is 3 km and between B and C is 4 km.
+II. The distance between A and C is 7 km.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q13. What is the annual rate of interest?
+I. The simple interest earned on a sum of money in 2 years is Rs. 400.
+II. The principal amount invested is Rs. 4000.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q14. Is integer x greater than integer y?
+I. x = 10 and y = 5.
+II. Both x and y are positive integers.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: A) Statement I alone is sufficient to answer the question.
+
+Q15. On which day of the week did John visit the museum?
+I. John visited the museum after Monday but before Thursday.
+II. John did not visit the museum on Tuesday.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q16. What is the cost of one single pen?
+I. The total cost of 3 pens and 2 pencils is Rs. 25.
+II. The total cost of 6 pens and 4 pencils is Rs. 50.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: D) Both statements I and II together are not sufficient to answer the question.
+
+Q17. How is X related to Y?
+I. Y is the brother of Z.
+II. Z is the sister of X.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: D) Both statements I and II together are not sufficient to answer the question.
+
+Q18. What is the total number of students in the class?
+I. The ratio of boys to girls in the class is 3:2.
+II. There are exactly 15 boys in the class.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q19. In which direction is City P located with respect to City Q?
+I. City P is situated to the north of City R.
+II. City R is situated to the east of City Q.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.
+
+Q20. What is the two-digit number?
+I. The sum of the two digits is 7.
+II. The number is a multiple of 10.
+A) Statement I alone is sufficient to answer the question.
+B) Statement II alone is sufficient to answer the question.
+C) Both statements I and II together are sufficient to answer the question.
+D) Both statements I and II together are not sufficient to answer the question.
+Answer: C) Both statements I and II together are sufficient to answer the question.

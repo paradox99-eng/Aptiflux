@@ -1,0 +1,203 @@
+Statement & Conclusion
+
+Directions (Q1-Q20): In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Q1. Statement: In a one day cricket match, the total runs made by a team were 200. Out of these, 160 runs were made by spinners.
+Conclusions:
+I. 80% of the team consists of spinners.
+II. The opening batsmen were spinners.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: C) Neither I nor II follows
+
+Q2. Statement: The old order changed yielding place to new.
+Conclusions:
+I. Change is the law of nature.
+II. Discard old ideas because they are old.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: A) Only conclusion I follows
+
+Q3. Statement: The government has spoiled many top-ranking financial institutions by appointing bureaucrats as Directors of these institutions.
+Conclusions:
+I. Government should appoint Directors of financial institutes taking into consideration the expertise of the person in the area of finance.
+II. The Director of a financial institute should have expertise commensurate with the financial work carried out by the institute.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: D) Both I and II follow
+
+Q4. Statement: Population increase coupled with depleting resources is going to be the scenario of many developing countries in days to come.
+Conclusions:
+I. The population of developing countries will not continue to increase in the future.
+II. It will be very difficult for the governments of developing countries to provide its people a decent quality of life.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: B) Only conclusion II follows
+
+Q5. Statement: Prime age school-going children in urban India have now become avid as well as more regular viewers of television, even in households without a TV.
+Conclusions:
+I. The method of entertainment which brings parents and children together in rural India is not TV.
+II. TV is the only source of entertainment in urban India.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: C) Neither I nor II follows
+
+Q6. Statement: Quality has a price tag. India is allocating lots of funds to education.
+Conclusions:
+I. Quality of education in India would improve.
+II. Funding alone can enhance the quality of education.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: A) Only conclusion I follows
+
+Q7. Statement: Jade plant has thick leaves and it requires little water.
+Conclusions:
+I. All plants with thick leaves require little water.
+II. Jade plants may grow in places where water is not in abundance.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: B) Only conclusion II follows
+
+Q8. Statement: The T.V. programs telecast specially for women are packed with a variety of recipes and weight reducing tips.
+Conclusions:
+I. Women are not interested in other things.
+II. An average woman's primary interest lies in home and health.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: B) Only conclusion II follows
+
+Q9. Statement: Due to the recent economic downturn, many companies have laid off employees to cut costs.
+Conclusions:
+I. The economy will recover soon.
+II. Companies prioritize cost-cutting during an economic downturn.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: B) Only conclusion II follows
+
+Q10. Statement: Any student who does not behave properly while in the school brings bad name to himself and also for the school.
+Conclusions:
+I. Such student must be removed from the school.
+II. Stricter discipline improves student behavior.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: C) Neither I nor II follows
+
+Q11. Statement: Morning walks are good for health.
+Conclusions:
+I. All healthy people go for morning walks.
+II. Evening walks are harmful.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: C) Neither I nor II follows
+
+Q12. Statement: Modern man influences his destiny by the choice he makes unlike in the past.
+Conclusions:
+I. Earlier there were fewer options available to man.
+II. There was no desire in the past to influence the destiny.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: A) Only conclusion I follows
+
+Q13. Statement: All guilty politicians were arrested. Kishan and Chander were among those arrested.
+Conclusions:
+I. Kishan and Chander were guilty politicians.
+II. All the arrested people were politicians.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: C) Neither I nor II follows
+
+Q14. Statement: Only good singers are invited in the conference. No one without a sweet voice is a good singer.
+Conclusions:
+I. All invited singers in the conference have a sweet voice.
+II. Those singers who do not have a sweet voice are not invited in the conference.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: D) Both I and II follow
+
+Q15. Statement: Reading makes a full man, conference a ready man and writing an exact man.
+Conclusions:
+I. Pointed and precise expression comes only through extensive writing.
+II. Extensive reading makes a complete man.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: B) Only conclusion II follows
+
+Q16. Statement: Vegetable prices are soaring in the market.
+Conclusions:
+I. Vegetables are becoming a rare commodity.
+II. People cannot eat vegetables anymore.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: C) Neither I nor II follows
+
+Q17. Statement: Use of cosmetics is hazardous to the skin.
+Conclusions:
+I. Cosmetics have side effects.
+II. Cosmetics are inexpensive.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: A) Only conclusion I follows
+
+Q18. Statement: Video libraries are flourishing very much these days.
+Conclusions:
+I. People in general have got a video craze.
+II. It is much cheaper to see as many movies as one likes on videos rather than going to the cinema hall.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: A) Only conclusion I follows
+
+Q19. Statement: "The government will review the present policy of the subsidies." - A spokesperson.
+Conclusions:
+I. The government may continue the subsidies.
+II. The government may withdraw the subsidies.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: D) Both I and II follow
+
+Q20. Statement: National Integration is necessary for the rapid development of the country.
+Conclusions:
+I. Rapid development leads to National Integration.
+II. Without National Integration, rapid development is not possible.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both I and II follow
+Answer: B) Only conclusion II follows

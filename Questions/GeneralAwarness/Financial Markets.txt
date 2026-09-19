@@ -1,0 +1,143 @@
+Financial Markets
+
+
+
+Q1. Which is the oldest stock exchange in India and Asia?
+A) National Stock Exchange (NSE)
+B) Bombay Stock Exchange (BSE)
+C) Calcutta Stock Exchange (CSE)
+D) Delhi Stock Exchange (DSE)
+Answer: B) Bombay Stock Exchange (BSE)
+
+Q2. Who is the primary regulatory authority of the capital market in India?
+A) Reserve Bank of India (RBI)
+B) Insurance Regulatory and Development Authority of India (IRDAI)
+C) Securities and Exchange Board of India (SEBI)
+D) Pension Fund Regulatory and Development Authority (PFRDA)
+Answer: C) Securities and Exchange Board of India (SEBI)
+
+Q3. What does 'IPO' stand for in the stock market?
+A) Initial Public Offering
+B) Internal Public Order
+C) Indian Public Offering
+D) Investment Portfolio Organization
+Answer: A) Initial Public Offering
+
+Q4. The benchmark index of the National Stock Exchange (NSE) is known as:
+A) Sensex
+B) Nifty 50
+C) Bankex
+D) Dow Jones
+Answer: B) Nifty 50
+
+Q5. A 'Bear' in the stock market refers to:
+A) An investor who expects prices to go up
+B) An investor who expects prices to fall
+C) A broker who charges high commission
+D) A person who invests only in government bonds
+Answer: B) An investor who expects prices to fall
+
+Q6. Which of the following instruments is traded in the Money Market (short-term market)?
+A) Equity Shares
+B) Corporate Bonds
+C) Treasury Bills
+D) Mutual Funds
+Answer: C) Treasury Bills
+
+Q7. What is a 'Blue Chip' company?
+A) A newly launched startup with high growth potential
+B) A highly reputed, financially stable, and well-established company
+C) A company that manufactures semiconductor chips
+D) A company listed exclusively in the small-cap index
+Answer: B) A highly reputed, financially stable, and well-established company
+
+Q8. Mutual funds in India are primarily regulated by:
+A) Reserve Bank of India (RBI)
+B) Association of Mutual Funds in India (AMFI)
+C) Securities and Exchange Board of India (SEBI)
+D) Ministry of Finance
+Answer: C) Securities and Exchange Board of India (SEBI)
+
+Q9. A debt instrument issued by a corporation to raise money from the public is known as a:
+A) Treasury Bond
+B) Sovereign Bond
+C) Corporate Bond
+D) Municipal Bond
+Answer: C) Corporate Bond
+
+Q10. 'Sensex' is the benchmark index of which stock exchange?
+A) National Stock Exchange (NSE)
+B) Bombay Stock Exchange (BSE)
+C) New York Stock Exchange (NYSE)
+D) NASDAQ
+Answer: B) Bombay Stock Exchange (BSE)
+
+Q11. The process of converting physical share certificates into an electronic form is known as:
+A) Capitalization
+B) Dematerialization (Demat)
+C) Amortization
+D) Liquidation
+Answer: B) Dematerialization (Demat)
+
+Q12. What is the main difference between shares and bonds?
+A) Shares represent debt, while bonds represent ownership
+B) Shares represent ownership, while bonds represent debt
+C) Both represent ownership but bonds have voting rights
+D) Both represent debt but shares pay fixed interest
+Answer: B) Shares represent ownership, while bonds represent debt
+
+Q13. Which of the following is considered a derivative instrument?
+A) Futures and Options
+B) Treasury Bills
+C) Commercial Papers
+D) Equity Shares
+Answer: A) Futures and Options
+
+Q14. The return earned on a bond is commonly referred to as its:
+A) Dividend
+B) Capital Gain
+C) Yield
+D) Premium
+Answer: C) Yield
+
+Q15. An open-ended mutual fund is one that:
+A) Has a fixed maturity date
+B) Can issue and redeem units at any time
+C) Trades exclusively on the stock exchange like a stock
+D) Invests only in government securities
+Answer: B) Can issue and redeem units at any time
+
+Q16. 'NAV' in the context of mutual funds stands for:
+A) Net Annual Value
+B) Net Asset Value
+C) Nominal Asset Value
+D) New Asset Valuation
+Answer: B) Net Asset Value
+
+Q17. A market condition characterized by a continuous and prolonged rise in stock prices is called a:
+A) Bear Market
+B) Bull Market
+C) Stagnant Market
+D) Volatile Market
+Answer: B) Bull Market
+
+Q18. Commercial Paper (CP) is an unsecured money market instrument issued in the form of a:
+A) Promissory Note
+B) Bill of Exchange
+C) Cheque
+D) Demand Draft
+Answer: A) Promissory Note
+
+Q19. Foreign Institutional Investors (FIIs) wishing to invest in the Indian stock market must register with:
+A) Reserve Bank of India (RBI)
+B) Securities and Exchange Board of India (SEBI)
+C) Ministry of External Affairs
+D) Bombay Stock Exchange (BSE)
+Answer: B) Securities and Exchange Board of India (SEBI)
+
+Q20. Which of the following is a prominent credit rating agency in India?
+A) CRISIL
+B) AMFI
+C) NABARD
+D) SIDBI
+Answer: A) CRISIL

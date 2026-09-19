@@ -1,0 +1,141 @@
+Direction Sense
+
+Q1. A man walks 5 km toward South and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?
+A) West
+B) South
+C) North-East
+D) South-West
+Answer: D) South-West
+
+Q2. Rahul put his timepiece on the table in such a way that at 6 P.M. the hour hand points to North. In which direction will the minute hand point at 9:15 P.M.?
+A) South-East
+B) South
+C) North
+D) West
+Answer: D) West
+
+Q3. One morning Udai and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Udai, which direction was Udai facing?
+A) East
+B) West
+C) North
+D) South
+Answer: C) North
+
+Q4. Y is in the East of X which is in the North of Z. If P is in the South of Z, then in which direction of Y, is P?
+A) North
+B) South
+C) South-East
+D) South-West
+Answer: D) South-West
+
+Q5. If South-East becomes North, North-East becomes West and so on. What will West become?
+A) North-East
+B) North-West
+C) South-East
+D) South-West
+Answer: C) South-East
+
+Q6. A man walks 1 km to East and then he turns to South and walks 5 km. Again he turns to East and walks 2 km, after this he turns to North and walks 9 km. Now, how far is he from his starting point?
+A) 3 km
+B) 4 km
+C) 5 km
+D) 7 km
+Answer: C) 5 km
+
+Q7. A girl is facing North. She turns 180 degrees in the anti-clockwise direction and then 225 degrees in the clockwise direction. Which direction is she facing now?
+A) East
+B) North-East
+C) North-West
+D) South-West
+Answer: B) North-East
+
+Q8. K is 40 m South-West of L. If M is 40 m South-East of L, then M is in which direction of K?
+A) East
+B) West
+C) North-East
+D) South
+Answer: A) East
+
+Q9. A dog runs 20 m towards East and turns Right, runs 10 m and turns to Right, runs 9 m and again turns to Left, runs 5 m and then turns to Left, runs 12 m and finally turns to Left and runs 6 m. Now which direction is the dog facing?
+A) East
+B) North
+C) West
+D) South
+Answer: B) North
+
+Q10. I am facing East. I turn 100 degrees in the clockwise direction and then 145 degrees in the anti-clockwise direction. Which direction am I facing now?
+A) East
+B) North-East
+C) North
+D) South-West
+Answer: B) North-East
+
+Q11. Rasik walked 20 m towards north. Then he turned right and walks 30 m. Then he turns right and walks 35 m. Then he turns left and walks 15 m. Finally he turns left and walks 15 m. In which direction and how many metres is he from the starting position?
+A) 15 m West
+B) 30 m East
+C) 30 m West
+D) 45 m East
+Answer: D) 45 m East
+
+Q12. Starting from a point, a person walks 12 km North, he turns right and walks 10 km, he again turns right and walks 12 km, then he turns left and walks 5 km. How far is he now and in which direction from the starting point?
+A) 15 km East
+B) 10 km West
+C) 27 km South
+D) 5 km East
+Answer: A) 15 km East
+
+Q13. A man leaves for his office from his house. He walks towards East. After moving a distance of 20 m, he turns South and walks 10 m. Then he walks 35 m towards the West and further 5 m towards the North. He then turns towards East and walks 15 m. What is the straight distance between his initial and final positions?
+A) 0 m
+B) 5 m
+C) 10 m
+D) 15 m
+Answer: B) 5 m
+
+Q14. A clock is so placed that at 12 noon its minute hand points towards North-East. In which direction does its hour hand point at 1:30 P.M.?
+A) North
+B) South
+C) East
+D) West
+Answer: C) East
+
+Q15. Two cars start from the opposite places of a main road, 150 km apart. First car runs for 25 km and takes a right turn and then runs 15 km. It then turns left and then runs for another 25 km and then takes the direction back to reach the main road. In the meantime, due to minor break down the other car has run only 35 km along the main road. What would be the distance between two cars at this point?
+A) 65 km
+B) 75 km
+C) 80 km
+D) 85 km
+Answer: A) 65 km
+
+Q16. Post office is to the east of the school while my house is to the south of the school. The market is to the north of the post office. If the distance of the market from the post office is equal to the distance of my house from the school, in which direction is the market with respect to my school?
+A) North
+B) East
+C) North-East
+D) South-West
+Answer: C) North-East
+
+Q17. A man is facing North-West. He turns 90 degrees in the clockwise direction and then 135 degrees in the anti-clockwise direction. Which direction is he facing now?
+A) East
+B) West
+C) North
+D) South
+Answer: B) West
+
+Q18. Shyam walks 5 km towards East and then turns left and walks 6 km. Again he turns right and walks 9 km. Finally he turns to his right and walks 6 km. How far is he from the starting point?
+A) 14 km
+B) 15 km
+C) 20 km
+D) 26 km
+Answer: A) 14 km
+
+Q19. One evening before sunset Rekha and Hema were talking to each other face to face. If Hema's shadow was exactly to the right of Hema, which direction was Rekha facing?
+A) North
+B) South
+C) East
+D) Data is inadequate
+Answer: B) South
+
+Q20. A child is looking for his father. He went 90 metres in the East before turning to his right. He went 20 metres before turning to his right again to look for his father at his uncle's place 30 metres from this point. His father was not there. From there he went 100 metres to the North before meeting his father in a street. How far did the son meet his father from the starting point?
+A) 80 m
+B) 100 m
+C) 140 m
+D) 260 m
+Answer: B) 100 m

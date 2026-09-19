@@ -1,0 +1,143 @@
+Venn Diagrams
+
+Directions: For each question, select the option that best describes the Venn diagram representing the relationships between the given classes.
+
+Q1. Which of the following Venn diagrams best represents the relationship between the classes: "Weeks, Days, Years"?
+A) Three concentric circles (one inside the other).
+B) Three disjoint circles.
+C) Two disjoint circles inside a larger circle.
+D) Two intersecting circles inside a larger circle.
+Answer: A) Three concentric circles (one inside the other).
+
+Q2. Which of the following Venn diagrams best represents the relationship between the classes: "Men, Fathers, Doctors"?
+A) Two intersecting circles inside a larger circle.
+B) One circle inside another, and a third circle intersecting both.
+C) Three intersecting circles.
+D) Two disjoint circles inside a larger circle.
+Answer: B) One circle inside another, and a third circle intersecting both.
+
+Q3. Which of the following Venn diagrams best represents the relationship between the classes: "Animals, Dogs, Chairs"?
+A) Two disjoint circles inside a larger circle.
+B) One circle inside another, and a third disjoint circle outside.
+C) Three disjoint circles.
+D) Two intersecting circles and a third disjoint circle.
+Answer: B) One circle inside another, and a third disjoint circle outside.
+
+Q4. Which of the following Venn diagrams best represents the relationship between the classes: "Boys, Students, Athletes"?
+A) Three disjoint circles.
+B) Three intersecting circles.
+C) Two intersecting circles inside a larger circle.
+D) One circle inside another, inside a third circle.
+Answer: B) Three intersecting circles.
+
+Q5. Which of the following Venn diagrams best represents the relationship between the classes: "Reptiles, Snakes, Lizards"?
+A) Two intersecting circles inside a larger circle.
+B) Two disjoint circles inside a larger circle.
+C) Three intersecting circles.
+D) One circle inside another, and a third disjoint circle.
+Answer: B) Two disjoint circles inside a larger circle.
+
+Q6. Which of the following Venn diagrams best represents the relationship between the classes: "Women, Mothers, Widows"?
+A) One circle inside another, and a third intersecting both.
+B) Three intersecting circles.
+C) Two intersecting circles inside a larger circle.
+D) One circle inside another, inside a third circle.
+Answer: C) Two intersecting circles inside a larger circle.
+
+Q7. Which of the following Venn diagrams best represents the relationship between the classes: "Travelers, Train, Bus"?
+A) One circle inside another, and a third disjoint circle.
+B) Two disjoint circles, and a third circle intersecting both.
+C) Three intersecting circles.
+D) Two disjoint circles inside a larger circle.
+Answer: B) Two disjoint circles, and a third circle intersecting both.
+
+Q8. Which of the following Venn diagrams best represents the relationship between the classes: "Vegetables, Potatoes, Cabbage"?
+A) Two intersecting circles inside a larger circle.
+B) Two disjoint circles inside a larger circle.
+C) Three disjoint circles.
+D) One circle inside another, inside a third circle.
+Answer: B) Two disjoint circles inside a larger circle.
+
+Q9. Which of the following Venn diagrams best represents the relationship between the classes: "Languages, English, Kannada"?
+A) Two disjoint circles inside a larger circle.
+B) Two intersecting circles inside a larger circle.
+C) Three intersecting circles.
+D) One circle inside another, and a third disjoint circle.
+Answer: A) Two disjoint circles inside a larger circle.
+
+Q10. Which of the following Venn diagrams best represents the relationship between the classes: "Metals, Iron, Chlorine"?
+A) Two disjoint circles inside a larger circle.
+B) One circle inside another, and a third disjoint circle outside.
+C) Three disjoint circles.
+D) Two intersecting circles and a third disjoint circle.
+Answer: B) One circle inside another, and a third disjoint circle outside.
+
+Q11. Which of the following Venn diagrams best represents the relationship between the classes: "Earth, Sea, Sun"?
+A) Three disjoint circles.
+B) One circle inside another, and a third disjoint circle outside.
+C) Two disjoint circles inside a larger circle.
+D) Three intersecting circles.
+Answer: B) One circle inside another, and a third disjoint circle outside.
+
+Q12. Which of the following Venn diagrams best represents the relationship between the classes: "Tennis fans, Cricket players, Students"?
+A) Three intersecting circles.
+B) Two intersecting circles inside a larger circle.
+C) One circle inside another, and a third intersecting both.
+D) Three disjoint circles.
+Answer: A) Three intersecting circles.
+
+Q13. Which of the following Venn diagrams best represents the relationship between the classes: "Flowers, Clothes, White"?
+A) Two disjoint circles, and a third circle intersecting both.
+B) Three intersecting circles.
+C) Two intersecting circles inside a larger circle.
+D) Three disjoint circles.
+Answer: A) Two disjoint circles, and a third circle intersecting both.
+
+Q14. Which of the following Venn diagrams best represents the relationship between the classes: "Mammals, Cows, Crows"?
+A) Two disjoint circles inside a larger circle.
+B) One circle inside another, and a third disjoint circle outside.
+C) Three disjoint circles.
+D) Two intersecting circles and a third disjoint circle.
+Answer: B) One circle inside another, and a third disjoint circle outside.
+
+Q15. Which of the following Venn diagrams best represents the relationship between the classes: "Authors, Teachers, Men"?
+A) Three intersecting circles.
+B) Two intersecting circles inside a larger circle.
+C) One circle inside another, and a third intersecting both.
+D) Two disjoint circles, and a third circle intersecting both.
+Answer: A) Three intersecting circles.
+
+Q16. Which of the following Venn diagrams best represents the relationship between the classes: "Fishes, Snakes, Birds"?
+A) Three disjoint circles.
+B) Two disjoint circles inside a larger circle.
+C) Three intersecting circles.
+D) One circle inside another, and a third disjoint circle.
+Answer: A) Three disjoint circles.
+
+Q17. Which of the following Venn diagrams best represents the relationship between the classes: "Judge, Thieves, Criminals"?
+A) Two intersecting circles inside a larger circle.
+B) One circle inside another, and a third disjoint circle outside.
+C) Two disjoint circles inside a larger circle.
+D) Three disjoint circles.
+Answer: B) One circle inside another, and a third disjoint circle outside.
+
+Q18. Which of the following Venn diagrams best represents the relationship between the classes: "Hospital, Nurse, Patient"?
+A) Two intersecting circles inside a larger circle.
+B) Two disjoint circles inside a larger circle.
+C) One circle inside another, inside a third circle.
+D) Three intersecting circles.
+Answer: B) Two disjoint circles inside a larger circle.
+
+Q19. Which of the following Venn diagrams best represents the relationship between the classes: "Furniture, Chairs, Tables"?
+A) Two intersecting circles inside a larger circle.
+B) Two disjoint circles inside a larger circle.
+C) One circle inside another, and a third disjoint circle.
+D) Three disjoint circles.
+Answer: B) Two disjoint circles inside a larger circle.
+
+Q20. Which of the following Venn diagrams best represents the relationship between the classes: "Husbands, Wives, Family"?
+A) Two intersecting circles inside a larger circle.
+B) Two disjoint circles inside a larger circle.
+C) Three disjoint circles.
+D) One circle inside another, and a third disjoint circle.
+Answer: B) Two disjoint circles inside a larger circle.

@@ -1,0 +1,168 @@
+Data Interpretation
+
+Directions (Q1-Q5): Study the following table and answer the questions.
+The table shows the sales of cars (in thousands) of three different models (A, B, and C) over 5 years.
+Year    Model A    Model B    Model C
+2018    40         50         60
+2019    50         55         75
+2020    60         60         80
+2021    70         80         100
+2022    80         90         110
+
+Q1. What is the total number of Model B cars sold over all five years (in thousands)?
+A) 315
+B) 325
+C) 335
+D) 345
+Answer: C) 335
+
+Q2. What is the ratio of Model A sales in 2018 to Model C sales in 2021?
+A) 2:5
+B) 3:4
+C) 4:7
+D) 1:2
+Answer: A) 2:5
+
+Q3. What is the percentage increase in total car sales (all models combined) from 2020 to 2021?
+A) 15%
+B) 20%
+C) 25%
+D) 30%
+Answer: C) 25%
+
+Q4. In which year was the percentage increase in total car sales the highest compared to the previous year?
+A) 2019
+B) 2020
+C) 2021
+D) 2022
+Answer: C) 2021
+
+Q5. What is the average number of Model C cars sold per year (in thousands)?
+A) 80
+B) 85
+C) 90
+D) 95
+Answer: B) 85
+
+
+Directions (Q6-Q10): A student's monthly expenditure of $1000 is distributed as follows in a pie chart:
+Rent: 30%, Food: 25%, Education: 20%, Entertainment: 15%, Savings: 10%.
+
+Q6. What is the amount spent on Rent?
+A) $200
+B) $250
+C) $300
+D) $350
+Answer: C) $300
+
+Q7. How much more money is spent on Food than on Entertainment?
+A) $50
+B) $100
+C) $150
+D) $200
+Answer: B) $100
+
+Q8. If a pie chart is drawn, what will be the central angle corresponding to the expenditure on Education?
+A) 36 degrees
+B) 54 degrees
+C) 72 degrees
+D) 90 degrees
+Answer: C) 72 degrees
+
+Q9. What is the ratio of expenditure on Education to Savings?
+A) 2:1
+B) 3:1
+C) 3:2
+D) 4:1
+Answer: A) 2:1
+
+Q10. If the student's income increases by 20% next month and the percentage distribution of expenses remains exactly the same, what will be the new monthly Savings?
+A) $100
+B) $110
+C) $120
+D) $150
+Answer: C) $120
+
+
+Directions (Q11-Q15): Study the following data based on a bar graph.
+The data shows the number of students enrolled in 3 different courses (CS, IT, ME) across 4 colleges (P, Q, R, S).
+College P: CS = 120, IT = 100, ME = 80
+College Q: CS = 150, IT = 120, ME = 90
+College R: CS = 100, IT = 90, ME = 110
+College S: CS = 140, IT = 110, ME = 100
+
+Q11. What is the total number of students enrolled in all three courses in College Q?
+A) 340
+B) 350
+C) 360
+D) 380
+Answer: C) 360
+
+Q12. What is the average number of students in the CS course across all 4 colleges?
+A) 115.5
+B) 125.5
+C) 127.5
+D) 130.5
+Answer: C) 127.5
+
+Q13. The number of IT students in College P is what percentage of ME students in College S?
+A) 80%
+B) 90%
+C) 100%
+D) 110%
+Answer: C) 100%
+
+Q14. Which college has the highest total number of enrolled students?
+A) College P
+B) College Q
+C) College R
+D) College S
+Answer: B) College Q
+
+Q15. What is the ratio of ME students in College R to CS students in College P?
+A) 11:12
+B) 9:10
+C) 10:11
+D) 12:13
+Answer: A) 11:12
+
+
+Directions (Q16-Q20): Study the following data based on a line graph.
+The data represents the profits earned (in millions) by two companies X and Y over 5 years (2010 to 2014).
+Company X: 2010 (40), 2011 (50), 2012 (60), 2013 (80), 2014 (100)
+Company Y: 2010 (30), 2011 (40), 2012 (70), 2013 (60), 2014 (90)
+
+Q16. What is the total profit of Company X over the 5 given years (in millions)?
+A) 310
+B) 320
+C) 330
+D) 340
+Answer: C) 330
+
+Q17. In which year is the difference in profits of the two companies the maximum?
+A) 2010
+B) 2012
+C) 2013
+D) 2014
+Answer: C) 2013
+
+Q18. The profit of Company Y in 2012 is what percent of the profit of Company X in 2014?
+A) 60%
+B) 70%
+C) 80%
+D) 90%
+Answer: B) 70%
+
+Q19. What is the ratio of the average profit of Company X to the average profit of Company Y?
+A) 31:27
+B) 33:29
+C) 35:31
+D) 37:33
+Answer: B) 33:29
+
+Q20. What is the percentage increase in the profit of Company Y from 2010 to 2011?
+A) 25%
+B) 30%
+C) 33.33%
+D) 40%
+Answer: C) 33.33%

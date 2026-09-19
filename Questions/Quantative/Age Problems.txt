@@ -1,0 +1,141 @@
+Age Problems
+
+Q1. The present age of a father is 3 years more than three times the age of his son. Three years hence, the father's age will be 10 years more than twice the age of the son. Find the present age of the father.
+A) 30 years
+B) 33 years
+C) 36 years
+D) 39 years
+Answer: B) 33 years
+
+Q2. A man is 24 years older than his son. In two years, his age will be twice the age of his son. The present age of his son is:
+A) 14 years
+B) 18 years
+C) 20 years
+D) 22 years
+Answer: D) 22 years
+
+Q3. The ratio of the present ages of a mother and her daughter is 7:1. Four years ago, the ratio of their ages was 19:1. What will be the mother's age four years from now?
+A) 42 years
+B) 44 years
+C) 46 years
+D) 48 years
+Answer: C) 46 years
+
+Q4. 10 years ago, A was half of B in age. If the ratio of their present ages is 3:4, what will be the total of their present ages?
+A) 25 years
+B) 30 years
+C) 35 years
+D) 40 years
+Answer: C) 35 years
+
+Q5. The sum of the present ages of a father and his son is 60 years. Six years ago, the father's age was five times the age of the son. After 6 years, the son's age will be:
+A) 14 years
+B) 18 years
+C) 20 years
+D) 24 years
+Answer: C) 20 years
+
+Q6. The ratio of the ages of A and B is 4:3. The sum of their ages is 28 years. The ratio of their ages after 8 years will be:
+A) 4:3
+B) 5:4
+C) 6:5
+D) 7:6
+Answer: C) 6:5
+
+Q7. The ages of two persons differ by 16 years. If 6 years ago, the elder one was 3 times as old as the younger one, find their present ages.
+A) 28 and 12 years
+B) 30 and 14 years
+C) 32 and 16 years
+D) 36 and 20 years
+Answer: B) 30 and 14 years
+
+Q8. The present age of a person is two-fifths of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present?
+A) 32 years
+B) 36 years
+C) 40 years
+D) 48 years
+Answer: C) 40 years
+
+Q9. A is two years older than B who is twice as old as C. If the total of the ages of A, B, and C is 27, then how old is B?
+A) 8 years
+B) 9 years
+C) 10 years
+D) 12 years
+Answer: C) 10 years
+
+Q10. Sachin is younger than Rahul by 8 years. If their ages are in the respective ratio of 7:9, how old is Sachin?
+A) 24 years
+B) 28 years
+C) 32 years
+D) 36 years
+Answer: B) 28 years
+
+Q11. The total age of A and B is 12 years more than the total age of B and C. C is how many years younger than A?
+A) 10 years
+B) 12 years
+C) 24 years
+D) Cannot be determined
+Answer: B) 12 years
+
+Q12. The ratio between the school ages of Neelam and Shaan is 5:6 respectively. If the ratio between one-third the age of Neelam and half of Shaan's age is 5:9, then what is the school age of Shaan?
+A) 12 years
+B) 14 years
+C) 18 years
+D) Cannot be determined
+Answer: D) Cannot be determined
+
+Q13. The sum of the ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?
+A) 4 years
+B) 5 years
+C) 6 years
+D) 8 years
+Answer: A) 4 years
+
+Q14. A father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After a further 8 years, how many times would he be of Ronit's age?
+A) 1.5 times
+B) 2 times
+C) 2.5 times
+D) 3 times
+Answer: B) 2 times
+
+Q15. 15 years from now, a man will be 4 times as old as he was 15 years ago. His present age is:
+A) 20 years
+B) 25 years
+C) 30 years
+D) 35 years
+Answer: B) 25 years
+
+Q16. The sum of the ages of a mother and daughter is 50 years. Also, 5 years ago, the mother's age was 7 times the age of the daughter. What are the present ages of the mother and daughter?
+A) 35 and 15 years
+B) 38 and 12 years
+C) 40 and 10 years
+D) 42 and 8 years
+Answer: C) 40 and 10 years
+
+Q17. A's age is 1/6th of B's age. B's age will be twice of C's age after 10 years. If C's eighth birthday was celebrated two years ago, then what is A's present age?
+A) 4 years
+B) 5 years
+C) 6 years
+D) 8 years
+Answer: B) 5 years
+
+Q18. If 6 years are subtracted from the present age of Gagan and the remainder is divided by 18, then the present age of his grandson Anup is obtained. If Anup is 2 years younger to Mahesh whose age is 5 years, then what is the age of Gagan?
+A) 48 years
+B) 54 years
+C) 60 years
+D) 72 years
+Answer: C) 60 years
+
+Q19. The ratio of the present ages of P and Q is 3:4. Five years ago, the ratio of their ages was 5:7. Find their present ages.
+A) 15 and 20 years
+B) 24 and 32 years
+C) 30 and 40 years
+D) 36 and 48 years
+Answer: C) 30 and 40 years
+
+Q20. My brother is 3 years elder to me. My father was 28 years of age when my sister was born while my mother was 26 years of age when I was born. If my sister was 4 years of age when my brother was born, then what was the age of my father when my brother was born?
+A) 30 years
+B) 32 years
+C) 34 years
+D) 36 years
+Answer: B) 32 years

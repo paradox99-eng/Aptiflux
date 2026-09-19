@@ -1,0 +1,28 @@
+| Category                      | Topics                                                            |
+| ----------------------------- | ----------------------------------------------------------------- |
+| Indian History                | Ancient, Medieval and Modern Indian history                       |
+| Indian Geography              | States, rivers, mountains, climate and resources                  |
+| Indian Polity & Constitution  | Constitution, Parliament, President, Supreme Court                |
+| Indian Economy                | GDP, inflation, taxation and economic policies                    |
+| Banking Awareness             | RBI, banking terms, monetary policy and financial services        |
+| Financial Markets             | Stock market, bonds, mutual funds and securities                  |
+| Government Schemes & Policies | Major central government schemes and initiatives                  |
+| World Geography               | Countries, capitals, continents, oceans and physical features     |
+| International Organizations   | UN, IMF, World Bank, WTO and other organizations                  |
+| National Current Affairs      | Major recent events and developments in India                     |
+| International Current Affairs | Major global events and developments                              |
+| Sports & Tournaments          | Major sports, tournaments, players and achievements               |
+| Awards & Honours              | National and international awards                                 |
+| Important Personalities       | Famous personalities, leaders and notable figures                 |
+| Appointments                  | Important national and international appointments                 |
+| General Science               | Physics, chemistry, biology and everyday science                  |
+| Technology & IT               | Computers, internet, software and digital technology              |
+| Artificial Intelligence       | AI, machine learning, generative AI and emerging technologies     |
+| Environment & Ecology         | Climate change, biodiversity, pollution and conservation          |
+| Space & Defence               | ISRO, space missions, defence systems and organizations           |
+| Books & Authors               | Important books, authors and literary works                       |
+| Art, Culture & Heritage       | Indian art, dance, music, festivals and heritage                  |
+| Entertainment & Media         | Films, television, music and major media events                   |
+| Important Days                | National and international days, dates and themes                 |
+| Organizations & Headquarters  | Major national/international organizations and their headquarters |
+| Rankings, Reports & Indexes   | Global rankings, economic reports and important indexes           |

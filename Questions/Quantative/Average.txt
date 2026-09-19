@@ -1,0 +1,141 @@
+Average
+
+Q1. Find the average of the first 50 natural numbers.
+A) 25
+B) 25.5
+C) 26
+D) 26.5
+Answer: B) 25.5
+
+Q2. The average of 5 consecutive numbers is 20. The largest of these numbers is:
+A) 20
+B) 21
+C) 22
+D) 24
+Answer: C) 22
+
+Q3. The average of 11 results is 50. If the average of the first six results is 49 and that of the last six is 52, find the sixth result.
+A) 48
+B) 50
+C) 52
+D) 56
+Answer: D) 56
+
+Q4. The average age of a class of 30 students is 15 years. If the teacher's age is included, the average increases by 1 year. The teacher's age is:
+A) 40 years
+B) 44 years
+C) 46 years
+D) 50 years
+Answer: C) 46 years
+
+Q5. The average of four consecutive even numbers is 27. Find the largest of these numbers.
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: B) 30
+
+Q6. The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?
+A) 76 kg
+B) 76.5 kg
+C) 80 kg
+D) 85 kg
+Answer: D) 85 kg
+
+Q7. In a class, the average score of 20 boys is 70 and the average score of 30 girls is 80. What is the average score of the whole class?
+A) 74
+B) 75
+C) 76
+D) 78
+Answer: C) 76
+
+Q8. A batsman makes a score of 87 runs in the 17th inning and thus increases his average by 3. Find his average after the 17th inning.
+A) 36
+B) 39
+C) 40
+D) 42
+Answer: B) 39
+
+Q9. The average of 5 numbers is 27. If one number is excluded, the average becomes 25. The excluded number is:
+A) 25
+B) 30
+C) 35
+D) 40
+Answer: C) 35
+
+Q10. The average of 10 numbers is 7. If each number is multiplied by 12, then the average of the new set of numbers will be:
+A) 7
+B) 19
+C) 82
+D) 84
+Answer: D) 84
+
+Q11. The average salary of all the workers in a workshop is $8000. The average salary of 7 technicians is $12000 and the average salary of the rest is $6000. The total number of workers in the workshop is:
+A) 20
+B) 21
+C) 22
+D) 23
+Answer: B) 21
+
+Q12. Nine persons went to a hotel for taking their meals. Eight of them spent $12 each on their meals and the ninth spent $8 more than the average expenditure of all the nine. What was the total money spent by them?
+A) $104
+B) $110
+C) $117
+D) $125
+Answer: C) $117
+
+Q13. Out of three numbers, the first is twice the second and is half of the third. If the average of the three numbers is 56, the three numbers in order are:
+A) 48, 24, 96
+B) 48, 96, 24
+C) 24, 48, 96
+D) 96, 24, 48
+Answer: A) 48, 24, 96
+
+Q14. The average age of boys in a class is 16 years and the average age of girls is 15 years. What is the average age of all the students?
+A) 15.5 years
+B) 15.2 years
+C) 15.8 years
+D) Cannot be determined
+Answer: D) Cannot be determined
+
+Q15. The average temperature for Monday, Tuesday, Wednesday, and Thursday was 48 degrees. The average temperature for Tuesday, Wednesday, Thursday, and Friday was 46 degrees. If the temperature on Monday was 42 degrees, find the temperature on Friday.
+A) 34 degrees
+B) 36 degrees
+C) 38 degrees
+D) 40 degrees
+Answer: A) 34 degrees
+
+Q16. A student calculates the average of 10 two-digit numbers. By mistake, he writes one number with its digits reversed and as a result, his average decreases by 1.8. The difference between the digits of the original number is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B) 2
+
+Q17. In an examination, a student's average marks were 63 per paper. If he had obtained 20 more marks for his Geography paper and 2 more marks for his History paper, his average per paper would have been 65. How many papers were there in the examination?
+A) 9
+B) 10
+C) 11
+D) 12
+Answer: C) 11
+
+Q18. The average of 50 numbers is 30. If two numbers, 35 and 40, are discarded, the average of the remaining numbers is nearly:
+A) 28.32
+B) 28.78
+C) 29.27
+D) 29.68
+Answer: D) 29.68
+
+Q19. 3 years ago, the average age of a family of 5 members was 17 years. A baby having been born, the average age of the family is the same today. The present age of the baby is:
+A) 1 year
+B) 2 years
+C) 3 years
+D) 4 years
+Answer: B) 2 years
+
+Q20. A car travels from P to Q at a constant speed of 40 km/hr and returns from Q to P at a constant speed of 60 km/hr. What is the average speed for the entire journey?
+A) 48 km/hr
+B) 50 km/hr
+C) 52 km/hr
+D) 55 km/hr
+Answer: A) 48 km/hr

@@ -1,0 +1,171 @@
+Seating Arrangement
+
+Directions (Q1-Q5): Read the following information carefully and answer the questions given below.
+Six friends P, Q, R, S, T, and U are sitting in a circle facing the center.
+1) P is sitting between T and S.
+2) U is sitting between Q and R.
+3) T is sitting to the immediate right of Q.
+
+Q1. Who is sitting to the immediate left of R?
+A) S
+B) U
+C) P
+D) T
+Answer: A) S
+
+Q2. Who is sitting opposite to U?
+A) P
+B) Q
+C) R
+D) S
+Answer: A) P
+
+Q3. Who is sitting opposite to Q?
+A) P
+B) R
+C) S
+D) T
+Answer: C) S
+
+Q4. Who is sitting exactly between P and Q?
+A) R
+B) S
+C) T
+D) U
+Answer: C) T
+
+Q5. What is the position of R with respect to P?
+A) Third to the right
+B) Second to the right
+C) Immediate left
+D) Second to the left
+Answer: B) Second to the right
+
+
+Directions (Q6-Q10): Read the following information carefully and answer the questions given below.
+Five girls A, B, C, D, and E are sitting in a straight row facing North.
+1) C is sitting exactly between A and E.
+2) D is sitting to the immediate right of E.
+3) B is sitting to the immediate left of A.
+
+Q6. Who is sitting in the middle of the row?
+A) A
+B) B
+C) C
+D) E
+Answer: C) C
+
+Q7. Who is sitting at the extreme right end of the row?
+A) A
+B) C
+C) D
+D) E
+Answer: C) D
+
+Q8. Who is sitting to the immediate left of C?
+A) A
+B) B
+C) D
+D) E
+Answer: A) A
+
+Q9. How many girls are sitting between B and D?
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C) 3
+
+Q10. What is the position of E with respect to A?
+A) Immediate right
+B) Second to the right
+C) Immediate left
+D) Second to the left
+Answer: B) Second to the right
+
+
+Directions (Q11-Q15): Read the following information carefully and answer the questions given below.
+Eight persons A, B, C, D, E, F, G, and H are sitting around a circular table facing the center.
+1) A is second to the left of C and third to the right of F.
+2) B is exactly between A and C.
+3) E is sitting opposite to A.
+4) D is to the immediate right of C.
+5) G is to the immediate left of H, and H is an immediate neighbor of A.
+
+Q11. Who is sitting opposite to C?
+A) F
+B) G
+C) H
+D) E
+Answer: B) G
+
+Q12. Who is sitting third to the right of B?
+A) E
+B) F
+C) G
+D) D
+Answer: A) E
+
+Q13. Who is sitting to the immediate left of F?
+A) D
+B) E
+C) G
+D) H
+Answer: B) E
+
+Q14. How many persons are sitting between D and G when counted in a clockwise direction from D?
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: D) 4
+
+Q15. What is the position of H with respect to E?
+A) Second to the right
+B) Third to the right
+C) Third to the left
+D) Immediate left
+Answer: B) Third to the right
+
+
+Directions (Q16-Q20): Read the following information carefully and answer the questions given below.
+Six people P, Q, R, S, T, and U are sitting in two rows, three in each. Both rows are facing each other. Row 1 is facing South and Row 2 is facing North.
+1) Q is not at the end of any row.
+2) P is second to the left of U.
+3) R, the neighbor of Q, is sitting diagonally opposite to P.
+4) T is a neighbor of U.
+
+Q16. Who is sitting opposite to Q?
+A) P
+B) R
+C) S
+D) T
+Answer: D) T
+
+Q17. Who is sitting opposite to U?
+A) P
+B) Q
+C) R
+D) S
+Answer: C) R
+
+Q18. Who among the following are sitting in the same row?
+A) P and Q
+B) S and R
+C) R and U
+D) T and S
+Answer: B) S and R
+
+Q19. Who is sitting to the immediate right of R?
+A) P
+B) Q
+C) S
+D) U
+Answer: B) Q
+
+Q20. Which of the following pairs are sitting diagonally opposite to each other, other than P and R?
+A) S and U
+B) Q and T
+C) R and T
+D) P and U
+Answer: A) S and U

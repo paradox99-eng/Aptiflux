@@ -1,0 +1,141 @@
+Number Series
+
+Q1. Find the missing number in the series: 2, 6, 12, 20, 30, ?
+A) 38
+B) 40
+C) 42
+D) 44
+Answer: C) 42
+
+Q2. Find the missing number in the series: 7, 10, 8, 11, 9, 12, ?
+A) 7
+B) 10
+C) 12
+D) 13
+Answer: B) 10
+
+Q3. Find the missing number in the series: 36, 34, 30, 28, 24, ?
+A) 20
+B) 22
+C) 23
+D) 26
+Answer: B) 22
+
+Q4. Find the missing number in the series: 1, 1, 2, 6, 24, ?
+A) 48
+B) 96
+C) 104
+D) 120
+Answer: D) 120
+
+Q5. Find the missing number in the series: 53, 53, 40, 40, 27, 27, ?
+A) 12
+B) 14
+C) 27
+D) 53
+Answer: B) 14
+
+Q6. Find the missing number in the series: 22, 21, 23, 22, 24, 23, ?
+A) 22
+B) 24
+C) 25
+D) 26
+Answer: C) 25
+
+Q7. Find the missing number in the series: 8, 27, 64, 125, ?
+A) 196
+B) 216
+C) 225
+D) 256
+Answer: B) 216
+
+Q8. Find the missing number in the series: 5, 11, 23, 47, 95, ?
+A) 190
+B) 191
+C) 193
+D) 199
+Answer: B) 191
+
+Q9. Find the missing number in the series: 2, 3, 5, 7, 11, 13, ?
+A) 14
+B) 15
+C) 17
+D) 19
+Answer: C) 17
+
+Q10. Find the missing number in the series: 1, 9, 25, 49, 81, ?
+A) 100
+B) 121
+C) 144
+D) 169
+Answer: B) 121
+
+Q11. Find the missing number in the series: 14, 28, 20, 40, 32, 64, ?
+A) 52
+B) 56
+C) 72
+D) 96
+Answer: B) 56
+
+Q12. Find the missing number in the series: 3, 4, 7, 8, 11, 12, ?
+A) 13
+B) 14
+C) 15
+D) 16
+Answer: C) 15
+
+Q13. Find the wrong number in the series: 3, 8, 15, 24, 34, 48, 63
+A) 15
+B) 24
+C) 34
+D) 48
+Answer: C) 34
+
+Q14. Find the missing number in the series: 2, 5, 9, 19, 37, ?
+A) 73
+B) 75
+C) 76
+D) 78
+Answer: B) 75
+
+Q15. Find the missing number in the series: 71, 55, 46, 42, ?
+A) 38
+B) 39
+C) 40
+D) 41
+Answer: D) 41
+
+Q16. Find the wrong number in the series: 2, 9, 28, 65, 126, 216, 344
+A) 28
+B) 65
+C) 126
+D) 216
+Answer: D) 216
+
+Q17. Find the missing number in the series: 120, 99, 80, 63, 48, ?
+A) 35
+B) 38
+C) 39
+D) 40
+Answer: A) 35
+
+Q18. Find the missing number in the series: 13, 32, 24, 43, 35, ?, 46, 65, 57, 76
+A) 45
+B) 52
+C) 54
+D) 55
+Answer: C) 54
+
+Q19. Find the missing number in the series: 8, 15, 28, 53, ?
+A) 100
+B) 101
+C) 102
+D) 106
+Answer: C) 102
+
+Q20. Find the missing number in the series: 4, 6, 12, 14, 28, 30, ?
+A) 32
+B) 60
+C) 62
+D) 64
+Answer: B) 60

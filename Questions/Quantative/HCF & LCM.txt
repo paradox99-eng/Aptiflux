@@ -1,0 +1,141 @@
+HCF & LCM
+
+Q1. The HCF of two numbers is 11 and their LCM is 693. If one of the numbers is 77, find the other.
+A) 55
+B) 66
+C) 99
+D) 121
+Answer: C) 99
+
+Q2. Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.
+A) 4
+B) 7
+C) 9
+D) 13
+Answer: A) 4
+
+Q3. The LCM of two numbers is 48. The numbers are in the ratio 2 : 3. The sum of the numbers is:
+A) 28
+B) 32
+C) 40
+D) 64
+Answer: C) 40
+
+Q4. Three numbers are in the ratio of 3 : 4 : 5 and their LCM is 2400. Their HCF is:
+A) 40
+B) 80
+C) 120
+D) 200
+Answer: A) 40
+
+Q5. Find the least number which when divided by 12, 15, 20 and 54 leaves a remainder of 8 in each case.
+A) 504
+B) 536
+C) 544
+D) 548
+Answer: D) 548
+
+Q6. The ratio of two numbers is 3:4 and their HCF is 4. Their LCM is:
+A) 12
+B) 16
+C) 24
+D) 48
+Answer: D) 48
+
+Q7. Find the greatest number of five digits, which is exactly divisible by 12, 15, 18 and 27.
+A) 99360
+B) 99720
+C) 99900
+D) 99940
+Answer: C) 99900
+
+Q8. The product of two co-prime numbers is 117. Their LCM should be:
+A) 1
+B) 9
+C) 13
+D) 117
+Answer: D) 117
+
+Q9. Six bells commence tolling together and toll at intervals of 2, 4, 6, 8, 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together?
+A) 4
+B) 10
+C) 15
+D) 16
+Answer: D) 16
+
+Q10. The HCF of two numbers is 8. Which one of the following can never be their LCM?
+A) 24
+B) 48
+C) 56
+D) 60
+Answer: D) 60
+
+Q11. The HCF of the fractions 9/10, 12/25, 18/35 and 21/40 is:
+A) 3/5
+B) 3/1400
+C) 9/100
+D) 252/5
+Answer: B) 3/1400
+
+Q12. The LCM of the fractions 1/3, 5/6, 2/9 and 4/27 is:
+A) 1/54
+B) 10/27
+C) 20/3
+D) 20/27
+Answer: C) 20/3
+
+Q13. The product of two numbers is 4107. If the HCF of these numbers is 37, then the greater number is:
+A) 111
+B) 185
+C) 222
+D) 333
+Answer: A) 111
+
+Q14. The LCM of two numbers is 495 and their HCF is 5. If the sum of the numbers is 100, then their difference is:
+A) 10
+B) 46
+C) 70
+D) 90
+Answer: A) 10
+
+Q15. Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then the sum of the digits in N is:
+A) 4
+B) 5
+C) 6
+D) 8
+Answer: A) 4
+
+Q16. A rectangular courtyard 3.78 meters long and 5.25 meters wide is to be paved exactly with square tiles of the same size. What is the largest size of the tile which could be used for this purpose?
+A) 14 cm
+B) 21 cm
+C) 42 cm
+D) 63 cm
+Answer: B) 21 cm
+
+Q17. What is the least number which when divided by 5, 6, 7 and 8 leaves a remainder of 3 in each case, but when divided by 9 leaves no remainder?
+A) 1677
+B) 1683
+C) 2523
+D) 3363
+Answer: B) 1683
+
+Q18. Two numbers are in the ratio 3:4. If their LCM is 240, the smaller of the two numbers is:
+A) 30
+B) 40
+C) 60
+D) 80
+Answer: C) 60
+
+Q19. The HCF of two numbers is 23 and the other two factors of their LCM are 13 and 14. The larger of the two numbers is:
+A) 276
+B) 299
+C) 322
+D) 345
+Answer: C) 322
+
+Q20. Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.
+A) 127
+B) 133
+C) 235
+D) 305
+Answer: A) 127

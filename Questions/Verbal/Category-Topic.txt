@@ -1,0 +1,23 @@
+| Category                 | Topics                              |
+| ------------------------ | ----------------------------------- |
+| Vocabulary               | Word meanings and usage             |
+| Synonyms                 | Similar meanings                    |
+| Antonyms                 | Opposite meanings                   |
+| One-Word Substitution    | Replacing phrases with single words |
+| Idioms & Phrases         | Common expressions                  |
+| Spelling                 | Correct and incorrect spellings     |
+| Sentence Completion      | Completing sentences                |
+| Fill in the Blanks       | Grammar and vocabulary              |
+| Error Detection          | Finding grammatical errors          |
+| Sentence Correction      | Correcting sentences                |
+| Sentence Improvement     | Improving sentence structure        |
+| Para Jumbles             | Rearranging sentences               |
+| Reading Comprehension    | Understanding passages              |
+| Cloze Test               | Completing passages                 |
+| Active & Passive Voice   | Voice transformation                |
+| Direct & Indirect Speech | Speech transformation               |
+| Tenses                   | Present, past, and future           |
+| Articles                 | A, an, and the                      |
+| Prepositions             | Correct preposition usage           |
+| Subject-Verb Agreement   | Grammar agreement                   |
+| Conjunctions             | Joining words and clauses           |

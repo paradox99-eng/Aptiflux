@@ -1,0 +1,141 @@
+Profit & Loss
+
+Q1. The cost price of an article is $400 and the selling price is $500. What is the profit percentage?
+A) 20%
+B) 25%
+C) 30%
+D) 33.33%
+Answer: B) 25%
+
+Q2. By selling an article for $270, a merchant incurs a loss of 10%. At what price should he sell it to make a profit of 20%?
+A) $300
+B) $330
+C) $350
+D) $360
+Answer: D) $360
+
+Q3. A shopkeeper claims to sell goods at his cost price but uses a false weight of 900g instead of 1kg. What is his actual gain percentage?
+A) 10%
+B) 11.11%
+C) 12.5%
+D) 9%
+Answer: B) 11.11%
+
+Q4. If the cost price of 12 items is equal to the selling price of 10 items, what is the profit percentage?
+A) 16.66%
+B) 20%
+C) 25%
+D) 30%
+Answer: B) 20%
+
+Q5. Successive discounts of 20% and 10% are equivalent to a single discount of:
+A) 28%
+B) 30%
+C) 32%
+D) 25%
+Answer: A) 28%
+
+Q6. A man bought an item at a 25% discount on the marked price. He sold it at 10% more than the marked price. What is his profit percentage?
+A) 35%
+B) 40%
+C) 46.66%
+D) 50%
+Answer: C) 46.66%
+
+Q7. A merchant buys lemons at 6 for $5 and sells them at 5 for $6. What is his gain percentage?
+A) 20%
+B) 30%
+C) 40%
+D) 44%
+Answer: D) 44%
+
+Q8. The selling price of an article after two successive discounts of 10% and 20% is $720. What is the marked price?
+A) $900
+B) $1000
+C) $1100
+D) $1200
+Answer: B) $1000
+
+Q9. A trader mixes 26 kg of rice at $20/kg with 30 kg of rice at $36/kg and sells the mixture at $30/kg. What is his profit percentage?
+A) 5%
+B) 8%
+C) 10%
+D) 12.5%
+Answer: A) 5%
+
+Q10. If a person sells an article for $3400, he loses 15%. What is the cost price of the article?
+A) $3800
+B) $4000
+C) $4200
+D) $4500
+Answer: B) $4000
+
+Q11. When an article is sold for $116, the profit percent is thrice as much as when it is sold for $92. The cost price of the article is:
+A) $68
+B) $72
+C) $78
+D) $80
+Answer: D) $80
+
+Q12. A man sells two articles for $5000 each. On one he gains 20% and on the other he loses 20%. Find his overall gain or loss percent.
+A) 4% gain
+B) 4% loss
+C) 2% loss
+D) No gain, no loss
+Answer: B) 4% loss
+
+Q13. The ratio of the cost price and the selling price of an article is 4:5. The profit percent is:
+A) 10%
+B) 15%
+C) 20%
+D) 25%
+Answer: D) 25%
+
+Q14. An article is marked 30% above its cost price. If a discount of 10% is allowed on the marked price, then the profit percent is:
+A) 15%
+B) 17%
+C) 20%
+D) 22%
+Answer: B) 17%
+
+Q15. By selling 45 lemons for $40, a man loses 20%. How many lemons should he sell for $24 to gain 20%?
+A) 16
+B) 18
+C) 20
+D) 22
+Answer: B) 18
+
+Q16. A shopkeeper allows a discount of 15% on the marked price. How much above the cost price must he mark his goods to gain 19%?
+A) 25%
+B) 30%
+C) 35%
+D) 40%
+Answer: D) 40%
+
+Q17. If a discount of 20% is given on the marked price of a book, the publisher gains 20%. If the discount is increased to 30%, what will be the gain percent?
+A) 5%
+B) 8%
+C) 10%
+D) 12%
+Answer: A) 5%
+
+Q18. If the selling price of an article is doubled, the profit triples. What is the original profit percent?
+A) 50%
+B) 75%
+C) 100%
+D) 125%
+Answer: C) 100%
+
+Q19. A dishonest dealer professes to sell his goods at cost price, but he uses a weight of 960 grams for the 1 kg weight. Find his gain percent.
+A) 4%
+B) 4.16%
+C) 5%
+D) 5.25%
+Answer: B) 4.16%
+
+Q20. Even after allowing a discount of 11.11% on the marked price, a trader makes a profit of 14.28%. By what percent is the marked price above the cost price?
+A) 20.5%
+B) 25%
+C) 28.56%
+D) 33.33%
+Answer: C) 28.56%

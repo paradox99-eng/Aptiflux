@@ -1,0 +1,28 @@
+| Category                | Topics                                        |
+| ----------------------- | --------------------------------------------- |
+| Number Series           | Missing numbers, pattern recognition          |
+| Alphabet Series         | Alphabetical patterns                         |
+| Coding-Decoding         | Letter and number coding                      |
+| Blood Relations         | Family relationships                          |
+| Direction Sense         | Directions and distances                      |
+| Ranking & Order         | Position and ranking                          |
+| Syllogism               | Statements and conclusions                    |
+| Statement & Assumption  | Identifying assumptions                       |
+| Statement & Conclusion  | Logical conclusions                           |
+| Statement & Argument    | Strong and weak arguments                     |
+| Analogy                 | Word and number relationships                 |
+| Classification          | Odd one out                                   |
+| Venn Diagrams           | Set relationships                             |
+| Seating Arrangement     | Linear and circular seating                   |
+| Puzzles                 | Logical arrangement problems                  |
+| Data Sufficiency        | Determining whether information is sufficient |
+| Clock Problems          | Angles and time                               |
+| Calendar Problems       | Days and dates                                |
+| Mathematical Operations | Symbol-based operations                       |
+| Non-Verbal Reasoning    | Visual patterns and figures                   |
+| Mirror Images           | Mirror reflections                            |
+| Water Images            | Water reflections                             |
+| Paper Folding           | Folding and unfolding                         |
+| Figure Completion       | Completing patterns                           |
+| Embedded Figures        | Finding hidden shapes                         |
+| Cubes and Dice          | Cube rotations and dice problems              |

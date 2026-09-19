@@ -1,0 +1,26 @@
+| Category                  | Topics                                                    |
+| ------------------------- | --------------------------------------------------------- |
+| Number System             | Divisibility, factors, multiples, unit digits, remainders |
+| HCF & LCM                 | Highest common factor, least common multiple              |
+| Simplification            | BODMAS, fractions, decimals                               |
+| Percentage                | Basic percentage, percentage change                       |
+| Profit & Loss             | Cost price, selling price, discounts                      |
+| Simple Interest           | Interest and principal calculations                       |
+| Compound Interest         | Compound interest, growth                                 |
+| Ratio & Proportion        | Ratios, direct and inverse proportion                     |
+| Average                   | Basic and weighted averages                               |
+| Age Problems              | Present, past, and future ages                            |
+| Time & Work               | Work efficiency, combined work                            |
+| Pipes & Cisterns          | Filling and emptying tanks                                |
+| Time, Speed & Distance    | Speed, distance, relative speed                           |
+| Trains                    | Train crossing problems                                   |
+| Boats & Streams           | Upstream and downstream                                   |
+| Mixture & Alligation      | Mixtures, replacement problems                            |
+| Partnership               | Profit-sharing problems                                   |
+| Algebra                   | Equations, identities, expressions                        |
+| Geometry                  | Lines, angles, triangles, circles                         |
+| Mensuration               | Area, perimeter, volume                                   |
+| Permutation & Combination | Arrangements and selections                               |
+| Probability               | Basic probability                                         |
+| Data Interpretation       | Tables, bar graphs, pie charts, line graphs               |
+| Sequence & Series         | Number sequences, arithmetic and geometric progressions   |

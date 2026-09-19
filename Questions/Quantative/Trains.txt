@@ -1,0 +1,141 @@
+Trains
+
+Q1. A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?
+A) 120 m
+B) 150 m
+C) 180 m
+D) 210 m
+Answer: B) 150 m
+
+Q2. A train 120 meters long is running with a speed of 60 km/hr. In what time will it pass a boy who is running at 6 km/hr in the direction opposite to that in which the train is going?
+A) 5.54 seconds
+B) 6.54 seconds
+C) 7.24 seconds
+D) 8.54 seconds
+Answer: B) 6.54 seconds
+
+Q3. Two trains 200 m and 150 m long are running on parallel rails at the rate of 40 km/hr and 45 km/hr respectively. In how much time will they cross each other, if they are running in the same direction?
+A) 72 seconds
+B) 132 seconds
+C) 192 seconds
+D) 252 seconds
+Answer: D) 252 seconds
+
+Q4. A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?
+A) 40 seconds
+B) 42 seconds
+C) 45 seconds
+D) 48 seconds
+Answer: A) 40 seconds
+
+Q5. Two trains are moving in opposite directions at 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:
+A) 36 seconds
+B) 45 seconds
+C) 48 seconds
+D) 54 seconds
+Answer: C) 48 seconds
+
+Q6. A train crosses a platform 100 m long in 60 seconds at a speed of 45 km/hr. The time taken by the train to cross an electric pole is:
+A) 48 seconds
+B) 52 seconds
+C) 54 seconds
+D) 58 seconds
+Answer: B) 52 seconds
+
+Q7. A train traveling at a speed of 75 mph enters a tunnel 3.5 miles long. The train is 1/4 mile long. How long does it take for the train to pass completely through the tunnel?
+A) 2.5 minutes
+B) 3 minutes
+C) 3.5 minutes
+D) 4 minutes
+Answer: B) 3 minutes
+
+Q8. Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is:
+A) 50 m
+B) 72 m
+C) 80 m
+D) 82 m
+Answer: A) 50 m
+
+Q9. A train passes two persons walking in the same direction at a speed of 3 km/hr and 5 km/hr respectively in 10 seconds and 11 seconds respectively. The speed of the train is:
+A) 24 km/hr
+B) 25 km/hr
+C) 27 km/hr
+D) 28 km/hr
+Answer: B) 25 km/hr
+
+Q10. A train 150 m long takes 20 seconds to cross a platform 450 m long. The speed of the train in km/hr is:
+A) 90 km/hr
+B) 96 km/hr
+C) 105 km/hr
+D) 108 km/hr
+Answer: D) 108 km/hr
+
+Q11. A train crosses a bridge of length 150 m in 15 seconds and a man standing on it in 9 seconds. The train is traveling at a uniform speed. Length of the train is:
+A) 200 m
+B) 225 m
+C) 250 m
+D) 280 m
+Answer: B) 225 m
+
+Q12. Two stations A and B are 110 km apart on a straight line. One train starts from A at 7 a.m. and travels towards B at 20 km/hr. Another train starts from B at 8 a.m. and travels towards A at a speed of 25 km/hr. At what time will they meet?
+A) 9:00 a.m.
+B) 10:00 a.m.
+C) 10:30 a.m.
+D) 11:00 a.m.
+Answer: B) 10:00 a.m.
+
+Q13. A train speeds past a pole in 15 seconds and a platform 100 m long in 25 seconds. Its length is:
+A) 100 m
+B) 120 m
+C) 150 m
+D) 175 m
+Answer: C) 150 m
+
+Q14. The length of the bridge, which a train 130 meters long and travelling at 45 km/hr can cross in 30 seconds, is:
+A) 200 m
+B) 225 m
+C) 245 m
+D) 250 m
+Answer: C) 245 m
+
+Q15. Two trains, each 100 m long, moving in opposite directions, cross each other in 8 seconds. If one is moving twice as fast as the other, then the speed of the faster train is:
+A) 30 km/hr
+B) 45 km/hr
+C) 60 km/hr
+D) 75 km/hr
+Answer: C) 60 km/hr
+
+Q16. A train 110 meters long is running with a speed of 60 km/hr. In what time will it pass a man who is running at 6 km/hr in the direction opposite to that in which the train is going?
+A) 5 seconds
+B) 6 seconds
+C) 7 seconds
+D) 8 seconds
+Answer: B) 6 seconds
+
+Q17. A train 800 meters long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute, then the length of the tunnel is:
+A) 130 m
+B) 360 m
+C) 500 m
+D) 540 m
+Answer: C) 500 m
+
+Q18. Two trains are running in opposite directions with the same speed. If the length of each train is 120 meters and they cross each other in 12 seconds, then the speed of each train (in km/hr) is:
+A) 10 km/hr
+B) 18 km/hr
+C) 36 km/hr
+D) 72 km/hr
+Answer: C) 36 km/hr
+
+Q19. A 270 meters long train running at the speed of 120 km/hr crosses another train running in opposite direction at the speed of 80 km/hr in 9 seconds. What is the length of the other train?
+A) 230 m
+B) 240 m
+C) 260 m
+D) 320 m
+Answer: A) 230 m
+
+Q20. A goods train runs at the speed of 72 km/hr and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?
+A) 230 m
+B) 240 m
+C) 260 m
+D) 270 m
+Answer: D) 270 m

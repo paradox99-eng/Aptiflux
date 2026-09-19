@@ -1,0 +1,141 @@
+Mensuration
+
+Q1. The length of a rectangle is twice its breadth. If its perimeter is 72 cm, the area of the rectangle is:
+A) 144 sq cm
+B) 256 sq cm
+C) 288 sq cm
+D) 324 sq cm
+Answer: C) 288 sq cm
+
+Q2. The area of a square is 144 sq cm. The length of its diagonal is:
+A) 12 cm
+B) 12√2 cm
+C) 24 cm
+D) 24√2 cm
+Answer: B) 12√2 cm
+
+Q3. The area of an equilateral triangle is 16√3 sq cm. Its perimeter is:
+A) 12 cm
+B) 18 cm
+C) 24 cm
+D) 30 cm
+Answer: C) 24 cm
+
+Q4. The circumference of a circle is 44 cm. Its area is (Take pi = 22/7):
+A) 154 sq cm
+B) 176 sq cm
+C) 308 sq cm
+D) 616 sq cm
+Answer: A) 154 sq cm
+
+Q5. A room is 15 m long and 10 m broad. Find the cost of carpeting it at the rate of $5 per sq m.
+A) $500
+B) $650
+C) $750
+D) $1000
+Answer: C) $750
+
+Q6. Find the volume of a cube whose total surface area is 150 sq cm.
+A) 25 cubic cm
+B) 64 cubic cm
+C) 125 cubic cm
+D) 216 cubic cm
+Answer: C) 125 cubic cm
+
+Q7. The volume of a cylinder is 3080 cubic cm and its height is 20 cm. Find the radius of its base (Take pi = 22/7).
+A) 7 cm
+B) 10 cm
+C) 14 cm
+D) 21 cm
+Answer: A) 7 cm
+
+Q8. The curved surface area of a cone is 550 sq cm. If its slant height is 25 cm, find the radius of its base (Take pi = 22/7).
+A) 5 cm
+B) 7 cm
+C) 10 cm
+D) 14 cm
+Answer: B) 7 cm
+
+Q9. A sphere has a volume of 38808 cubic cm. Its radius is (Take pi = 22/7):
+A) 14 cm
+B) 21 cm
+C) 28 cm
+D) 35 cm
+Answer: B) 21 cm
+
+Q10. Find the volume of a right circular cone with a base radius of 6 cm and height of 7 cm (Take pi = 22/7).
+A) 132 cubic cm
+B) 264 cubic cm
+C) 396 cubic cm
+D) 792 cubic cm
+Answer: B) 264 cubic cm
+
+Q11. The diagonal of a rectangle is √41 cm and its area is 20 sq cm. The perimeter of the rectangle is:
+A) 9 cm
+B) 18 cm
+C) 20 cm
+D) 41 cm
+Answer: B) 18 cm
+
+Q12. If the radius of a circle is increased by 50%, its area will increase by:
+A) 50%
+B) 75%
+C) 100%
+D) 125%
+Answer: D) 125%
+
+Q13. The length of the longest pole that can be placed in a room 12 m long, 9 m broad and 8 m high is:
+A) 15 m
+B) 17 m
+C) 21 m
+D) 29 m
+Answer: B) 17 m
+
+Q14. The ratio of the volumes of two spheres is 8:27. The ratio of their surface areas is:
+A) 2:3
+B) 4:9
+C) 8:27
+D) 16:81
+Answer: B) 4:9
+
+Q15. A rectangular plot measuring 90 meters by 50 meters is to be enclosed by wire fencing. If the poles of the fence are kept 5 meters apart, how many poles will be needed?
+A) 55
+B) 56
+C) 57
+D) 58
+Answer: B) 56
+
+Q16. Find the total surface area of a solid hemisphere of radius 14 cm (Take pi = 22/7).
+A) 1232 sq cm
+B) 1848 sq cm
+C) 2464 sq cm
+D) 3696 sq cm
+Answer: B) 1848 sq cm
+
+Q17. Three solid metallic spheres of radii 3 cm, 4 cm, and 5 cm are melted to form a single solid sphere. The radius of the new sphere is:
+A) 6 cm
+B) 7 cm
+C) 8 cm
+D) 12 cm
+Answer: A) 6 cm
+
+Q18. The area of a rhombus is 150 sq cm. If one of its diagonals is 15 cm, the length of the other diagonal is:
+A) 10 cm
+B) 15 cm
+C) 20 cm
+D) 25 cm
+Answer: C) 20 cm
+
+Q19. A copper wire when bent in the form of a square encloses an area of 121 sq cm. If the same wire is bent into the form of a circle, the area of the circle is (Take pi = 22/7):
+A) 121 sq cm
+B) 132 sq cm
+C) 154 sq cm
+D) 176 sq cm
+Answer: C) 154 sq cm
+
+Q20. What is the volume of a rectangular box measuring 3 m long, 2 m wide, and 1.5 m high?
+A) 6 cubic m
+B) 7.5 cubic m
+C) 9 cubic m
+D) 12 cubic m
+Answer: C) 9 cubic m

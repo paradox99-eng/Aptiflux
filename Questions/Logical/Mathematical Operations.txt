@@ -1,0 +1,141 @@
+Mathematical Operations
+
+Q1. If '+' means '-', '-' means '*', '*' means '/' and '/' means '+', then what is the value of: 10 * 2 / 5 - 3 + 4 ?
+A) 12
+B) 16
+C) 20
+D) 24
+Answer: B) 16
+
+Q2. If 'P' denotes 'multiplied by', 'T' denotes 'subtracted from', 'M' denotes 'added to' and 'B' denotes 'divided by', then 28 B 7 P 8 T 6 M 4 = ?
+A) 28
+B) 30
+C) 32
+D) 34
+Answer: B) 30
+
+Q3. If 'x' means '+', '-' means 'x', '/' means '-' and '+' means '/', then what is the value of: 15 - 5 / 20 + 4 x 6 ?
+A) 68
+B) 72
+C) 76
+D) 82
+Answer: C) 76
+
+Q4. If 'A' stands for '+', 'B' stands for '-', 'C' stands for '*' and 'D' stands for '/', then what is the value of: 16 D 4 C 3 A 8 B 2 ?
+A) 12
+B) 16
+C) 18
+D) 20
+Answer: C) 18
+
+Q5. If '+' means 'divided by', '-' means 'added to', '*' means 'subtracted from' and '/' means 'multiplied by', then what is the value of: 24 / 12 - 18 + 9 * 5 ?
+A) 275
+B) 280
+C) 285
+D) 290
+Answer: C) 285
+
+Q6. Which of the following interchanges of signs would make the given equation correct? 5 + 3 x 8 - 12 / 4 = 3
+A) + and -
+B) - and /
+C) + and x
+D) x and /
+Answer: B) - and /
+
+Q7. If 'L' stands for '+', 'M' stands for '-', 'N' stands for 'x', 'P' stands for '/', then 14 N 10 L 42 P 2 M 8 = ?
+A) 141
+B) 153
+C) 160
+D) 165
+Answer: B) 153
+
+Q8. If '-' stands for addition, '+' stands for subtraction, '/' stands for multiplication and '*' stands for division, then which one of the following equations is correct?
+A) 20 * 4 - 6 + 2 / 5 = 1
+B) 20 - 4 + 6 * 2 / 5 = 1
+C) 20 + 4 / 6 - 2 * 5 = 1
+D) 20 / 4 - 6 * 2 + 5 = 1
+Answer: A) 20 * 4 - 6 + 2 / 5 = 1
+
+Q9. If 'R' stands for 'divided by', 'T' stands for 'added to', 'W' stands for 'subtracted from' and 'F' stands for 'multiplied by', then 15 F 2 T 9 R 3 W 6 = ?
+A) 23
+B) 25
+C) 27
+D) 29
+Answer: C) 27
+
+Q10. If '+' means 'x', '-' means '/', 'x' means '-' and '/' means '+', then 16 / 4 + 2 - 1 x 3 = ?
+A) 19
+B) 21
+C) 23
+D) 25
+Answer: B) 21
+
+Q11. If '$' means '+', '#' means '-', '@' means '*' and '%' means '/', then what is the value of: 40 % 8 @ 5 $ 12 # 7 ?
+A) 25
+B) 28
+C) 30
+D) 35
+Answer: C) 30
+
+Q12. If 'Q' means 'add to', 'J' means 'multiply by', 'T' means 'subtract from' and 'K' means 'divide by', then 30 K 2 Q 3 J 6 T 5 = ?
+A) 22
+B) 24
+C) 26
+D) 28
+Answer: D) 28
+
+Q13. Which sequence of mathematical symbols can replace * in the given equation to make it correct? 8 * 5 * 2 * 72 * 4
+A) x, +, =, /
+B) x, -, =, /
+C) +, x, =, /
+D) +, -, =, /
+Answer: C) +, x, =, /
+
+Q14. If 'A' means 'subtract', 'B' means 'multiply', 'C' means 'add', and 'D' means 'divide', then 27 D 9 B 5 C 12 A 8 = ?
+A) 17
+B) 19
+C) 21
+D) 23
+Answer: B) 19
+
+Q15. If '+' means '-', '-' means 'x', 'x' means '/' and '/' means '+', then 45 x 5 - 3 + 12 / 8 = ?
+A) 19
+B) 21
+C) 23
+D) 25
+Answer: C) 23
+
+Q16. If 'a' means '+', 'b' means '-', 'c' means 'x' and 'd' means '/', then 18 c 4 a 12 b 6 d 2 = ?
+A) 79
+B) 81
+C) 83
+D) 85
+Answer: B) 81
+
+Q17. If '<' means '-', '>' means '+', '=' means '*', and '$' means '/', then what is the value of 27 > 81 $ 9 < 6 = 2 ?
+A) 22
+B) 24
+C) 26
+D) 28
+Answer: B) 24
+
+Q18. If P = 6, J = 4, L = 8, M = 24, then which of the following is true?
+A) M x J / L = P
+B) M / L x J = P
+C) M / L + J = P
+D) M / P + J = L
+Answer: D) M / P + J = L
+
+Q19. If 'w' means 'added to', 'x' means 'subtracted from', 'y' means 'divided by', and 'z' means 'multiplied by', then 16 z 3 w 4 y 2 x 5 = ?
+A) 41
+B) 43
+C) 45
+D) 47
+Answer: C) 45
+
+Q20. If 'X' means '+', 'Z' means '/', 'Y' means '-', and 'W' means '*', then what will be the result of: 10 W 5 X 20 Z 4 Y 8 ?
+A) 45
+B) 47
+C) 49
+D) 51
+Answer: B) 47

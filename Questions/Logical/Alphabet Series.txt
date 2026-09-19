@@ -1,0 +1,141 @@
+Alphabet Series
+
+Q1. Find the next term in the series: A, C, E, G, ?
+A) H
+B) I
+C) J
+D) K
+Answer: B) I
+
+Q2. Find the next term in the series: Z, X, V, T, R, ?
+A) O
+B) P
+C) Q
+D) S
+Answer: B) P
+
+Q3. Find the next term in the series: B, D, F, I, L, P, ?
+A) R
+B) S
+C) T
+D) U
+Answer: C) T
+
+Q4. Find the next term in the series: QAR, RAS, SAT, TAU, ?
+A) UAV
+B) UAT
+C) TAS
+D) TAT
+Answer: A) UAV
+
+Q5. Find the missing term in the series: SCD, TEF, UGH, ?, WKL
+A) CMN
+B) UJI
+C) VIJ
+D) IJT
+Answer: C) VIJ
+
+Q6. Find the next term in the series: F, A, G, G, H, A, I, I, ?
+A) J
+B) K
+C) H
+D) A
+Answer: A) J
+
+Q7. Find the missing term in the series: DEF, HIJ, MNO, ?
+A) QRS
+B) RST
+C) STU
+D) TUV
+Answer: C) STU
+
+Q8. Find the next term in the series: Y, B, T, G, O, ?
+A) N
+B) M
+C) L
+D) K
+Answer: C) L
+
+Q9. Find the missing term in the series: CMM, EOO, GQQ, ?, KUU
+A) GRR
+B) ISS
+C) ITT
+D) JSS
+Answer: B) ISS
+
+Q10. Find the next term in the series: A, Z, C, X, E, V, ?
+A) G
+B) T
+C) H
+D) U
+Answer: A) G
+
+Q11. Find the missing term in the series: JAK, KBL, LCM, MDN, ?
+A) OEP
+B) NEO
+C) MEN
+D) PFQ
+Answer: B) NEO
+
+Q12. Find the missing term in the series: POQ, SRT, VUW, ?
+A) XYZ
+B) XZY
+C) YXZ
+D) YZX
+Answer: C) YXZ
+
+Q13. What will come in place of the question mark? BZA, DYC, FXE, ?, JVI
+A) HWG
+B) HUG
+C) WHG
+D) GUH
+Answer: A) HWG
+
+Q14. Find the next term in the series: ELFA, GLHA, ILJA, ?, MLNA
+A) KLKA
+B) KLMA
+C) KLLA
+D) KLLM
+Answer: C) KLLA
+
+Q15. Find the missing group of letters: AB, DEF, HIJK, ?, STUVWX
+A) LMNO
+B) LMNOP
+C) MNOPQ
+D) NOPQR
+Answer: C) MNOPQ
+
+Q16. Find the next term in the series: Z, W, S, P, L, I, E, ?
+A) B
+B) C
+C) D
+D) F
+Answer: A) B
+
+Q17. Find the missing term in the series: QPO, NML, KJI, ?, EDC
+A) HGF
+B) CAB
+C) JKL
+D) GHI
+Answer: A) HGF
+
+Q18. Find the next term in the series: C, Z, F, X, I, V, L, T, O, ?
+A) P
+B) Q
+C) R
+D) S
+Answer: C) R
+
+Q19. Find the next term in the series: WFB, TGD, QHG, ?
+A) NIJ
+B) NIK
+C) NJK
+D) OIK
+Answer: B) NIK
+
+Q20. Find the next term in the series: AYBXC, DWEVF, GUHTI, ?
+A) JSKRL
+B) JSKQL
+C) JTKRL
+D) JSKQM
+Answer: A) JSKRL

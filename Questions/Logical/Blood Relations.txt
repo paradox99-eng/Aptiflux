@@ -1,0 +1,141 @@
+Blood Relations
+
+Q1. Pointing to a photograph, a man said, "I have no brother or sister but that man's father is my father's son." Whose photograph was it?
+A) His own
+B) His son's
+C) His father's
+D) His grandfather's
+Answer: B) His son's
+
+Q2. Pointing to a photograph of a boy, Suresh said, "He is the son of the only son of my mother." How is Suresh related to that boy?
+A) Brother
+B) Uncle
+C) Cousin
+D) Father
+Answer: D) Father
+
+Q3. Introducing a boy, a girl said, "He is the son of the daughter of the father of my uncle." How is the boy related to the girl?
+A) Brother
+B) Nephew
+C) Uncle
+D) Son-in-law
+Answer: A) Brother
+
+Q4. A is the mother of B and C. If D is the husband of C, what is A to D?
+A) Mother
+B) Sister
+C) Aunt
+D) Mother-in-law
+Answer: D) Mother-in-law
+
+Q5. Pointing to a woman, a man said, "Her father is the only son of my father." How is the man related to the woman?
+A) Brother
+B) Father
+C) Grandfather
+D) Uncle
+Answer: B) Father
+
+Q6. A man points to a lady and says, "The son of her only brother is the brother of my wife." How is the lady related to the man?
+A) Mother's sister
+B) Grandmother
+C) Sister of father-in-law
+D) Mother-in-law
+Answer: C) Sister of father-in-law
+
+Q7. If A + B means A is the brother of B; A x B means A is the father of B; A ÷ B means A is the mother of B, which of the following would mean M is the son of P?
+A) P x M ÷ N
+B) P + M x N
+C) P ÷ M + N
+D) P x M + N
+Answer: D) P x M + N
+
+Q8. A is the father of B. C is the daughter of B. D is the brother of B. E is the son of A. What is the relationship between C and E?
+A) Brother and sister
+B) Cousins
+C) Niece and uncle
+D) Aunt and nephew
+Answer: C) Niece and uncle
+
+Q9. Pointing to a gentleman, Deepak said, "His only brother is the father of my daughter's father." How is the gentleman related to Deepak?
+A) Grandfather
+B) Father
+C) Brother-in-law
+D) Uncle
+Answer: D) Uncle
+
+Q10. If X is the brother of the son of Y's son, how is X related to Y?
+A) Son
+B) Brother
+C) Grandson
+D) Nephew
+Answer: C) Grandson
+
+Q11. Introducing a woman, a man said, "She is the only daughter of my wife's grandfather." How is the woman related to the man?
+A) Mother
+B) Mother-in-law
+C) Sister
+D) Aunt
+Answer: B) Mother-in-law
+
+Q12. Q's mother is the sister of P and daughter of M. S is the daughter of P and sister of T. How is M related to T?
+A) Grandmother or Grandfather
+B) Father or Mother
+C) Uncle or Aunt
+D) Brother or Sister
+Answer: A) Grandmother or Grandfather
+
+Q13. A is B's sister. C is B's mother. D is C's father. E is D's mother. Then, how is A related to D?
+A) Grandmother
+B) Grandfather
+C) Daughter
+D) Granddaughter
+Answer: D) Granddaughter
+
+Q14. Pointing to a boy, a woman said, "His mother is the only daughter of my mother." How is the woman related to the boy?
+A) Mother
+B) Sister
+C) Aunt
+D) Grandmother
+Answer: A) Mother
+
+Q15. P is the brother of Q and R. S is R's mother. T is P's father. Which of the following statements cannot be definitely true?
+A) T is Q's father
+B) S is P's mother
+C) P is S's son
+D) Q is T's son
+Answer: D) Q is T's son
+
+Q16. A man said to a lady, "Your mother's husband's sister is my aunt." How is the lady related to the man?
+A) Daughter
+B) Granddaughter
+C) Mother
+D) Sister
+Answer: D) Sister
+
+Q17. Pointing to a photograph, a lady tells Ram, "I am the only daughter of this lady and her son is your maternal uncle." How is the speaker related to Ram's father?
+A) Sister-in-law
+B) Wife
+C) Sister
+D) Mother
+Answer: B) Wife
+
+Q18. A family consists of six members A, B, C, D, E and F. B is the son of C but C is not the mother of B. A and C are a married couple. E is the brother of C. D is the daughter of A. F is the brother of A. Who is the mother of B?
+A) A
+B) C
+C) D
+D) E
+Answer: A) A
+
+Q19. In the family described in Q18, how many male members are there?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C) 4
+
+Q20. Pointing to a person, a man said to a woman, "His mother is the only daughter of your father." How was the woman related to the person?
+A) Aunt
+B) Mother
+C) Wife
+D) Daughter
+Answer: B) Mother

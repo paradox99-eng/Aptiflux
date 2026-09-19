@@ -1,0 +1,143 @@
+Technology & IT
+
+
+
+Q1. What does 'CPU' stand for in computer terminology?
+A) Central Processing Unit
+B) Computer Personal Unit
+C) Central Performance Unit
+D) Control Processing Unit
+Answer: A) Central Processing Unit
+
+Q2. Which of the following components is universally considered the 'brain' of the computer?
+A) RAM
+B) Hard Drive
+C) CPU
+D) Motherboard
+Answer: C) CPU
+
+Q3. What does 'RAM' stand for?
+A) Read Access Memory
+B) Random Access Memory
+C) Run All Memory
+D) Rapid Access Memory
+Answer: B) Random Access Memory
+
+Q4. In standard digital storage, 1 Gigabyte (GB) is exactly equal to:
+A) 1024 Megabytes (MB)
+B) 1000 Megabytes (MB)
+C) 1024 Kilobytes (KB)
+D) 1000 Kilobytes (KB)
+Answer: A) 1024 Megabytes (MB)
+
+Q5. Which of the following is an example of an input device?
+A) Monitor
+B) Printer
+C) Keyboard
+D) Speaker
+Answer: C) Keyboard
+
+Q6. What does 'HTTP' stand for in website addresses?
+A) HyperText Transfer Protocol
+B) Hyperlink Transfer Technology Protocol
+C) HyperText Transmission Process
+D) Hyper Transfer Text Protocol
+Answer: A) HyperText Transfer Protocol
+
+Q7. Which major tech company originally developed the Windows operating system?
+A) Apple
+B) IBM
+C) Microsoft
+D) Google
+Answer: C) Microsoft
+
+Q8. What is the primary function of an Operating System (OS)?
+A) Word processing and document creation
+B) Managing computer hardware and software resources
+C) Browsing the internet
+D) Creating and managing databases
+Answer: B) Managing computer hardware and software resources
+
+Q9. In email communication, what does the abbreviation 'BCC' stand for?
+A) Blind Carbon Copy
+B) Blank Carbon Copy
+C) Basic Carbon Copy
+D) Behind Carbon Copy
+Answer: A) Blind Carbon Copy
+
+Q10. Which of the following is a famous example of an open-source operating system?
+A) Windows 11
+B) macOS
+C) iOS
+D) Linux
+Answer: D) Linux
+
+Q11. What does 'IP' stand for in the term 'IP Address'?
+A) Internet Provider
+B) Internet Protocol
+C) Intranet Process
+D) Internal Protocol
+Answer: B) Internet Protocol
+
+Q12. Which internet protocol is traditionally used to send outgoing emails?
+A) HTTP
+B) FTP
+C) SMTP
+D) POP3
+Answer: C) SMTP
+
+Q13. What does 'URL' stand for?
+A) Uniform Resource Locator
+B) Universal Resource Link
+C) Uniform Registered Link
+D) Unified Resource Locator
+Answer: A) Uniform Resource Locator
+
+Q14. The process of transferring files from a computer on the Internet to your local computer is called:
+A) Uploading
+B) Downloading
+C) Forwarding
+D) Streaming
+Answer: B) Downloading
+
+Q15. Which foundational technology is used to record and secure cryptocurrency transactions like Bitcoin?
+A) Cloud Computing
+B) Artificial Intelligence
+C) Blockchain
+D) Machine Learning
+Answer: C) Blockchain
+
+Q16. What does 'HTML' stand for in web development?
+A) HyperText Machine Language
+B) HyperText Markup Language
+C) High-Level Text Markup Language
+D) HyperLink and Text Markup Language
+Answer: B) HyperText Markup Language
+
+Q17. A telecommunications network that covers a broad area (e.g., across metropolitan, regional, or national boundaries) is called a:
+A) LAN (Local Area Network)
+B) MAN (Metropolitan Area Network)
+C) WAN (Wide Area Network)
+D) PAN (Personal Area Network)
+Answer: C) WAN (Wide Area Network)
+
+Q18. Which of the following is NOT a web browser?
+A) Google Chrome
+B) Mozilla Firefox
+C) Microsoft Excel
+D) Safari
+Answer: C) Microsoft Excel
+
+Q19. What is 'Phishing' in the context of cybersecurity?
+A) A technique to speed up the internet connection
+B) A fraudulent practice of sending emails purporting to be from reputable sources to steal personal data
+C) A type of computer virus that deletes hardware files
+D) A method of securely backing up data to the cloud
+Answer: B) A fraudulent practice of sending emails purporting to be from reputable sources to steal personal data
+
+Q20. In modern digital technology trends, what does 'IoT' stand for?
+A) Internet of Technology
+B) Integration of Things
+C) Internet of Things
+D) Interconnected Technology
+Answer: C) Internet of Things

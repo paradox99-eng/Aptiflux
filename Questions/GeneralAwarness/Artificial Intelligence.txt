@@ -1,0 +1,143 @@
+Artificial Intelligence
+
+
+
+Q1. What does 'AI' stand for in the tech industry?
+A) Artificial Integration
+B) Artificial Intelligence
+C) Automated Information
+D) Automated Intelligence
+Answer: B) Artificial Intelligence
+
+Q2. Which subfield of AI focuses on training algorithms to learn patterns from data and make predictions without being explicitly programmed?
+A) Machine Learning
+B) Cloud Computing
+C) Data Mining
+D) Quantum Computing
+Answer: A) Machine Learning
+
+Q3. What does 'NLP' stand for in the context of Artificial Intelligence?
+A) Natural Language Programming
+B) Neural Logic Processing
+C) Natural Language Processing
+D) Network Level Protocol
+Answer: C) Natural Language Processing
+
+Q4. Generative AI is a specialized branch of AI that is primarily used to:
+A) Sort and manage large legacy databases
+B) Create new, original content like text, code, images, and audio
+C) Detect hardware failures in server racks
+D) Optimize internet routing protocols
+Answer: B) Create new, original content like text, code, images, and audio
+
+Q5. Which of the following is a famous generative AI model developed by OpenAI?
+A) Gemini
+B) Llama
+C) GPT-4
+D) Claude
+Answer: C) GPT-4
+
+Q6. The process of training a machine learning model by penalizing wrong actions and rewarding right ones (often used in game-playing AIs) is called:
+A) Supervised Learning
+B) Unsupervised Learning
+C) Reinforcement Learning
+D) Transfer Learning
+Answer: C) Reinforcement Learning
+
+Q7. What does 'LLM' stand for in the context of Generative AI?
+A) Large Language Model
+B) Logical Learning Machine
+C) Low Latency Memory
+D) Linear Language Matrix
+Answer: A) Large Language Model
+
+Q8. Which famous test, proposed in 1950, is designed to determine if a computer can exhibit human-like conversational intelligence?
+A) Lovelace Test
+B) Turing Test
+C) Asimov Test
+D) McCarthy Test
+Answer: B) Turing Test
+
+Q9. A 'Neural Network' in deep learning is heavily inspired by:
+A) The biological structure of the human brain
+B) The orbital paths of the solar system
+C) Traditional computer hardware architecture
+D) Genetic mutation and evolution
+Answer: A) The biological structure of the human brain
+
+Q10. 'Deep Learning' is a specialized subset of which broader field?
+A) Machine Learning
+B) Web Development
+C) Database Management
+D) Operating Systems
+Answer: A) Machine Learning
+
+Q11. In AI terminology, what is a 'Hallucination'?
+A) A computer virus infecting the AI framework
+B) When an AI model generates confident but entirely false or fabricated information
+C) When the AI processes 2D images into 3D models
+D) The graphical user interface of an AI application
+Answer: B) When an AI model generates confident but entirely false or fabricated information
+
+Q12. Which of the following is a prominent AI-powered tool specifically known for generating images from text descriptions?
+A) ChatGPT
+B) Midjourney
+C) TensorFlow
+D) PyTorch
+Answer: B) Midjourney
+
+Q13. What is the primary purpose of 'Prompt Engineering' in generative AI?
+A) Repairing computer hardware components
+B) Crafting the most effective text inputs to get the desired output from an AI model
+C) Writing backend server code for AI hosting
+D) Translating programming languages manually
+Answer: B) Crafting the most effective text inputs to get the desired output from an AI model
+
+Q14. 'Computer Vision' is an AI field focused on enabling machines to:
+A) Read text aloud using synthesized voices
+B) Interpret, analyze, and understand visual information from images or videos
+C) Connect to Wi-Fi networks autonomously
+D) Predict stock market trends purely from numerical data
+Answer: B) Interpret, analyze, and understand visual information from images or videos
+
+Q15. The massive dataset used to teach and adjust a machine learning model during its creation is commonly referred to as:
+A) Output Data
+B) Training Data
+C) Meta Data
+D) Junk Data
+Answer: B) Training Data
+
+Q16. What does 'AGI' stand for, representing a hypothetical AI system that possesses human-level cognitive abilities across all tasks?
+A) Automated General Input
+B) Artificial Global Interface
+C) Artificial General Intelligence
+D) Applied Generative Inference
+Answer: C) Artificial General Intelligence
+
+Q17. Which technique is commonly used to fine-tune a language model's behavior based on human ratings of its responses to make it safer and more helpful?
+A) RLHF (Reinforcement Learning from Human Feedback)
+B) GAN (Generative Adversarial Network)
+C) CNN (Convolutional Neural Network)
+D) RNN (Recurrent Neural Network)
+Answer: A) RLHF (Reinforcement Learning from Human Feedback)
+
+Q18. The internal variables (like weights and biases) that a neural network learns and adjusts during training are collectively referred to as its:
+A) Hallucinations
+B) Prompts
+C) Parameters
+D) Tokens
+Answer: C) Parameters
+
+Q19. Which prominent family of multimodal generative AI models was developed by Google as a successor to PaLM 2?
+A) GPT
+B) Claude
+C) Llama
+D) Gemini
+Answer: D) Gemini
+
+Q20. In autonomous vehicles and robotics, 'LiDAR' technology is often used for 3D mapping and obstacle detection. What does LiDAR use to measure distances?
+A) Sound waves
+B) Radio waves
+C) Laser light pulses
+D) Microwaves
+Answer: C) Laser light pulses

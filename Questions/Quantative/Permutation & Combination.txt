@@ -1,0 +1,141 @@
+Permutation & Combination
+
+Q1. Evaluate the value of 5! (5 factorial).
+A) 24
+B) 60
+C) 120
+D) 720
+Answer: C) 120
+
+Q2. In how many ways can the letters of the word "APPLE" be arranged?
+A) 60
+B) 120
+C) 360
+D) 720
+Answer: A) 60
+
+Q3. In how many ways can 5 persons be seated in a row?
+A) 25
+B) 60
+C) 120
+D) 240
+Answer: C) 120
+
+Q4. In how many ways can 6 people be seated around a circular table?
+A) 120
+B) 360
+C) 720
+D) 5040
+Answer: A) 120
+
+Q5. From a group of 7 men and 6 women, 5 persons are to be selected to form a committee. In how many ways can it be done so that the committee consists of exactly 3 men and 2 women?
+A) 315
+B) 420
+C) 525
+D) 630
+Answer: C) 525
+
+Q6. How many 3-digit numbers can be formed using the digits 1, 2, 3, 4, 5 if repetition of digits is not allowed?
+A) 20
+B) 60
+C) 120
+D) 125
+Answer: B) 60
+
+Q7. In how many ways can the letters of the word "LEADER" be arranged?
+A) 120
+B) 360
+C) 720
+D) 1440
+Answer: B) 360
+
+Q8. In how many ways can a selection of 3 consonants and 2 vowels be made from 7 consonants and 4 vowels?
+A) 105
+B) 210
+C) 420
+D) 840
+Answer: B) 210
+
+Q9. A bag contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the bag?
+A) 64
+B) 72
+C) 84
+D) 120
+Answer: C) 84
+
+Q10. In how many ways can the letters of the word "MACHINE" be arranged so that the vowels may occupy only the odd positions?
+A) 144
+B) 288
+C) 576
+D) 720
+Answer: C) 576
+
+Q11. How many two-digit numbers can be formed from the digits 0, 1, 2, 3, 4 without repetition?
+A) 16
+B) 20
+C) 24
+D) 25
+Answer: A) 16
+
+Q12. Evaluate the value of 8C3 (8 choose 3).
+A) 24
+B) 56
+C) 112
+D) 336
+Answer: B) 56
+
+Q13. There are 10 points in a plane, out of which 4 are collinear. How many straight lines can be formed by joining these points?
+A) 40
+B) 41
+C) 45
+D) 46
+Answer: A) 40
+
+Q14. There are 10 points in a plane, out of which 4 are collinear. How many triangles can be formed using these points?
+A) 110
+B) 112
+C) 116
+D) 120
+Answer: C) 116
+
+Q15. In a party, every person shakes hands with every other person. If there are a total of 105 handshakes, how many persons were there in the party?
+A) 13
+B) 14
+C) 15
+D) 16
+Answer: C) 15
+
+Q16. How many words can be formed from the letters of the word "SIGNATURE" so that the vowels always come together?
+A) 4320
+B) 17280
+C) 34560
+D) 40320
+Answer: B) 17280
+
+Q17. In how many ways can 4 boys and 3 girls be seated in a row so that no two girls sit together?
+A) 144
+B) 288
+C) 1440
+D) 5040
+Answer: C) 1440
+
+Q18. If nP2 = 30, what is the value of n?
+A) 5
+B) 6
+C) 7
+D) 15
+Answer: B) 6
+
+Q19. How many diagonals can be drawn in a decagon (a polygon with 10 sides)?
+A) 35
+B) 40
+C) 45
+D) 90
+Answer: A) 35
+
+Q20. From a class of 15 students, a captain and a vice-captain are to be chosen. In how many ways can this be done?
+A) 30
+B) 105
+C) 210
+D) 225
+Answer: C) 210

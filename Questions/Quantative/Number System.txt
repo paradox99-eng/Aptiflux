@@ -1,0 +1,150 @@
+﻿Divisibility
+
+Q1. Which of the following numbers is completely divisible by 99?
+A) 913464
+B) 114345
+C) 135792
+D) 3572404
+Answer: B) 114345
+
+Q2. If the number 653xy is perfectly divisible by 90, then what is the value of (x + y)?
+A) 2
+B) 3
+C) 4
+D) 6
+Answer: C) 4
+
+Q3. What least value must be assigned to '*' so that the number 8632*56 is divisible by 11?
+A) 2
+B) 5
+C) 7
+D) 9
+Answer: C) 7
+
+Q4. A number is always divisible by 11 if the difference between the sum of digits in its odd places and even places is:
+A) 0 only
+B) A multiple of 11 only
+C) 0 or a multiple of 11
+D) An even number
+Answer: C) 0 or a multiple of 11
+
+Q5. How many numbers between 200 and 600 are exactly divisible by 4, 5, and 6?
+A) 5
+B) 6
+C) 7
+D) 8
+Answer: B) 6
+
+
+Factors & Multiples
+
+Q6. Find the total number of prime factors in the expression: (2^4) x (3^6) x (5^2) x 7.
+A) 11
+B) 12
+C) 13
+D) 14
+Answer: C) 13
+
+Q7. How many total factors does the number 120 have?
+A) 12
+B) 14
+C) 16
+D) 18
+Answer: C) 16
+
+Q8. The sum of all factors of the number 24 is:
+A) 50
+B) 60
+C) 65
+D) 72
+Answer: B) 60
+
+Q9. Which of the following numbers is a prime number?
+A) 143
+B) 289
+C) 117
+D) 131
+Answer: D) 131
+
+Q10. The product of any two consecutive even numbers is always perfectly divisible by:
+A) 4
+B) 6
+C) 8
+D) 12
+Answer: C) 8
+
+
+Unit Digits
+
+Q11. Find the unit digit in the product: (2467)^153 x (341)^72
+A) 1
+B) 3
+C) 7
+D) 9
+Answer: C) 7
+
+Q12. What is the unit digit of 3^40?
+A) 1
+B) 3
+C) 7
+D) 9
+Answer: A) 1
+
+Q13. The unit digit in the sum of (124)^372 + (124)^373 is:
+A) 0
+B) 2
+C) 4
+D) 8
+Answer: A) 0
+
+Q14. Find the unit digit of the expression: 7^95 - 3^58
+A) 0
+B) 4
+C) 6
+D) 7
+Answer: B) 4
+
+Q15. What is the unit digit of 2^51?
+A) 2
+B) 4
+C) 6
+D) 8
+Answer: D) 8
+
+
+Remainders
+
+Q16. A number when divided by 136 leaves a remainder of 36. If the same number is divided by 17, the remainder will be:
+A) 2
+B) 3
+C) 5
+D) 7
+Answer: A) 2
+
+Q17. Find the remainder when 2^31 is divided by 5.
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C) 3
+
+Q18. What is the remainder when 17^200 is divided by 18?
+A) 1
+B) 2
+C) 16
+D) 17
+Answer: A) 1
+
+Q19. A number when successively divided by 3, 5 and 8 leaves remainders 1, 4 and 7 respectively. Find the respective remainders if the order of divisors is reversed (divided by 8, then 5, then 3).
+A) 4, 6, 2
+B) 6, 4, 2
+C) 2, 4, 6
+D) 6, 2, 4
+Answer: B) 6, 4, 2
+
+Q20. When an integer 'n' is divided by 4, the remainder is 3. What is the remainder when '2n' is divided by 4?
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: C) 2

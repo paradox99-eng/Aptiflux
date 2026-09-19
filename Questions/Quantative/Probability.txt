@@ -1,0 +1,141 @@
+Probability
+
+Q1. What is the probability of getting a head when a fair coin is tossed?
+A) 1/4
+B) 1/3
+C) 1/2
+D) 1
+Answer: C) 1/2
+
+Q2. Two fair coins are tossed simultaneously. What is the probability of getting at least one head?
+A) 1/4
+B) 1/2
+C) 3/4
+D) 1
+Answer: C) 3/4
+
+Q3. A fair die is rolled. What is the probability of getting a prime number?
+A) 1/6
+B) 1/3
+C) 1/2
+D) 2/3
+Answer: C) 1/2
+
+Q4. What is the probability of drawing an ace from a well-shuffled standard deck of 52 playing cards?
+A) 1/13
+B) 1/26
+C) 1/52
+D) 4/13
+Answer: A) 1/13
+
+Q5. Two dice are rolled simultaneously. What is the probability that the sum of the numbers on the dice is exactly 8?
+A) 1/6
+B) 5/36
+C) 1/9
+D) 1/12
+Answer: B) 5/36
+
+Q6. A bag contains 4 red balls, 3 green balls, and 5 blue balls. If one ball is drawn at random, what is the probability that it is green?
+A) 1/4
+B) 1/3
+C) 1/2
+D) 3/4
+Answer: A) 1/4
+
+Q7. In a lottery, there are 10 prizes and 25 blanks. What is the probability of getting a prize?
+A) 1/10
+B) 2/5
+C) 2/7
+D) 5/7
+Answer: C) 2/7
+
+Q8. What is the probability that a non-leap year selected at random will contain exactly 53 Sundays?
+A) 1/7
+B) 2/7
+C) 1/365
+D) 53/365
+Answer: A) 1/7
+
+Q9. A ticket is drawn at random from 50 tickets numbered 1 to 50. What is the probability that the drawn ticket is a multiple of 5?
+A) 1/10
+B) 1/5
+C) 1/4
+D) 1/2
+Answer: B) 1/5
+
+Q10. From a pack of 52 cards, two cards are drawn at random. What is the probability that both are kings?
+A) 1/169
+B) 1/221
+C) 1/26
+D) 3/221
+Answer: B) 1/221
+
+Q11. A box contains 20 electric bulbs, out of which 4 are defective. Two bulbs are chosen at random from this box. What is the probability that at least one of them is defective?
+A) 7/19
+B) 12/19
+C) 1/19
+D) 4/19
+Answer: A) 7/19
+
+Q12. What is the probability of getting a sum of 9 from two throws of a standard die?
+A) 1/6
+B) 1/8
+C) 1/9
+D) 1/12
+Answer: C) 1/9
+
+Q13. Three coins are tossed together. What is the probability of getting exactly two tails?
+A) 1/8
+B) 1/4
+C) 3/8
+D) 1/2
+Answer: C) 3/8
+
+Q14. The probability that it will rain tomorrow is 0.85. What is the probability that it will not rain tomorrow?
+A) 0.05
+B) 0.15
+C) 0.25
+D) 0.85
+Answer: B) 0.15
+
+Q15. Two friends X and Y appeared for an exam. The probability of selection of X is 1/7 and that of Y is 2/9. What is the probability that both of them are selected?
+A) 1/63
+B) 2/63
+C) 3/63
+D) 1/7
+Answer: B) 2/63
+
+Q16. A bag contains 6 black and 8 white balls. One ball is drawn at random. What is the probability that the ball drawn is white?
+A) 3/7
+B) 4/7
+C) 1/8
+D) 3/4
+Answer: B) 4/7
+
+Q17. What is the probability of drawing a face card (Jack, Queen, or King) from a standard deck of 52 cards?
+A) 1/13
+B) 3/13
+C) 4/13
+D) 1/4
+Answer: B) 3/13
+
+Q18. If the probability of an event happening is p, then the probability of the event not happening is:
+A) 0
+B) 1
+C) p - 1
+D) 1 - p
+Answer: D) 1 - p
+
+Q19. Two dice are thrown together. What is the probability that the sum of the numbers on the two faces is divisible by 4 or 6?
+A) 1/4
+B) 1/3
+C) 7/18
+D) 5/18
+Answer: C) 7/18
+
+Q20. A jar contains 3 red, 4 blue, and 5 green marbles. If two marbles are drawn one by one without replacement, what is the probability that both are blue?
+A) 1/12
+B) 1/11
+C) 2/11
+D) 1/6
+Answer: B) 1/11

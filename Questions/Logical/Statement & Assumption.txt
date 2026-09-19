@@ -1,0 +1,203 @@
+Statement & Assumption
+
+Directions (Q1-Q20): In each of the following questions, a statement is given followed by two assumptions numbered I and II. An assumption is something supposed or taken for granted. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.
+
+Q1. Statement: "Please drop this letter in the letterbox." - An officer tells his assistant.
+Assumptions:
+I. The assistant knows the location of the letterbox.
+II. The assistant will follow the instructions.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: D) Both I and II are implicit
+
+Q2. Statement: "If you want to study Accounting, join Institute Y." - A advice given to B.
+Assumptions:
+I. Institute Y provides good accounting education.
+II. B listens to A's advice.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: D) Both I and II are implicit
+
+Q3. Statement: "Use our product to improve your memory." - An advertisement.
+Assumptions:
+I. People want to improve their memory.
+II. There are memory problems among people.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: D) Both I and II are implicit
+
+Q4. Statement: "We must reduce our expenditures to increase our profits." - A company manager.
+Assumptions:
+I. Expenditures can be reduced.
+II. Reducing expenditures leads to increased profits.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: D) Both I and II are implicit
+
+Q5. Statement: "Do not lean out of the door of the moving train." - A warning in a railway compartment.
+Assumptions:
+I. Leaning out of a moving train is dangerous.
+II. People generally ignore such warnings.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: A) Only assumption I is implicit
+
+Q6. Statement: A warning on a cigarette packet - "Cigarette smoking is injurious to health."
+Assumptions:
+I. Non-smokers never fall sick.
+II. Cigarettes contain substances that harm the human body.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: B) Only assumption II is implicit
+
+Q7. Statement: "Please do not use mobile phones inside the bank." - A notice at a bank branch.
+Assumptions:
+I. Mobile phones are very expensive devices.
+II. The use of mobile phones may cause disturbance to bank operations.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: B) Only assumption II is implicit
+
+Q8. Statement: The government has decided to pay compensation to the victims of the recent railway accident.
+Assumptions:
+I. The government has enough funds to meet the compensation expenses.
+II. There will be a reduction in railway accidents in the future.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: A) Only assumption I is implicit
+
+Q9. Statement: "Buy brand X TV for better sound quality." - An advertisement.
+Assumptions:
+I. Brand X TV is the only TV with sound in the market.
+II. Buyers are completely deaf.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: C) Neither I nor II is implicit
+
+Q10. Statement: "In order to reduce the gap between income and expenditure, the company has decided to increase the price of its product from next month."
+Assumptions:
+I. The volume of sales will definitely drop to zero after the price increase.
+II. The expenditure will more or less remain the same in the near future.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: B) Only assumption II is implicit
+
+Q11. Statement: "The state government has decided to declare a holiday tomorrow due to heavy rains."
+Assumptions:
+I. It might continue to rain heavily tomorrow as well.
+II. All employees want a holiday regardless of the weather.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: A) Only assumption I is implicit
+
+Q12. Statement: "Invest in our mutual fund to get high returns with low risk."
+Assumptions:
+I. All other mutual funds have extremely high risk.
+II. People prefer investments that offer high returns with low risk.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: B) Only assumption II is implicit
+
+Q13. Statement: "Please report at 9:00 AM sharp for the interview." - A call letter.
+Assumptions:
+I. The candidate is capable of reading and understanding the call letter.
+II. The candidate will definitely be selected for the job.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: A) Only assumption I is implicit
+
+Q14. Statement: "All employees must attend the new software training session tomorrow."
+Assumptions:
+I. The training session is deemed beneficial or necessary for the company.
+II. All employees will refuse to attend the session.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: A) Only assumption I is implicit
+
+Q15. Statement: "To keep your city clean, use dustbins." - A public notice by the municipality.
+Assumptions:
+I. Dustbins are completely useless for waste management.
+II. People will read the notice and follow the instruction.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: B) Only assumption II is implicit
+
+Q16. Statement: The city transport corporation has decided to increase the number of buses on Route A during peak hours.
+Assumptions:
+I. The current number of buses is overcrowded and insufficient during peak hours.
+II. People will completely stop using private vehicles on Route A.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: A) Only assumption I is implicit
+
+Q17. Statement: "Do not copy our software." - A warning printed on a software CD package.
+Assumptions:
+I. It is technologically possible to copy the software.
+II. Everyone who buys the CD wants to pirate it.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: A) Only assumption I is implicit
+
+Q18. Statement: "Drink milk every day for strong bones." - A mother tells her child.
+Assumptions:
+I. Milk contains nutrients that are required for strong bones.
+II. The child will listen to the mother's advice.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: D) Both I and II are implicit
+
+Q19. Statement: "Double your money in 5 months." - An advertisement by a financial firm.
+Assumptions:
+I. People are generally attracted to short-term high returns.
+II. There is no other way to invest money in the market.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: A) Only assumption I is implicit
+
+Q20. Statement: The management has decided to provide free lunch to all its employees to boost their morale.
+Assumptions:
+I. Employees will appreciate the free lunch and their morale will increase.
+II. Management has sufficient budget to provide free lunch.
+A) Only assumption I is implicit
+B) Only assumption II is implicit
+C) Neither I nor II is implicit
+D) Both I and II are implicit
+Answer: D) Both I and II are implicit

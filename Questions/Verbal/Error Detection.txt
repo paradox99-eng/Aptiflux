@@ -1,0 +1,143 @@
+Error Detection
+
+
+
+Q1. He is one of the tallest boy in the class.
+A) He is one of the
+B) tallest boy
+C) in the class
+D) No error
+Answer: B) tallest boy
+
+Q2. The manager put forward a number of criterions for the post.
+A) The manager put forward
+B) a number of criterions
+C) for the post
+D) No error
+Answer: B) a number of criterions
+
+Q3. Not only the doctor but also the nurses of this nursing home is very kind and helpful.
+A) Not only the doctor but also the nurses
+B) of this nursing home
+C) is very kind and helpful
+D) No error
+Answer: C) is very kind and helpful
+
+Q4. I and he have prepared the lesson thoroughly.
+A) I and he
+B) have prepared
+C) the lesson thoroughly
+D) No error
+Answer: A) I and he
+
+Q5. Scarcely had he gone a few steps that he was told about the incident.
+A) Scarcely had he gone a few steps
+B) that he was told
+C) about the incident
+D) No error
+Answer: B) that he was told
+
+Q6. The furniture in this room are made of teak wood.
+A) The furniture
+B) in this room
+C) are made of teak wood
+D) No error
+Answer: C) are made of teak wood
+
+Q7. Unless you do not give the keys of the safe, you will be shot.
+A) Unless you do not give
+B) the keys of the safe
+C) you will be shot
+D) No error
+Answer: A) Unless you do not give
+
+Q8. He asked me that why I was not preparing for the civil services.
+A) He asked me
+B) that why I was
+C) not preparing for the civil services
+D) No error
+Answer: B) that why I was
+
+Q9. Despite of our good contacts, we could not get tickets for our friends.
+A) Despite of our good contacts
+B) we could not get tickets
+C) for our friends
+D) No error
+Answer: A) Despite of our good contacts
+
+Q10. The boy who you see there made the top score in the last match.
+A) The boy who you see there
+B) made the top score
+C) in the last match
+D) No error
+Answer: A) The boy who you see there
+
+Q11. Bread and butter are my favorite breakfast.
+A) Bread and butter
+B) are
+C) my favorite breakfast
+D) No error
+Answer: B) are
+
+Q12. She is sleeping here for two hours.
+A) She is
+B) sleeping here
+C) for two hours
+D) No error
+Answer: A) She is
+
+Q13. The news broadcasted on television was entirely fake.
+A) The news
+B) broadcasted on television
+C) was entirely fake
+D) No error
+Answer: B) broadcasted on television
+
+Q14. To me it appears that Anthropology is the more interesting of all the subjects.
+A) To me it appears that
+B) Anthropology is the more interesting
+C) of all the subjects
+D) No error
+Answer: B) Anthropology is the more interesting
+
+Q15. Let you and I go to the airport to welcome our beloved friend.
+A) Let you and I
+B) go to the airport
+C) to welcome our beloved friend
+D) No error
+Answer: A) Let you and I
+
+Q16. The principal ordered the peon to let the boys and I go in.
+A) The principal ordered the peon
+B) to let the boys and I
+C) go in
+D) No error
+Answer: B) to let the boys and I
+
+Q17. Neither of the two children said their prayer before going to bed.
+A) Neither of the two children
+B) said their prayer
+C) before going to bed
+D) No error
+Answer: B) said their prayer
+
+Q18. I prefer reading a book than sleeping.
+A) I prefer
+B) reading a book
+C) than sleeping
+D) No error
+Answer: C) than sleeping
+
+Q19. If I was you, I would not have committed this blunder.
+A) If I was you
+B) I would not have
+C) committed this blunder
+D) No error
+Answer: A) If I was you
+
+Q20. The teacher told the students that the Earth revolved around the sun.
+A) The teacher told the students
+B) that the Earth
+C) revolved around the sun
+D) No error
+Answer: C) revolved around the sun

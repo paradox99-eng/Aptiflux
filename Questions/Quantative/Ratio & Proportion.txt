@@ -1,0 +1,141 @@
+Ratio & Proportion
+
+Q1. If A:B = 3:4 and B:C = 8:9, find A:C.
+A) 1:2
+B) 2:3
+C) 3:4
+D) 4:5
+Answer: B) 2:3
+
+Q2. Divide $1500 between A and B in the ratio 2:3. B's share is:
+A) $600
+B) $800
+C) $900
+D) $1000
+Answer: C) $900
+
+Q3. If 0.75 : x :: 5 : 8, find x.
+A) 1.12
+B) 1.2
+C) 1.25
+D) 1.5
+Answer: B) 1.2
+
+Q4. The fourth proportional to 5, 8, 15 is:
+A) 20
+B) 22
+C) 24
+D) 28
+Answer: C) 24
+
+Q5. Two numbers are in the ratio 3:5. If 9 is subtracted from each, the new ratio becomes 12:23. The smaller number is:
+A) 27
+B) 33
+C) 36
+D) 45
+Answer: B) 33
+
+Q6. The mean proportional between 9 and 25 is:
+A) 12
+B) 15
+C) 18
+D) 20
+Answer: B) 15
+
+Q7. The ratio of boys to girls in a class is 5:3. If there are 16 fewer girls than boys, how many total students are there?
+A) 48
+B) 56
+C) 64
+D) 80
+Answer: C) 64
+
+Q8. $1050 is divided among A, B, and C such that A gets 2/5 of what B and C together get. What is A's share?
+A) $200
+B) $300
+C) $350
+D) $400
+Answer: B) $300
+
+Q9. A bag contains coins of $1, 50c, and 25c in the ratio 1:2:4. If the total amount is $225, the number of 50c coins is:
+A) 75
+B) 100
+C) 150
+D) 200
+Answer: C) 150
+
+Q10. If x:y = 3:4, find the ratio (4x + 5y) : (5x - 2y).
+A) 12:7
+B) 24:7
+C) 32:7
+D) 36:7
+Answer: C) 32:7
+
+Q11. If A:B = 2:3, B:C = 4:5, and C:D = 6:7, find A:B:C:D.
+A) 16:24:30:35
+B) 16:22:30:35
+C) 12:24:30:35
+D) 18:24:30:35
+Answer: A) 16:24:30:35
+
+Q12. Salaries of Ravi and Sumit are in the ratio 2:3. If the salary of each is increased by $4000, the new ratio becomes 40:57. What is Sumit's present salary?
+A) $17,000
+B) $20,000
+C) $25,500
+D) $34,000
+Answer: D) $34,000
+
+Q13. The number 782 is divided into three parts in the ratio 1/2 : 2/3 : 3/4. The first part is:
+A) 182
+B) 190
+C) 204
+D) 212
+Answer: C) 204
+
+Q14. If 15% of x is the same as 20% of y, then x:y is:
+A) 3:4
+B) 4:3
+C) 17:16
+D) 16:17
+Answer: B) 4:3
+
+Q15. 15 machines can produce 500 units in 24 days. How many machines are required to produce 1000 units in 30 days?
+A) 20
+B) 24
+C) 28
+D) 30
+Answer: B) 24
+
+Q16. A mixture contains alcohol and water in the ratio 4:3. If 5 liters of water is added to the mixture, the ratio becomes 4:5. Find the quantity of alcohol in the given mixture.
+A) 8 liters
+B) 10 liters
+C) 12 liters
+D) 15 liters
+Answer: B) 10 liters
+
+Q17. If a:b:c = 3:4:7, then the ratio (a+b+c):c is equal to:
+A) 2:1
+B) 14:3
+C) 7:2
+D) 1:2
+Answer: A) 2:1
+
+Q18. The third proportional to 9 and 12 is:
+A) 14
+B) 15
+C) 16
+D) 18
+Answer: C) 16
+
+Q19. 45 people can complete a work in 16 days. If the work needs to be completed in 12 days, how many extra people are required?
+A) 10
+B) 12
+C) 15
+D) 20
+Answer: C) 15
+
+Q20. In a zoo, the ratio of lions to tigers is 4:5. If 8 new lions are brought in, the ratio becomes 6:5. How many tigers are there?
+A) 15
+B) 16
+C) 20
+D) 24
+Answer: C) 20

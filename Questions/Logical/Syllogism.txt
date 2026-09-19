@@ -1,0 +1,248 @@
+Syllogism
+
+Directions (Q1-Q20): In each of the following questions, two or more statements are given, followed by two conclusions numbered I and II. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.
+
+Q1. Statements: 
+1. All cars are cats. 
+2. All fans are cats.
+Conclusions: 
+I. All cars are fans. 
+II. Some fans are cars.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: C) Neither I nor II follows
+
+Q2. Statements: 
+1. Some cats are dogs. 
+2. No dog is a toy.
+Conclusions: 
+I. Some cats are toys. 
+II. Some cats are not toys.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: B) Only conclusion II follows
+
+Q3. Statements: 
+1. All pens are roads. 
+2. All roads are houses.
+Conclusions: 
+I. All houses are pens. 
+II. Some houses are pens.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: B) Only conclusion II follows
+
+Q4. Statements: 
+1. All huts are mansions. 
+2. All mansions are temples.
+Conclusions: 
+I. Some temples are huts. 
+II. Some temples are mansions.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: D) Both conclusions I and II follow
+
+Q5. Statements: 
+1. Some papers are pens. 
+2. All the pencils are pens.
+Conclusions: 
+I. Some pens are pencils. 
+II. Some pens are papers.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: D) Both conclusions I and II follow
+
+Q6. Statements: 
+1. All actors are girls. 
+2. All the girls are beautiful.
+Conclusions: 
+I. All the actors are beautiful. 
+II. Some girls are actors.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: D) Both conclusions I and II follow
+
+Q7. Statements: 
+1. Some dogs are bats. 
+2. Some bats are cats.
+Conclusions: 
+I. Some dogs are cats. 
+II. Some cats are dogs.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: C) Neither I nor II follows
+
+Q8. Statements: 
+1. All windows are doors. 
+2. No door is a wall.
+Conclusions: 
+I. Some windows are walls. 
+II. No wall is a door.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: B) Only conclusion II follows
+
+Q9. Statements: 
+1. Some trees are forests. 
+2. Some forests are tents. 
+3. Some tents are buildings.
+Conclusions: 
+I. Some buildings are trees. 
+II. Some tents are trees.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: C) Neither I nor II follows
+
+Q10. Statements: 
+1. All cups are books. 
+2. All books are shirts.
+Conclusions: 
+I. Some cups are not shirts. 
+II. Some shirts are cups.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: B) Only conclusion II follows
+
+Q11. Statements: 
+1. Some desks are caps. 
+2. No cap is red.
+Conclusions: 
+I. Some caps are desks. 
+II. No desk is red.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: A) Only conclusion I follows
+
+Q12. Statements: 
+1. All fruits are lions. 
+2. All lions are foxes. 
+3. Some foxes are elephants.
+Conclusions: 
+I. All fruits are foxes. 
+II. Some fruits are elephants.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: A) Only conclusion I follows
+
+Q13. Statements: 
+1. No bat is ball. 
+2. No ball is wicket.
+Conclusions: 
+I. No bat is wicket. 
+II. All wickets are bats.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: C) Neither I nor II follows
+
+Q14. Statements: 
+1. Some radios are telephones. 
+2. All telephones are mirrors. 
+3. All mirrors are desks.
+Conclusions: 
+I. Some radios are desks. 
+II. Some radios are mirrors.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: D) Both conclusions I and II follow
+
+Q15. Statements: 
+1. All chairs are tables. 
+2. Some tables are sofas.
+Conclusions: 
+I. Some sofas are chairs. 
+II. All sofas are chairs.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: C) Neither I nor II follows
+
+Q16. Statements: 
+1. All teachers are students. 
+2. Some students are girls.
+Conclusions: 
+I. All teachers are girls. 
+II. Some girls are teachers.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: C) Neither I nor II follows
+
+Q17. Statements: 
+1. Some monkeys are dogs. 
+2. All dogs are cats.
+Conclusions: 
+I. Some monkeys are cats. 
+II. No dog is monkey.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: A) Only conclusion I follows
+
+Q18. Statements: 
+1. All keys are locks. 
+2. All locks are bangles. 
+3. All bangles are cars.
+Conclusions: 
+I. Some cars are locks. 
+II. Some bangles are keys.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: D) Both conclusions I and II follow
+
+Q19. Statements: 
+1. Some fruits are flowers. 
+2. No flower is a boat. 
+3. All boats are rivers.
+Conclusions: 
+I. Some fruits are rivers. 
+II. Some rivers are boats.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: B) Only conclusion II follows
+
+Q20. Statements: 
+1. All men are dogs. 
+2. All dogs are cats.
+Conclusions: 
+I. All men are cats. 
+II. All cats are men.
+A) Only conclusion I follows
+B) Only conclusion II follows
+C) Neither I nor II follows
+D) Both conclusions I and II follow
+Answer: A) Only conclusion I follows

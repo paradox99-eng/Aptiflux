@@ -1,0 +1,141 @@
+Clock Problems
+
+Q1. Find the angle between the hour hand and the minute hand of a clock when the time is 3:25.
+A) 45°
+B) 47.5°
+C) 50°
+D) 52.5°
+Answer: B) 47.5°
+
+Q2. At what time between 4 and 5 o'clock will the hands of a clock be exactly together?
+A) 20 2/11 min past 4
+B) 21 9/11 min past 4
+C) 22 2/11 min past 4
+D) 23 1/11 min past 4
+Answer: B) 21 9/11 min past 4
+
+Q3. How many times in a day are the hands of a clock in a straight line (either coincident or opposite)?
+A) 22
+B) 24
+C) 44
+D) 48
+Answer: C) 44
+
+Q4. What is the angle between the two hands of a clock when the time is 8:30?
+A) 60°
+B) 75°
+C) 85°
+D) 90°
+Answer: B) 75°
+
+Q5. How many times in a day do the hands of a clock coincide?
+A) 11
+B) 22
+C) 24
+D) 44
+Answer: B) 22
+
+Q6. At what time between 7 and 8 o'clock will the hands of a clock be in the same straight line but not together?
+A) 5 5/11 min past 7
+B) 6 5/11 min past 7
+C) 7 5/11 min past 7
+D) 8 5/11 min past 7
+Answer: A) 5 5/11 min past 7
+
+Q7. Find the angle between the hour hand and the minute hand of a clock when the time is 10:40.
+A) 70°
+B) 75°
+C) 80°
+D) 85°
+Answer: C) 80°
+
+Q8. How many times are the hands of a clock at a right angle in a day?
+A) 22
+B) 24
+C) 44
+D) 48
+Answer: C) 44
+
+Q9. What is the angle between the two hands of a clock when the time is 4:20?
+A) 10°
+B) 15°
+C) 20°
+D) 25°
+Answer: A) 10°
+
+Q10. At what angle are the hands of a clock inclined at 15 minutes past 5?
+A) 58.5°
+B) 64°
+C) 67.5°
+D) 72.5°
+Answer: C) 67.5°
+
+Q11. An accurate clock shows 8 o'clock in the morning. Through how many degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?
+A) 144°
+B) 150°
+C) 168°
+D) 180°
+Answer: D) 180°
+
+Q12. The angle between the minute hand and the hour hand of a clock when the time is 4:15 is:
+A) 32.5°
+B) 35°
+C) 37.5°
+D) 40°
+Answer: C) 37.5°
+
+Q13. How many times do the hands of a clock point opposite to each other in a day?
+A) 11
+B) 12
+C) 22
+D) 24
+Answer: C) 22
+
+Q14. At what time between 9 and 10 o'clock will the hands of a watch be together?
+A) 45 min past 9
+B) 49 1/11 min past 9
+C) 50 min past 9
+D) 51 3/11 min past 9
+Answer: B) 49 1/11 min past 9
+
+Q15. A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:
+A) 145°
+B) 150°
+C) 155°
+D) 160°
+Answer: C) 155°
+
+Q16. What is the reflex angle between the hands of a clock at 10:25?
+A) 162.5°
+B) 187.5°
+C) 197.5°
+D) 200.5°
+Answer: C) 197.5°
+
+Q17. At what time between 5:30 and 6 o'clock will the hands of a clock be at right angles?
+A) 40 min past 5
+B) 43 7/11 min past 5
+C) 45 min past 5
+D) 47 5/11 min past 5
+Answer: B) 43 7/11 min past 5
+
+Q18. The angle between the hands of a clock at 3:40 is:
+A) 120°
+B) 125°
+C) 130°
+D) 135°
+Answer: C) 130°
+
+Q19. How much time does a watch lose per day, if its hands coincide every 64 minutes?
+A) 32 8/11 min
+B) 36 5/11 min
+C) 90 min
+D) 96 min
+Answer: A) 32 8/11 min
+
+Q20. What will be the acute angle between the hands of a clock at 2:30?
+A) 95°
+B) 105°
+C) 115°
+D) 120°
+Answer: B) 105°

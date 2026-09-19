@@ -1,0 +1,141 @@
+Ranking & Order
+
+Q1. In a row of persons, the position of Rahul from the left side of the row is 27th and position of Rahul from the right side of the row is 34th. Find the total number of persons in the row.
+A) 59
+B) 60
+C) 61
+D) 62
+Answer: B) 60
+
+Q2. A class of boys stands in a single line. One boy is 19th in order from both the ends. How many boys are there in the class?
+A) 27
+B) 37
+C) 38
+D) 39
+Answer: B) 37
+
+Q3. In a queue, Amrita is 10th from the front while Mukul is 25th from behind and Maha is just in the middle of the two. If there are 50 persons in the queue, what position does Maha occupy from the front?
+A) 16th
+B) 18th
+C) 20th
+D) 22nd
+Answer: B) 18th
+
+Q4. In a row of girls, Kamla is 9th from the left and Veena is 16th from the right. If they interchange their positions, Kamla becomes 25th from the left. How many girls are there in the row?
+A) 34
+B) 36
+C) 40
+D) 41
+Answer: C) 40
+
+Q5. Raman ranks sixteenth from the top and forty-ninth from the bottom in a class. How many students are there in the class?
+A) 64
+B) 65
+C) 66
+D) 67
+Answer: A) 64
+
+Q6. In a class of 60, where girls are twice that of boys, Kamal ranked seventeenth from the top. If there are 9 girls ahead of Kamal, how many boys are after him in rank?
+A) 3
+B) 7
+C) 12
+D) 23
+Answer: C) 12
+
+Q7. Some boys are sitting in a row. P is sitting fourteenth from the left and Q is seventh from the right. If there are four boys between P and Q, how many boys are there in the row? (Assume no overlapping)
+A) 19
+B) 21
+C) 23
+D) 25
+Answer: D) 25
+
+Q8. In a row of 40 girls, when Komal was shifted to her left by 4 places her number from the left end of the row became 10. What was the number of Swati from the right end of the row if Swati was three places to the right of Komal's original position?
+A) 22
+B) 23
+C) 24
+D) 25
+Answer: C) 24
+
+Q9. Richard is fifteenth from the front in a column of boys. There were thrice as many behind him as there were in front. How many boys are there between Richard and the seventh boy from the end of the column?
+A) 33
+B) 34
+C) 35
+D) 36
+Answer: C) 35
+
+Q10. If you are eleventh in a queue starting from either end, how many are there in the queue?
+A) 11
+B) 20
+C) 21
+D) 22
+Answer: C) 21
+
+Q11. In a class of 35 students, Kunal is placed seventh from the bottom whereas Sonali is placed ninth from the top. Pulkit is placed exactly in between the two. What is Kunal's position from Pulkit?
+A) 9
+B) 10
+C) 11
+D) 13
+Answer: B) 10
+
+Q12. Three persons A, B and C are standing in a queue. There are five persons between A and B and eight persons between B and C. If there are three persons ahead of C and 21 persons behind A, what could be the minimum number of persons in the queue?
+A) 27
+B) 28
+C) 40
+D) 41
+Answer: B) 28
+
+Q13. In a row of students, Anil is 7th from the left and Jack is 18th from the right. If they interchange their positions, Anil becomes 21st from the left. What is the total number of students in the row?
+A) 37
+B) 38
+C) 39
+D) 40
+Answer: B) 38
+
+Q14. Among A, B, C, D and E, A is taller than B but shorter than C. B is taller than only E. C is not the tallest. Who among them will be in the middle if they stand in the order of their heights?
+A) A
+B) B
+C) C
+D) D
+Answer: A) A
+
+Q15. In a row of trees, one tree is fifth from either end of the row. How many trees are there in the row?
+A) 8
+B) 9
+C) 10
+D) 11
+Answer: B) 9
+
+Q16. Position of A in a row is 13th from the front and position of B is 18th from the bottom. If they interchange their places, A becomes 21st from the front. What is the position of B from the bottom after interchanging?
+A) 25th
+B) 26th
+C) 27th
+D) 28th
+Answer: B) 26th
+
+Q17. In a class of 45 students, a boy is ranked 20th. When two boys joined, his rank was dropped by one. What is his new rank from the end?
+A) 25th
+B) 26th
+C) 27th
+D) 28th
+Answer: C) 27th
+
+Q18. If A is taller than B, C is taller than A, D is taller than C, and E is the tallest, who is the shortest?
+A) A
+B) B
+C) C
+D) D
+Answer: B) B
+
+Q19. In a row of 21 girls, when Monika was shifted by four places towards the right, she became 12th from the left end. What was her earlier position from the right end of the row?
+A) 9th
+B) 10th
+C) 12th
+D) 14th
+Answer: D) 14th
+
+Q20. In a queue of children, Kashish is fifth from the left and Mona is sixth from the right. When they interchange their places among themselves, Kashish becomes thirteenth from the left. Then, what will be Mona's position from the right?
+A) 4th
+B) 8th
+C) 14th
+D) 15th
+Answer: C) 14th

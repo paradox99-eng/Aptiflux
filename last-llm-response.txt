@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2001,
+    "subtopic": "Number System",
+    "text": "What is the largest two-digit integer whose digits sum to 15?",
+    "options": ["96", "87", "78", "69"],
+    "correctAnswer": "96",
+    "explanation": "96 has digits 9 and 6, sum 15, and is the largest such integer.",
+    "passage": null
+  },
+  {
+    "id": 2002,
+    "subtopic": "Geometry",
+    "text": "If the radius of a circle is doubled, how does its area change?",
+    "options": ["Increases by 4 times", "Increases by 2 times", "Decreases by half", "Remains the same"],
+    "correctAnswer": "Increases by 4 times",
+    "explanation": "Area ∝ r², doubling r multiplies area by 2² = 4.",
+    "passage": null
+  },
+  {
+    "id": 2003,
+    "subtopic": "Time and Work",
+    "text": "Two workers A and B can finish a job in 10 days and 15 days respectively. Working together, how many days will they take?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "6",
+    "explanation": "Combined rate 1/10+1/15=1/6, so they finish in 6 days.",
+    "passage": null
+  },
+  {
+    "id": 2004,
+    "subtopic": "Time Speed and Distance",
+    "text": "A car travels 120 km in 2 hours. At the same speed, how long will it take to travel 180 km?",
+    "options": ["2.5h", "3h", "3.5h", "4h"],
+    "correctAnswer": "3h",
+    "explanation": "Speed = 60 km/h, so time = 180/60 = 3 h.",
+    "passage": null
+  },
+  {
+    "id": 2005,
+    "subtopic": "Syllogism",
+    "text": "All cats are mammals. All mammals are warm-blooded. Therefore, all cats are warm-blooded.",
+    "options": ["True", "False", "Cannot be determined", "None of the above"],
+    "correctAnswer": "True",
+    "explanation": "The conclusion follows logically from the premises.",
+    "passage": null
+  },
+  {
+    "id": 2006,
+    "subtopic": "Reading Comprehension",
+    "text": "Which of the following is NOT a type of reading comprehension strategy?",
+    "options": ["Predicting", "Summarizing", "Calculating", "Questioning"],
+    "correctAnswer": "Calculating",
+    "explanation": "Reading comprehension involves predicting, summarizing, and questioning, not arithmetic.",
+    "passage": null
+  },
+  {
+    "id": 2007,
+    "subtopic": "Number System",
+    "text": "What is the smallest integer greater than 100 that is divisible by both 4 and 6?",
+    "options": ["104", "108", "112", "116"],
+    "correctAnswer": "108",
+    "explanation": "LCM of 4 and 6 is 12; the next multiple after 100 is 108.",
+    "passage": null
+  },
+  {
+    "id": 2008,
+    "subtopic": "Geometry",
+    "text": "A regular hexagon is inscribed in a circle of radius 5 cm. What is the length of one side of the hexagon?",
+    "options": ["5 cm", "5√3 cm", "10 cm", "10√3 cm"],
+    "correctAnswer": "5 cm",
+    "explanation": "In a regular hexagon inscribed in a circle, each side equals the radius.",
+    "passage": null
+  },
+  {
+    "id": 2009,
+    "subtopic": "Time and Work",
+    "text": "A machine can fill a tank in 6 hours. Another machine can fill the same tank in 9 hours. How long will they take together to fill the tank?",
+    "options": ["2.4h", "3h", "3.6h", "4h"],
+    "correctAnswer": "3.6h",
+    "explanation": "Combined rate 5/18, so time = 18/5 = 3.6 h.",
+    "passage": null
+  },
+  {
+    "id": 2010,
+    "subtopic": "Time Speed and Distance",
+    "text": "A train travels 240 km at 60 km/h. If it increases speed by 20 km/h, how much time will be saved?",
+    "options": ["1h", "1.5h", "2h", "2.5h"],
+    "correctAnswer": "1h",
+    "explanation": "Time saved = 4h - 3h = 1h.",
+    "passage": null
+  }
+]

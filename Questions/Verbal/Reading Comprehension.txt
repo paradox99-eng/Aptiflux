@@ -1,0 +1,156 @@
+Reading Comprehension
+
+Passage 1
+The Amazon rainforest is the largest tropical rainforest in the world, covering over five and a half million square kilometers. It is often referred to as the 'Lungs of the Earth' because it produces more than 20% of the world's oxygen. The forest is home to millions of species of insects, plants, birds, and other forms of life, many still unrecorded by science. Unfortunately, the Amazon is facing severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. This massive loss of trees not only endangers the diverse wildlife but also accelerates global climate change by releasing large amounts of carbon dioxide into the atmosphere. Conservation efforts are crucial to protecting this vital ecosystem for future generations.
+
+Q1. Why is the Amazon rainforest referred to as the 'Lungs of the Earth'?
+A) It is green and leafy.
+B) It produces over 20% of the world's oxygen.
+C) It is the largest forest.
+D) It has many rivers.
+Answer: B) It produces over 20% of the world's oxygen.
+
+Q2. Which of the following is mentioned in the passage as a primary driver of deforestation?
+A) Climate change
+B) Insect overpopulation
+C) Cattle ranching
+D) Unrecorded science
+Answer: C) Cattle ranching
+
+Q3. What is the estimated size of the Amazon rainforest mentioned in the passage?
+A) One million square kilometers
+B) Three million square kilometers
+C) Over five and a half million square kilometers
+D) Ten million square kilometers
+Answer: C) Over five and a half million square kilometers
+
+Q4. According to the passage, what is a consequence of the massive loss of trees?
+A) It accelerates global climate change.
+B) It produces more oxygen.
+C) It creates more farmland.
+D) It cools the earth.
+Answer: A) It accelerates global climate change.
+
+Q5. What is the tone of the passage regarding the future of the Amazon?
+A) Optimistic
+B) Indifferent
+C) Concerned
+D) Humorous
+Answer: C) Concerned
+
+
+Passage 2
+Alexander Graham Bell is widely credited with the invention of the first practical telephone. Born in Scotland in 1847, Bell's interest in sound and communication was heavily influenced by his mother and wife, both of whom were deaf. His extensive research into hearing and speech led him to experiment with hearing devices, which eventually culminated in the telephone. On March 10, 1876, Bell spoke the first words transmitted over a wire: "Mr. Watson, come here, I want to see you." Despite facing numerous legal challenges and patent disputes from other inventors like Elisha Gray, Bell successfully defended his patent. The telephone revolutionized global communication, making it possible to transmit voice across vast distances almost instantly.
+
+Q6. Who heavily influenced Bell's interest in sound and communication?
+A) Thomas Edison
+B) Mr. Watson
+C) His mother and wife
+D) Elisha Gray
+Answer: C) His mother and wife
+
+Q7. What were the first words spoken over the telephone?
+A) "Hello, who is this?"
+B) "Mr. Watson, come here, I want to see you."
+C) "Can you hear me?"
+D) "The telephone works."
+Answer: B) "Mr. Watson, come here, I want to see you."
+
+Q8. In which year did Bell transmit the first words over a wire?
+A) 1847
+B) 1876
+C) 1880
+D) 1900
+Answer: B) 1876
+
+Q9. Who was one of the inventors that challenged Bell's patent?
+A) Thomas Edison
+B) Nikola Tesla
+C) Elisha Gray
+D) Johannes Gutenberg
+Answer: C) Elisha Gray
+
+Q10. The passage implies that the invention of the telephone:
+A) Revolutionized global communication.
+B) Created legal problems that stopped progress.
+C) Helped only the deaf community.
+D) Was mostly ignored during his lifetime.
+Answer: A) Revolutionized global communication.
+
+
+Passage 3
+Sleep is a fundamental biological need, yet it is often neglected in today's fast-paced society. During sleep, the body undergoes critical restorative processes. The brain consolidates memories, processes information learned during the day, and clears out toxins. Chronic sleep deprivation has been linked to a host of health issues, including obesity, cardiovascular disease, and a weakened immune system. Furthermore, lack of sleep severely impairs cognitive functions such as attention, decision-making, and reaction times, increasing the risk of accidents. Adults generally require between seven and nine hours of sleep per night for optimal health, while children and teenagers need significantly more. Prioritizing good sleep hygiene, such as maintaining a consistent sleep schedule, is essential for overall well-being.
+
+Q11. What does the brain do during sleep?
+A) It rests completely.
+B) It consolidates memories and clears toxins.
+C) It increases heart rate.
+D) It burns calories.
+Answer: B) It consolidates memories and clears toxins.
+
+Q12. According to the passage, how much sleep do adults generally need per night?
+A) 5 to 6 hours
+B) 6 to 8 hours
+C) Between seven and nine hours
+D) 10 to 12 hours
+Answer: C) Between seven and nine hours
+
+Q13. Which of the following is a health issue linked to chronic sleep deprivation?
+A) Improved memory
+B) Cardiovascular disease
+C) Increased immune strength
+D) Enhanced decision-making
+Answer: B) Cardiovascular disease
+
+Q14. How does lack of sleep affect cognitive functions?
+A) It improves them significantly.
+B) It has no noticeable effect.
+C) It impairs attention and decision-making.
+D) It makes reaction times faster.
+Answer: C) It impairs attention and decision-making.
+
+Q15. The phrase "sleep hygiene" in the passage most likely refers to:
+A) Washing hands before bed.
+B) Habits conducive to sleeping well regularly.
+C) Cleaning the bedroom frequently.
+D) Taking sleeping pills.
+Answer: B) Habits conducive to sleeping well regularly.
+
+
+Passage 4
+The Renaissance was a fervent period of European cultural, artistic, political, and economic "rebirth" following the Middle Ages. Generally described as taking place from the 14th century to the 17th century, the Renaissance promoted the rediscovery of classical philosophy, literature, and art. Some of the greatest thinkers, authors, statesmen, scientists, and artists in human history thrived during this era. Florence, Italy, is widely considered the birthplace of the Renaissance, largely thanks to the patronage of the wealthy Medici family. Innovations such as Johannes Gutenberg's printing press allowed ideas to spread across Europe rapidly. This era marked the transition from the Middle Ages to modernity, laying the groundwork for the scientific revolution and the Enlightenment.
+
+Q16. During which centuries did the Renaissance generally take place?
+A) 12th to 14th century
+B) 14th to 17th century
+C) 17th to 19th century
+D) 10th to 12th century
+Answer: B) 14th to 17th century
+
+Q17. Which city is widely considered the birthplace of the Renaissance?
+A) Rome
+B) Paris
+C) London
+D) Florence
+Answer: D) Florence
+
+Q18. What did the Renaissance promote the rediscovery of?
+A) Modern technology
+B) Classical philosophy, literature, and art
+C) Medieval farming techniques
+D) Industrial machinery
+Answer: B) Classical philosophy, literature, and art
+
+Q19. How did Johannes Gutenberg contribute to the Renaissance?
+A) He painted famous artworks.
+B) He discovered gravity.
+C) His printing press allowed ideas to spread rapidly.
+D) He funded the artists.
+Answer: C) His printing press allowed ideas to spread rapidly.
+
+Q20. The Renaissance marked the transition from the Middle Ages to:
+A) The Dark Ages
+B) Modernity
+C) The Industrial Revolution
+D) The Ancient Era
+Answer: B) Modernity

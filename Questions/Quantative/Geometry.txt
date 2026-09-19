@@ -1,0 +1,141 @@
+Geometry
+
+Q1. If an angle is 30 degrees less than its supplement, what is the measure of the angle?
+A) 45 degrees
+B) 60 degrees
+C) 75 degrees
+D) 105 degrees
+Answer: C) 75 degrees
+
+Q2. Two complementary angles are in the ratio 4:5. The larger angle is:
+A) 40 degrees
+B) 50 degrees
+C) 80 degrees
+D) 100 degrees
+Answer: B) 50 degrees
+
+Q3. The sum of the interior angles of a regular hexagon is:
+A) 360 degrees
+B) 540 degrees
+C) 720 degrees
+D) 900 degrees
+Answer: C) 720 degrees
+
+Q4. What is the measure of each exterior angle of a regular octagon?
+A) 30 degrees
+B) 45 degrees
+C) 60 degrees
+D) 72 degrees
+Answer: B) 45 degrees
+
+Q5. In a right-angled triangle, if one acute angle is 35 degrees, the other acute angle is:
+A) 45 degrees
+B) 55 degrees
+C) 65 degrees
+D) 145 degrees
+Answer: B) 55 degrees
+
+Q6. The lengths of two sides of a triangle are 7 cm and 10 cm. Which of the following can be the length of the third side?
+A) 2 cm
+B) 3 cm
+C) 15 cm
+D) 18 cm
+Answer: C) 15 cm
+
+Q7. In triangle ABC, angle B = 90 degrees. If AB = 6 cm and BC = 8 cm, the length of the hypotenuse AC is:
+A) 10 cm
+B) 12 cm
+C) 14 cm
+D) 16 cm
+Answer: A) 10 cm
+
+Q8. If the lengths of the sides of a triangle are 3 cm, 4 cm, and 5 cm, the radius of its circumcircle is:
+A) 1.5 cm
+B) 2 cm
+C) 2.5 cm
+D) 3 cm
+Answer: C) 2.5 cm
+
+Q9. A chord of length 16 cm is drawn in a circle of radius 10 cm. Find the distance of the chord from the center of the circle.
+A) 4 cm
+B) 5 cm
+C) 6 cm
+D) 8 cm
+Answer: C) 6 cm
+
+Q10. Angles subtended by the same arc at any point on the remaining part of the circle are:
+A) Complementary
+B) Supplementary
+C) Equal
+D) Unequal
+Answer: C) Equal
+
+Q11. In a circle, a central angle of 60 degrees subtends an arc of length 11 cm. What is the circumference of the circle?
+A) 33 cm
+B) 44 cm
+C) 66 cm
+D) 132 cm
+Answer: C) 66 cm
+
+Q12. Two circles with radii 5 cm and 3 cm touch each other externally. The distance between their centers is:
+A) 2 cm
+B) 4 cm
+C) 8 cm
+D) 15 cm
+Answer: C) 8 cm
+
+Q13. How many common tangents can be drawn to two intersecting circles?
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B) 2
+
+Q14. If the area of a circle is 154 sq cm, its radius is (Take pi = 22/7):
+A) 7 cm
+B) 14 cm
+C) 21 cm
+D) 28 cm
+Answer: A) 7 cm
+
+Q15. The line joining the midpoints of two sides of a triangle is parallel to the third side and is:
+A) Equal to it
+B) Half of it
+C) One-third of it
+D) Double of it
+Answer: B) Half of it
+
+Q16. The circumcenter of an obtuse-angled triangle lies:
+A) Inside the triangle
+B) Outside the triangle
+C) On the longest side
+D) On a vertex
+Answer: B) Outside the triangle
+
+Q17. In a cyclic quadrilateral ABCD, if angle A = 70 degrees, then the opposite angle C is:
+A) 20 degrees
+B) 70 degrees
+C) 90 degrees
+D) 110 degrees
+Answer: D) 110 degrees
+
+Q18. The ratio of the areas of two similar triangles is equal to the ratio of the:
+A) Corresponding sides
+B) Corresponding altitudes
+C) Squares of their corresponding sides
+D) Cubes of their corresponding sides
+Answer: C) Squares of their corresponding sides
+
+Q19. An angle inscribed in a semicircle is always:
+A) An acute angle
+B) An obtuse angle
+C) A right angle
+D) A straight angle
+Answer: C) A right angle
+
+Q20. In an equilateral triangle of side 2a, the length of its altitude is:
+A) a
+B) a√2
+C) a√3
+D) 2a√3
+Answer: C) a√3

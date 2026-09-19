@@ -1,0 +1,141 @@
+Algebra
+
+Q1. If x + 1/x = 4, find the value of x^2 + 1/x^2.
+A) 12
+B) 14
+C) 16
+D) 18
+Answer: B) 14
+
+Q2. If a - b = 3 and a^2 + b^2 = 29, find the value of ab.
+A) 10
+B) 12
+C) 15
+D) 18
+Answer: A) 10
+
+Q3. If x + y = 5 and xy = 6, find the value of x^3 + y^3.
+A) 35
+B) 45
+C) 55
+D) 65
+Answer: A) 35
+
+Q4. Solve for x: 3(x - 2) + 4 = 5x - 6.
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B) 2
+
+Q5. If a/b = 2/3 and b/c = 4/5, what is the value of (a+b)/(b+c)?
+A) 15/27
+B) 16/27
+C) 20/27
+D) 25/27
+Answer: C) 20/27
+
+Q6. Find the factors of x^2 - 5x + 6.
+A) (x - 2)(x + 3)
+B) (x + 2)(x - 3)
+C) (x - 2)(x - 3)
+D) (x + 2)(x + 3)
+Answer: C) (x - 2)(x - 3)
+
+Q7. If 2^x = 32, find the value of x^3.
+A) 25
+B) 64
+C) 125
+D) 216
+Answer: C) 125
+
+Q8. If x + 1/x = 3, what is the value of x^3 + 1/x^3?
+A) 18
+B) 24
+C) 27
+D) 36
+Answer: A) 18
+
+Q9. If a + b + c = 0, find the value of a^3 + b^3 + c^3.
+A) 0
+B) abc
+C) 2abc
+D) 3abc
+Answer: D) 3abc
+
+Q10. The sum of two numbers is 15 and their difference is 3. What is the product of the two numbers?
+A) 45
+B) 50
+C) 54
+D) 56
+Answer: C) 54
+
+Q11. If 5x - 3 = 2x + 9, find the value of 3x^2.
+A) 24
+B) 36
+C) 48
+D) 64
+Answer: C) 48
+
+Q12. Evaluate the expression: (a - b)^2 + (a + b)^2
+A) 2(a^2 - b^2)
+B) 2(a^2 + b^2)
+C) 4ab
+D) a^2 + b^2
+Answer: B) 2(a^2 + b^2)
+
+Q13. If x^2 - y^2 = 16 and x + y = 8, what is the value of x - y?
+A) 2
+B) 3
+C) 4
+D) 8
+Answer: A) 2
+
+Q14. If 3a = 4b = 5c, find the ratio a : b : c.
+A) 12:15:20
+B) 15:12:20
+C) 20:15:12
+D) 20:12:15
+Answer: C) 20:15:12
+
+Q15. Which of the following is equal to a^4 - b^4?
+A) (a - b)^4
+B) (a^2 - b^2)^2
+C) (a - b)(a + b)(a^2 + b^2)
+D) (a - b)(a + b)(a^2 - b^2)
+Answer: C) (a - b)(a + b)(a^2 + b^2)
+
+Q16. The roots of the quadratic equation x^2 - 7x + 12 = 0 are:
+A) 2 and 5
+B) -3 and -4
+C) 3 and 4
+D) 1 and 6
+Answer: C) 3 and 4
+
+Q17. If x - 1/x = 5, find the value of x^2 + 1/x^2.
+A) 23
+B) 25
+C) 27
+D) 29
+Answer: C) 27
+
+Q18. If 2x + y = 10 and y = 4, what is the value of x?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: B) 3
+
+Q19. What is the simplified value of the expression (x + y)^2 - (x - y)^2?
+A) 2x^2 + 2y^2
+B) 2xy
+C) 4xy
+D) 0
+Answer: C) 4xy
+
+Q20. If p + q = 7 and pq = 12, then the value of 1/p + 1/q is:
+A) 5/12
+B) 7/12
+C) 12/7
+D) 1
+Answer: B) 7/12

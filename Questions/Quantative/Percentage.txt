@@ -1,0 +1,141 @@
+Percentage
+
+Q1. If 20% of a number is 60, what is 50% of that same number?
+A) 100
+B) 120
+C) 150
+D) 300
+Answer: C) 150
+
+Q2. A worker's salary was increased by 20% and then subsequently decreased by 20%. What is the net change in his salary?
+A) 0% (No change)
+B) 2% decrease
+C) 4% decrease
+D) 4% increase
+Answer: C) 4% decrease
+
+Q3. In an election between two candidates, the winner got 60% of the valid votes and won by a majority of 2000 votes. Find the total number of valid votes.
+A) 8000
+B) 10000
+C) 12000
+D) 15000
+Answer: B) 10000
+
+Q4. What percentage is equivalent to the fraction 3/8?
+A) 33.33%
+B) 37.5%
+C) 62.5%
+D) 75%
+Answer: B) 37.5%
+
+Q5. The population of a town increases by 10% annually. If the present population is 10,000, what will it be after 2 years?
+A) 12000
+B) 12100
+C) 12200
+D) 12500
+Answer: B) 12100
+
+Q6. A student needs 40% marks to pass an exam. He gets 178 marks and fails by 22 marks. What are the maximum marks for the exam?
+A) 400
+B) 500
+C) 600
+D) 800
+Answer: B) 500
+
+Q7. If the price of sugar increases by 25%, by what percentage must a household decrease its consumption so that their monthly expenditure remains the same?
+A) 15%
+B) 20%
+C) 25%
+D) 30%
+Answer: B) 20%
+
+Q8. Two numbers are respectively 20% and 50% more than a third number. The ratio of the two numbers is:
+A) 2:5
+B) 4:5
+C) 5:4
+D) 6:7
+Answer: B) 4:5
+
+Q9. Ravi spends 30% of his income on food, 20% on rent, and saves the rest. If his savings are $2500, what is his total income?
+A) $4000
+B) $5000
+C) $6000
+D) $7500
+Answer: B) $5000
+
+Q10. In a class, 60% of students like Math, 50% like Science, and 20% like both. What percentage of students like neither?
+A) 10%
+B) 20%
+C) 30%
+D) 40%
+Answer: A) 10%
+
+Q11. If A's height is 10% more than B's height, by how much percent is B's height less than that of A?
+A) 9.09%
+B) 10%
+C) 10.01%
+D) 11.11%
+Answer: A) 9.09%
+
+Q12. 65% of a number is 21 less than 4/5 of that number. What is the number?
+A) 100
+B) 120
+C) 140
+D) 160
+Answer: C) 140
+
+Q13. The price of an article is cut by 20%. To restore it to its original price, the new price must be increased by:
+A) 15%
+B) 20%
+C) 22.5%
+D) 25%
+Answer: D) 25%
+
+Q14. Half of 1 percent, written as a decimal, is:
+A) 0.005
+B) 0.05
+C) 0.5
+D) 5.0
+Answer: A) 0.005
+
+Q15. What is 30% of 28% of 480?
+A) 38.42
+B) 40.32
+C) 42.16
+D) 45.50
+Answer: B) 40.32
+
+Q16. If 15% of x is the same as 20% of y, then x:y is:
+A) 3:4
+B) 4:3
+C) 15:20
+D) 20:15
+Answer: B) 4:3
+
+Q17. In a test, a candidate scored 30% marks and failed by 15 marks. Another candidate scored 40% marks and got 35 marks more than the minimum passing marks. The maximum marks for the test are:
+A) 400
+B) 450
+C) 500
+D) 600
+Answer: C) 500
+
+Q18. The length of a rectangle is increased by 30% and its breadth is decreased by 20%. What is the percentage change in its area?
+A) 4% decrease
+B) 4% increase
+C) 10% decrease
+D) 10% increase
+Answer: B) 4% increase
+
+Q19. If 5% of A = B, then B% of 20 is the same as:
+A) 1% of A
+B) 2% of A
+C) 5% of A
+D) 20% of A
+Answer: A) 1% of A
+
+Q20. In an examination, 35% of the total students failed in Hindi, 45% failed in English, and 20% failed in both. The percentage of those who passed in both subjects is:
+A) 10%
+B) 20%
+C) 30%
+D) 40%
+Answer: D) 40%

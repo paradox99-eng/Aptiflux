@@ -1,0 +1,141 @@
+Calendar Problems
+
+Q1. What was the day of the week on 15th August 1947?
+A) Thursday
+B) Friday
+C) Saturday
+D) Sunday
+Answer: B) Friday
+
+Q2. Today is Monday. After 61 days, it will be:
+A) Tuesday
+B) Thursday
+C) Saturday
+D) Sunday
+Answer: C) Saturday
+
+Q3. If 1st January 2007 was Monday, what day of the week lies on 1st January 2008?
+A) Tuesday
+B) Wednesday
+C) Thursday
+D) Friday
+Answer: A) Tuesday
+
+Q4. How many odd days are there in 100 years?
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: C) 5
+
+Q5. Which of the following is not a leap year?
+A) 700
+B) 800
+C) 1200
+D) 2000
+Answer: A) 700
+
+Q6. What was the day of the week on 28th May 2006?
+A) Friday
+B) Saturday
+C) Sunday
+D) Monday
+Answer: C) Sunday
+
+Q7. On what dates of April 2001 did Wednesday fall?
+A) 1st, 8th, 15th, 22nd, 29th
+B) 2nd, 9th, 16th, 23rd, 30th
+C) 3rd, 10th, 17th, 24th
+D) 4th, 11th, 18th, 25th
+Answer: D) 4th, 11th, 18th, 25th
+
+Q8. The last day of a century cannot be:
+A) Monday
+B) Wednesday
+C) Tuesday
+D) Friday
+Answer: C) Tuesday
+
+Q9. If 6th March 2005 is Monday, what was the day of the week on 6th March 2004?
+A) Friday
+B) Saturday
+C) Sunday
+D) Tuesday
+Answer: C) Sunday
+
+Q10. The calendar for the year 2007 will be the same for the year:
+A) 2014
+B) 2016
+C) 2017
+D) 2018
+Answer: D) 2018
+
+Q11. It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?
+A) Thursday
+B) Friday
+C) Saturday
+D) Monday
+Answer: B) Friday
+
+Q12. How many days are there in x weeks x days?
+A) 7x²
+B) 8x
+C) 14x
+D) 7
+Answer: B) 8x
+
+Q13. Which of the following years has the same calendar as 1990?
+A) 1996
+B) 1997
+C) 2000
+D) 2001
+Answer: D) 2001
+
+Q14. If the 2nd of a month falls on Sunday, what day will be the 31st of that month?
+A) Sunday
+B) Monday
+C) Tuesday
+D) Wednesday
+Answer: B) Monday
+
+Q15. 15th February 2012 was Wednesday. What day of the week was 15th February 2011?
+A) Monday
+B) Tuesday
+C) Thursday
+D) Friday
+Answer: B) Tuesday
+
+Q16. The year next to 1988 having the same calendar as that of 1988 is:
+A) 2012
+B) 2014
+C) 2016
+D) 2020
+Answer: C) 2016
+
+Q17. What was the day of the week on 17th June 1998?
+A) Monday
+B) Tuesday
+C) Wednesday
+D) Thursday
+Answer: C) Wednesday
+
+Q18. If the 7th day of a month is three days earlier than Friday, what day will it be on the 19th day of the month?
+A) Sunday
+B) Monday
+C) Wednesday
+D) Friday
+Answer: A) Sunday
+
+Q19. At what interval do Leap years usually occur?
+A) 2 years
+B) 4 years
+C) 8 years
+D) 10 years
+Answer: B) 4 years
+
+Q20. If 8th December 2007 was Saturday, what day of the week was 8th December 2006?
+A) Thursday
+B) Friday
+C) Sunday
+D) Monday
+Answer: B) Friday

@@ -1,0 +1,143 @@
+Banking Awareness
+
+
+
+Q1. When was the Reserve Bank of India (RBI) established?
+A) 1st April 1935
+B) 15th August 1947
+C) 1st January 1949
+D) 26th January 1950
+Answer: A) 1st April 1935
+
+Q2. Which of the following is NOT a function of the Reserve Bank of India (RBI)?
+A) Issuer of currency notes
+B) Banker to the government
+C) Accepting deposits from the general public
+D) Controller of credit and monetary policy
+Answer: C) Accepting deposits from the general public
+
+Q3. What does the acronym 'NEFT' stand for in banking?
+A) National Electronic Funds Transfer
+B) National Economy Funds Transfer
+C) New Electronic Funds Transfer
+D) Net Electronic Funds Transaction
+Answer: A) National Electronic Funds Transfer
+
+Q4. In banking terminology, what does 'NPA' mean?
+A) Non-Performing Asset
+B) Net Performing Asset
+C) National Performing Asset
+D) Non-Promissory Asset
+Answer: A) Non-Performing Asset
+
+Q5. Which rate is used by the RBI to absorb liquidity from the commercial banks?
+A) Repo Rate
+B) Reverse Repo Rate
+C) Bank Rate
+D) Marginal Standing Facility (MSF)
+Answer: B) Reverse Repo Rate
+
+Q6. The headquarters of the Reserve Bank of India is located in:
+A) New Delhi
+B) Kolkata
+C) Mumbai
+D) Chennai
+Answer: C) Mumbai
+
+Q7. What is the maximum insurance cover provided by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor per bank?
+A) Rs. 1 Lakh
+B) Rs. 3 Lakhs
+C) Rs. 5 Lakhs
+D) Rs. 10 Lakhs
+Answer: C) Rs. 5 Lakhs
+
+Q8. Which of the following is the largest public sector bank in India?
+A) Bank of Baroda
+B) Punjab National Bank
+C) State Bank of India
+D) Canara Bank
+Answer: C) State Bank of India
+
+Q9. RTGS is a system where there is continuous and real-time settlement of fund transfers. What does 'RTGS' stand for?
+A) Real Time Gross Settlement
+B) Real Time General Settlement
+C) Rapid Transfer Gross Settlement
+D) Regular Time Gross Settlement
+Answer: A) Real Time Gross Settlement
+
+Q10. 'KYC' (Know Your Customer) guidelines are issued by the RBI under the provisions of which act?
+A) Banking Regulation Act, 1949
+B) Reserve Bank of India Act, 1934
+C) Prevention of Money Laundering Act, 2002
+D) Negotiable Instruments Act, 1881
+Answer: A) Banking Regulation Act, 1949
+
+Q11. What does the term 'Bancassurance' refer to?
+A) Selling of banking products by insurance companies
+B) Selling of insurance products by banks
+C) Insurance of bank deposits by the RBI
+D) A special type of bank account for insurance companies
+Answer: B) Selling of insurance products by banks
+
+Q12. Which of the following is commonly referred to as 'Plastic Money'?
+A) Bearer Cheques
+B) Demand Drafts
+C) Credit Cards
+D) Currency Notes
+Answer: C) Credit Cards
+
+Q13. What does 'SLR' stand for in the context of Indian banking and monetary policy?
+A) Statutory Liquidity Ratio
+B) State Liquidity Ratio
+C) Standard Liquid Reserve
+D) Statutory Lending Rate
+Answer: A) Statutory Liquidity Ratio
+
+Q14. The MICR (Magnetic Ink Character Recognition) code present on a bank cheque consists of how many digits?
+A) 9
+B) 10
+C) 11
+D) 12
+Answer: A) 9
+
+Q15. An IFSC code uniquely identifies a bank branch participating in the NEFT system. It consists of how many characters?
+A) 9
+B) 10
+C) 11
+D) 12
+Answer: C) 11
+
+Q16. In the Indian banking system, the Base Rate or MCLR (Marginal Cost of Funds based Lending Rate) is decided by:
+A) The Reserve Bank of India (RBI)
+B) The Government of India
+C) The Individual Banks
+D) The Indian Banks' Association (IBA)
+Answer: C) The Individual Banks
+
+Q17. What is the meaning of a 'Stale Cheque' in banking?
+A) A cheque issued without a date
+B) A cheque which has completed three months from its date of issue
+C) A post-dated cheque
+D) A torn or mutilated cheque
+Answer: B) A cheque which has completed three months from its date of issue
+
+Q18. Which committee recommended the establishment of Regional Rural Banks (RRBs) in India?
+A) Narasimham Committee
+B) Kelkar Committee
+C) Rangarajan Committee
+D) Raghuram Rajan Committee
+Answer: A) Narasimham Committee
+
+Q19. In the money market, what is 'Call Money'?
+A) Money borrowed or lent for a day
+B) Money borrowed or lent for 2 to 14 days
+C) Money borrowed or lent for more than 14 days
+D) Money borrowed by the government from the RBI
+Answer: A) Money borrowed or lent for a day
+
+Q20. NABARD (National Bank for Agriculture and Rural Development) was primarily established to provide credit for:
+A) Industrial Development
+B) Agriculture and Rural Development
+C) Foreign Trade and Exports
+D) Urban Infrastructure
+Answer: B) Agriculture and Rural Development

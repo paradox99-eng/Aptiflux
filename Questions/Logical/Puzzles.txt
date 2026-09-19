@@ -1,0 +1,173 @@
+Puzzles
+
+Directions (Q1-Q5): Read the following information carefully and answer the questions given below.
+Six people A, B, C, D, E, and F live on six different floors of a building. The ground floor is numbered 1, the floor above it is 2, and so on up to the top floor numbered 6.
+1) C lives on an even-numbered floor but not on the top floor.
+2) Only two people live between C and E.
+3) A lives immediately above E.
+4) B lives on an odd-numbered floor but not on the ground floor.
+5) D lives on a floor higher than F.
+
+Q1. Who lives on the top floor (Floor 6)?
+A) E
+B) A
+C) D
+D) B
+Answer: B) A
+
+Q2. How many people live between B and F?
+A) None
+B) One
+C) Two
+D) Three
+Answer: B) One
+
+Q3. On which floor does D live?
+A) 2nd floor
+B) 3rd floor
+C) 4th floor
+D) 5th floor
+Answer: C) 4th floor
+
+Q4. Who lives immediately below C?
+A) B
+B) D
+C) E
+D) F
+Answer: D) F
+
+Q5. Which of the following pairs represents the people living on the even-numbered floors (from bottom to top)?
+A) C, D, A
+B) F, C, E
+C) B, C, A
+D) F, B, E
+Answer: A) C, D, A
+
+
+Directions (Q6-Q10): Read the following information carefully and answer the questions given below.
+Five subjects—Math, Physics, Chemistry, Biology, and English—are taught from Monday to Friday, one subject per day.
+1) Chemistry is taught on Thursday.
+2) Math is taught immediately before Biology.
+3) Physics is taught after English.
+4) English is not taught on Monday.
+
+Q6. Which subject is taught on Monday?
+A) Math
+B) English
+C) Physics
+D) Biology
+Answer: A) Math
+
+Q7. Which subject is taught immediately after Chemistry?
+A) English
+B) Math
+C) Physics
+D) Biology
+Answer: C) Physics
+
+Q8. On which day is English taught?
+A) Tuesday
+B) Wednesday
+C) Thursday
+D) Friday
+Answer: B) Wednesday
+
+Q9. How many subjects are taught between Math and Chemistry?
+A) None
+B) One
+C) Two
+D) Three
+Answer: C) Two
+
+Q10. Which of the following statements is true based on the schedule?
+A) Biology is taught on Wednesday
+B) English is taught on Tuesday
+C) Physics is taught on Friday
+D) Math is taught on Thursday
+Answer: C) Physics is taught on Friday
+
+
+Directions (Q11-Q15): Read the following information carefully and answer the questions given below.
+Five friends P, Q, R, S, and T wear five different colored shirts: Red, Blue, Green, Yellow, and Black (not necessarily in that order).
+1) S wears a Blue shirt.
+2) Q wears a Green shirt.
+3) P wears neither a Red nor a Black shirt.
+4) T wears a Red shirt.
+
+Q11. Who wears the Black shirt?
+A) P
+B) Q
+C) R
+D) T
+Answer: C) R
+
+Q12. Which color shirt does P wear?
+A) Black
+B) Yellow
+C) Red
+D) Blue
+Answer: B) Yellow
+
+Q13. Which of the following combinations of person and shirt color is correct?
+A) P - Black
+B) R - Yellow
+C) T - Red
+D) S - Green
+Answer: C) T - Red
+
+Q14. If P and S exchange their shirts, what color shirt will S wear?
+A) Yellow
+B) Blue
+C) Black
+D) Red
+Answer: A) Yellow
+
+Q15. Which color shirt does Q wear?
+A) Yellow
+B) Green
+C) Blue
+D) Black
+Answer: B) Green
+
+
+Directions (Q16-Q20): Read the following information carefully and answer the questions given below.
+A committee of 3 members is to be formed from a group of 3 men (M1, M2, M3) and 3 women (W1, W2, W3) with the following conditions:
+1) The committee must have exactly two men and one woman, OR exactly two women and one man.
+2) M1 cannot be on the same committee as W1.
+3) M2 and W2 must always be selected together.
+4) W3 cannot be selected if M3 is selected.
+
+Q16. Which of the following members must definitely be in any valid committee formed?
+A) M1
+B) M2
+C) W1
+D) W3
+Answer: B) M2
+
+Q17. If M3 is selected for the committee, who must be the other two members?
+A) M1 and W2
+B) M2 and W1
+C) M2 and W2
+D) W1 and W2
+Answer: C) M2 and W2
+
+Q18. How many different combinations of the committee are possible?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: C) 4
+
+Q19. If W1 is selected for the committee, who are the other two members?
+A) M1 and M2
+B) M2 and W2
+C) M3 and W2
+D) W2 and W3
+Answer: B) M2 and W2
+
+Q20. Which of the following combinations is NOT a valid committee?
+A) M1, M2, W2
+B) M2, M3, W2
+C) M2, W1, W2
+D) M1, M3, W2
+Answer: D) M1, M3, W2
