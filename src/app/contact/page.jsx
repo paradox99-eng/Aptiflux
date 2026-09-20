@@ -7,7 +7,6 @@ export default function ContactUs() {
   const [formData, setFormData] = useState({
     name: '',
     roomNo: '',
-    year: '',
     stream: '',
     message: ''
   });
@@ -16,7 +15,7 @@ export default function ContactUs() {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
-  const mailBody = `Name: ${formData.name}\nRoom No: ${formData.roomNo}\nYear: ${formData.year}\nStream: ${formData.stream}\n\nMessage:\n${formData.message}`;
+  const mailBody = `Name: ${formData.name}\nRoom No: ${formData.roomNo}\nStream: ${formData.stream}\n\nMessage:\n${formData.message}`;
   const mailToLink = `mailto:parthibdutta947@gmail.com?subject=${encodeURIComponent('Aptiflux Support Inquiry')}&body=${encodeURIComponent(mailBody)}`;
 
   return (
@@ -91,9 +90,8 @@ export default function ContactUs() {
 
             <div className="space-y-4 mb-6 text-sm">
               <input type="text" name="name" value={formData.name} onChange={handleInputChange} placeholder="Your Name" className="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:border-primary transition-colors" />
-              <div className="grid grid-cols-2 gap-4">
+              <div className="grid grid-cols-1 gap-4">
                 <input type="text" name="roomNo" value={formData.roomNo} onChange={handleInputChange} placeholder="Room No." className="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:border-primary transition-colors" />
-                <input type="text" name="year" value={formData.year} onChange={handleInputChange} placeholder="Year" className="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:border-primary transition-colors" />
               </div>
               <input type="text" name="stream" value={formData.stream} onChange={handleInputChange} placeholder="Stream" className="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:border-primary transition-colors" />
               <textarea name="message" value={formData.message} onChange={handleInputChange} placeholder="Your Message" rows="4" className="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:border-primary transition-colors resize-none"></textarea>

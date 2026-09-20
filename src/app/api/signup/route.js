@@ -39,9 +39,9 @@ export async function POST(request) {
       return NextResponse.json({ error: 'Too many signup attempts from this IP. Please try again later.' }, { status: 429 });
     }
 
-    const { name, email, room_no, stream, year, password } = await request.json();
+    const { name, email, room_no, stream, password } = await request.json();
 
-    if (!name || !email || !room_no || !stream || !year || !password) {
+    if (!name || !email || !room_no || !stream || !password) {
       return NextResponse.json({ error: 'Missing required fields' }, { status: 400 });
     }
 
@@ -51,7 +51,6 @@ export async function POST(request) {
       typeof email !== 'string' || email.length > 254 ||
       typeof room_no !== 'string' || room_no.length > 50 ||
       typeof stream !== 'string' || stream.length > 50 ||
-      typeof year !== 'string' || year.length > 10 ||
       typeof password !== 'string' || password.length > 128
     ) {
       return NextResponse.json({ error: 'Invalid input parameters' }, { status: 400 });
@@ -70,11 +69,10 @@ export async function POST(request) {
           email: email.trim().toLowerCase(),
           room_no: room_no.trim(),
           stream: stream.trim(),
-          year: year.trim(),
           password_hash
         }
       ])
-      .select('Uid, name, email, room_no, stream, year')
+      .select('Uid, name, email, room_no, stream')
       .single();
 
     if (error) {

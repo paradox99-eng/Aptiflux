@@ -12,7 +12,6 @@ export default function Signup() {
   const [email, setEmail] = useState('');
   const [roomNo, setRoomNo] = useState('');
   const [stream, setStream] = useState('');
-  const [year, setYear] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
   const [error, setError] = useState('');
@@ -25,7 +24,7 @@ export default function Signup() {
     setError('');
     setLoading(true);
     try {
-      await signup(email, password, name, roomNo, stream, year);
+      await signup(email, password, name, roomNo, stream);
       router.push('/profile');
     } catch (err) {
       setError(err.message || 'Failed to create an account');
@@ -72,27 +71,15 @@ export default function Signup() {
             />
           </div>
           
-          <div className="grid grid-cols-2 gap-4">
-            <div>
-              <label className="block text-sm font-medium text-slate-300 mb-1">Room No</label>
-              <Input 
-                type="text" 
-                required
-                className="focus:ring-accent/50 focus:border-accent"
-                value={roomNo}
-                onChange={e => setRoomNo(e.target.value)}
-              />
-            </div>
-            <div>
-              <label className="block text-sm font-medium text-slate-300 mb-1">Year</label>
-              <Input 
-                type="text" 
-                required
-                className="focus:ring-accent/50 focus:border-accent"
-                value={year}
-                onChange={e => setYear(e.target.value)}
-              />
-            </div>
+          <div>
+            <label className="block text-sm font-medium text-slate-300 mb-1">Room No</label>
+            <Input 
+              type="text" 
+              required
+              className="focus:ring-accent/50 focus:border-accent"
+              value={roomNo}
+              onChange={e => setRoomNo(e.target.value)}
+            />
           </div>
           
           <div>

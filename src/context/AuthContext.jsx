@@ -30,7 +30,7 @@ export function AuthProvider({ children }) {
     checkSession();
   }, []);
 
-  const signup = async (email, password, name, roomNo, stream, year) => {
+  const signup = async (email, password, name, roomNo, stream) => {
     try {
       const response = await fetch('/api/signup', {
         method: 'POST',
@@ -42,7 +42,6 @@ export function AuthProvider({ children }) {
           email,
           room_no: roomNo, 
           stream,
-          year,
           password 
         }),
       });
