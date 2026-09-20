@@ -18,7 +18,7 @@ export default function PublicProfile() {
     const fetchPublicData = async () => {
       try {
         setLoading(true);
-        // Fetch profile stats
+        // Fetch profile stats and claimed badges in a single request
         const profileRes = await fetch(`/api/public-profile?uid=${uid}`);
         if (!profileRes.ok) {
           if (profileRes.status === 404) {
@@ -28,15 +28,7 @@ export default function PublicProfile() {
         }
         const profileData = await profileRes.json();
         setProfile(profileData);
-
-        // Fetch badges (we only care about claimed badges for public view)
-        const badgeRes = await fetch(`/api/badges?student_id=${uid}`);
-        if (badgeRes.ok) {
-          const badgeData = await badgeRes.json();
-          if (badgeData && badgeData.claimed) {
-            setClaimedBadges(badgeData.claimed);
-          }
-        }
+        setClaimedBadges(profileData.claimed_badges || []);
       } catch (err) {
         setError(err.message);
       } finally {

@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import { supabase } from '../../../lib/supabase';
+import { ALL_BADGES } from '../../../lib/badges';
 
 export const revalidate = 0;
 
@@ -45,12 +46,22 @@ export async function GET(request) {
       overallAvg = totalPossible > 0 ? Math.round((totalScore / totalPossible) * 100) : 0;
     }
 
+    // 3. Fetch claimed badges
+    const { data: claimedRecords } = await supabase
+      .from('user_badges')
+      .select('badge_id')
+      .eq('student_id', uid);
+
+    const claimedIds = new Set((claimedRecords || []).map(r => r.badge_id));
+    const claimedBadges = ALL_BADGES.filter(badge => claimedIds.has(badge.id));
+
     return NextResponse.json({
       name: student.name,
       stream: student.stream,
       streak_count: student.streak_count || 0,
       total_tests: totalTests,
       average_score: overallAvg,
+      claimed_badges: claimedBadges
     }, { status: 200 });
 
   } catch (error) {
