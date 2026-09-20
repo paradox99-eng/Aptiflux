@@ -2,11 +2,24 @@
 import React, { useEffect, useState } from 'react';
 import { Trophy, Medal, Award, Loader2, AlertCircle } from 'lucide-react';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { useAuth } from '../../context/AuthContext';
 
 export default function LeaderboardClient({ initialLeaderboard, error: initialError }) {
   const { currentUser } = useAuth();
-  
+  const router = useRouter();
+  const [isClient, setIsClient] = useState(false);
+
+  useEffect(() => {
+    setIsClient(true);
+  }, []);
+
+  useEffect(() => {
+    if (isClient && !currentUser) {
+      router.replace('/login');
+    }
+  }, [isClient, currentUser, router]);
+
   const isSunday = new Date().getDay() === 0;
   const isAdmin = currentUser?.email === 'parthibdutta947@gmail.com';
   const canViewLeaderboard = isSunday || isAdmin;
@@ -14,6 +27,10 @@ export default function LeaderboardClient({ initialLeaderboard, error: initialEr
   const leaderboard = initialLeaderboard || [];
   const error = initialError || null;
   const loading = false;
+
+  if (!isClient || !currentUser) {
+    return null;
+  }
 
   const getRankIcon = (rank) => {
     switch (rank) {
