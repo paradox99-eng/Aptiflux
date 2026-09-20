@@ -67,7 +67,8 @@ export async function POST(request) {
           name: name.trim(),
           email: email.trim().toLowerCase(),
           stream: stream.trim(),
-          password_hash
+          password_hash,
+          room_no: 'N/A' // Default value because DB requires it
         }
       ])
       .select('Uid, name, email, stream')
@@ -79,7 +80,7 @@ export async function POST(request) {
       if (error.code === '23505') {
         return NextResponse.json({ error: 'User with this email already exists' }, { status: 409 });
       }
-      return NextResponse.json({ error: 'Failed to create user' }, { status: 500 });
+      return NextResponse.json({ error: `Supabase Error: ${error.message || 'Failed to create user'}` }, { status: 500 });
     }
 
     // Create secure HTTP-only cookie session
