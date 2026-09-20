@@ -75,10 +75,29 @@ export default function Profile() {
   };
 
 
-  const handleClearHistoryConfirm = () => {
-    localStorage.removeItem('aptitudeHistory');
-    setHistory([]);
-    setShowClearModal(false);
+  const handleClearHistoryConfirm = async () => {
+    if (currentUser?.Uid) {
+      try {
+        const res = await fetch(`/api/history?student_id=${currentUser.Uid}`, {
+          method: 'DELETE'
+        });
+        if (res.ok) {
+          setHistory([]);
+          setShowClearModal(false);
+          toast.success("History cleared successfully!");
+        } else {
+          toast.error("Failed to clear history.");
+        }
+      } catch (error) {
+        console.error("Failed to clear history:", error);
+        toast.error("Failed to clear history due to network error.");
+      }
+    } else {
+      localStorage.removeItem('aptitudeHistory');
+      setHistory([]);
+      setShowClearModal(false);
+      toast.success("Local history cleared!");
+    }
   };
 
   const handleClaimBadge = async (badgeId) => {

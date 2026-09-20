@@ -131,7 +131,9 @@ export default function LeaderboardClient({ initialLeaderboard, error: initialEr
                     {getRankIcon(student.rank)}
                   </div>
                   <div className="col-span-7 sm:col-span-5 font-bold text-foreground truncate text-lg">
-                    {student.student_name || 'Anonymous'}
+                    <Link href={`/user/${student.student_id}`} className="hover:text-primary transition-colors">
+                      {student.student_name || 'Anonymous'}
+                    </Link>
                   </div>
                   <div className="hidden sm:block col-span-2 text-center text-slate-400 font-medium">
                     {student.testsTaken}

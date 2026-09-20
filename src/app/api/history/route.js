@@ -36,3 +36,27 @@ export const GET = apiHandler(async (request, context, session) => {
 
   return NextResponse.json({ history }, { status: 200 });
 });
+
+export const DELETE = apiHandler(async (request, context, session) => {
+  const { searchParams } = new URL(request.url);
+  const student_id = searchParams.get('student_id');
+
+  if (!student_id) {
+    return NextResponse.json({ error: 'Missing student_id parameter' }, { status: 400 });
+  }
+
+  if (session.userId !== student_id) {
+    return NextResponse.json({ error: 'Forbidden: ID mismatch' }, { status: 403 });
+  }
+
+  const { error } = await supabase
+    .from('attempts')
+    .delete()
+    .eq('student_id', student_id);
+
+  if (error) {
+    throw new Error('Failed to delete history');
+  }
+
+  return NextResponse.json({ message: 'History cleared' }, { status: 200 });
+});
