@@ -34,13 +34,7 @@ export const metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL(
-    process.env.NEXT_PUBLIC_BASE_URL
-      ? process.env.NEXT_PUBLIC_BASE_URL
-      : process.env.VERCEL_URL
-      ? `https://${process.env.VERCEL_URL}`
-      : 'http://localhost:3000'
-  ),
+  metadataBase: new URL('https://aptiflux.vercel.app'),
   alternates: {
     canonical: '/',
   },
