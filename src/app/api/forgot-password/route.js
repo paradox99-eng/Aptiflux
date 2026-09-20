@@ -45,8 +45,9 @@ export async function POST(request) {
     }
 
     // 5. Send the email using Nodemailer (Gmail)
-    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 
-                    (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'http://localhost:3000');
+    const baseUrl = process.env.NODE_ENV === 'production' 
+      ? 'https://aptiflux.vercel.app' 
+      : 'http://localhost:3000';
                     
     const resetLink = `${baseUrl}/reset-password?token=${resetToken}`;
 
