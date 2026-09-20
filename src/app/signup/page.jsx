@@ -15,12 +15,17 @@ export default function Signup() {
   const [otherStream, setOtherStream] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
+  const [agreedToTerms, setAgreedToTerms] = useState(false);
   const [loading, setLoading] = useState(false);
   const { signup } = useAuth();
   const router = useRouter();
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    if (!agreedToTerms) {
+      toast.error('You must agree to the Terms and Conditions to sign up.');
+      return;
+    }
     setLoading(true);
     try {
       const finalStream = stream === 'Other' ? otherStream : stream;
@@ -121,6 +126,21 @@ export default function Signup() {
               </button>
             </div>
           </div>
+          
+          <div className="flex items-start gap-2 pt-2 pb-1">
+            <input 
+              type="checkbox" 
+              id="terms" 
+              required
+              checked={agreedToTerms}
+              onChange={(e) => setAgreedToTerms(e.target.checked)}
+              className="mt-1 cursor-pointer w-4 h-4 rounded border-slate-700 text-accent focus:ring-accent/50 bg-slate-900"
+            />
+            <label htmlFor="terms" className="text-sm text-slate-300">
+              I agree to the <Link href="/terms" className="text-accent hover:underline" target="_blank">Terms and Conditions</Link> and <Link href="/privacy" className="text-accent hover:underline" target="_blank">Privacy Policy</Link>
+            </label>
+          </div>
+
           <Button 
             type="submit" 
             disabled={loading}
