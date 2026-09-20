@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { supabase } from '../../../lib/supabase';
+import { supabaseAdmin } from '../../../lib/supabase-admin';
 import bcrypt from 'bcryptjs';
 
 export async function POST(request) {
@@ -15,7 +15,7 @@ export async function POST(request) {
     }
 
     // 1. Find user by token
-    const { data: user, error: userError } = await supabase
+    const { data: user, error: userError } = await supabaseAdmin
       .from('students')
       .select('Uid, reset_token_expires')
       .eq('reset_token', token)
@@ -38,7 +38,7 @@ export async function POST(request) {
     const hashedPassword = await bcrypt.hash(newPassword, salt);
 
     // 4. Update the user's password and clear the reset token
-    const { error: updateError } = await supabase
+    const { error: updateError } = await supabaseAdmin
       .from('students')
       .update({
         password_hash: hashedPassword,

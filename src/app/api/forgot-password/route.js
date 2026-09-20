@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { supabase } from '../../../lib/supabase';
+import { supabaseAdmin } from '../../../lib/supabase-admin';
 import crypto from 'crypto';
 import nodemailer from 'nodemailer';
 
@@ -12,7 +12,7 @@ export async function POST(request) {
     }
 
     // 1. Check if the user exists
-    const { data: user, error: userError } = await supabase
+    const { data: user, error: userError } = await supabaseAdmin
       .from('students')
       .select('Uid, email, name')
       .eq('email', email.trim().toLowerCase())
@@ -31,7 +31,7 @@ export async function POST(request) {
     resetTokenExpires.setHours(resetTokenExpires.getHours() + 1);
 
     // 4. Update the user in the database
-    const { error: updateError } = await supabase
+    const { error: updateError } = await supabaseAdmin
       .from('students')
       .update({
         reset_token: resetToken,
