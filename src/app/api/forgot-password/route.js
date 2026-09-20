@@ -1,9 +1,7 @@
 import { NextResponse } from 'next/server';
 import { supabase } from '../../../lib/supabase';
 import crypto from 'crypto';
-import { Resend } from 'resend';
-
-const resend = new Resend(process.env.RESEND_API_KEY);
+import nodemailer from 'nodemailer';
 
 export async function POST(request) {
   try {
@@ -22,7 +20,6 @@ export async function POST(request) {
 
     if (userError || !user) {
       // Security best practice: Don't reveal if email exists or not.
-      // Just return success even if user not found.
       return NextResponse.json({ message: 'If an account with that email exists, we sent a password reset link.' }, { status: 200 });
     }
 
@@ -47,16 +44,24 @@ export async function POST(request) {
       return NextResponse.json({ error: 'Failed to process request. Please try again later.' }, { status: 500 });
     }
 
-    // 5. Send the email using Resend
-    // Use the dynamic base URL depending on environment
+    // 5. Send the email using Nodemailer (Gmail)
     const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 
                     (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'http://localhost:3000');
                     
     const resetLink = `${baseUrl}/reset-password?token=${resetToken}`;
 
-    const { error: emailError } = await resend.emails.send({
-      from: 'Aptiflux Support <onboarding@resend.dev>', // Free tier Resend limit (requires onboarding@resend.dev for unverified domains)
-      to: [user.email],
+    // Configure Nodemailer with Gmail SMTP
+    const transporter = nodemailer.createTransport({
+      service: 'gmail',
+      auth: {
+        user: process.env.EMAIL_USER, // Your Gmail address
+        pass: process.env.EMAIL_PASS  // Your Gmail App Password
+      }
+    });
+
+    const mailOptions = {
+      from: `"Aptiflux Support" <${process.env.EMAIL_USER}>`,
+      to: user.email,
       subject: 'Reset your Aptiflux Password',
       html: `
         <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
@@ -68,12 +73,9 @@ export async function POST(request) {
           <p>Thanks,<br>The Aptiflux Team</p>
         </div>
       `,
-    });
+    };
 
-    if (emailError) {
-      console.error('Error sending email:', emailError);
-      return NextResponse.json({ error: 'Failed to send reset email. Please try again later.' }, { status: 500 });
-    }
+    await transporter.sendMail(mailOptions);
 
     return NextResponse.json({ message: 'If an account with that email exists, we sent a password reset link.' }, { status: 200 });
     
