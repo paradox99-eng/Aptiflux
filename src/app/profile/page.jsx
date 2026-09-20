@@ -27,12 +27,7 @@ export default function Profile() {
             const data = await res.json();
             const allHistory = data.history;
             
-            // Filter for only today's tests (optional, kept from original logic)
-            // If the user wanted all history, we could just use allHistory.
-            const todayStr = new Date().toLocaleDateString();
-            const todaysHistory = allHistory.filter(h => new Date(h.date).toLocaleDateString() === todayStr);
-            
-            setHistory(todaysHistory);
+            setHistory(allHistory);
           }
         } catch (error) {
           console.error("Failed to fetch history:", error);
@@ -56,9 +51,7 @@ export default function Profile() {
         const saved = localStorage.getItem('aptitudeHistory');
         if (saved) {
           const allHistory = JSON.parse(saved);
-          const todayStr = new Date().toLocaleDateString();
-          const todaysHistory = allHistory.filter(h => new Date(h.date).toLocaleDateString() === todayStr);
-          setHistory(todaysHistory);
+          setHistory(allHistory);
         }
       }
     };
@@ -194,7 +187,7 @@ export default function Profile() {
           {/* Today's Performance */}
           <div className="flex items-center justify-between mb-4">
             <h2 className="text-2xl font-bold flex items-center gap-2 text-foreground">
-              <Trophy className="text-primary" /> Today's Performance
+              <Trophy className="text-primary" /> Test History
             </h2>
             {history.length > 0 && (
               <button 
@@ -208,7 +201,7 @@ export default function Profile() {
 
           {history.length === 0 ? (
             <div className="glass-card border border-slate-800 p-8 rounded-2xl text-center">
-              <p className="text-slate-400 italic">No tests taken today. Head to the dashboard to start a mock test!</p>
+              <p className="text-slate-400 italic">No tests taken yet. Head to the dashboard to start a mock test!</p>
             </div>
           ) : (
             <div className="glass-card border border-slate-800 rounded-2xl overflow-hidden">
@@ -297,7 +290,7 @@ export default function Profile() {
                 <Trash2 size={24} />
               </div>
               <h3 className="text-xl font-bold text-foreground mb-2">Clear History?</h3>
-              <p className="text-slate-400">Are you sure you want to clear today's performance history? This action cannot be undone and will permanently reset your statistics.</p>
+              <p className="text-slate-400">Are you sure you want to clear your performance history? This action cannot be undone and will permanently reset your statistics.</p>
             </div>
             <div className="bg-slate-900/80 p-4 border-t border-slate-800 flex justify-end gap-3">
               <button 
