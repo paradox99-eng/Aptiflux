@@ -53,7 +53,7 @@ export async function POST(request) {
     // Fetch user from Supabase
     const { data: user, error } = await supabase
       .from('students')
-      .select('Uid, name, email, room_no, stream, year, password_hash, last_active_date, streak_count')
+      .select('Uid, name, email, stream, password_hash, last_active_date, streak_count')
       .eq('email', email.trim().toLowerCase()) // Normalize email
       .single();
 

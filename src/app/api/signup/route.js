@@ -67,8 +67,7 @@ export async function POST(request) {
           name: name.trim(),
           email: email.trim().toLowerCase(),
           stream: stream.trim(),
-          password_hash,
-          room_no: 'N/A' // Default value because DB requires it
+          password_hash
         }
       ])
       .select('Uid, name, email, stream')
