@@ -19,8 +19,8 @@ const firaCode = Fira_Code({
 });
 
 export const metadata = {
-  title: 'CogniCore Platform',
-  description: 'Online CogniCore Mock Test Platform',
+  title: 'Aptiflux Platform',
+  description: 'Online Aptiflux Mock Test Platform',
   icons: {
     icon: '/favicon.png',
   },

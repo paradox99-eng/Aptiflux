@@ -5,8 +5,8 @@ import { Button } from '../../components/ui/Button';
 import { Card } from '../../components/ui/Card';
 
 export const metadata = {
-  title: 'About Us | CogniCore',
-  description: 'Learn more about CogniCore and our mission to help students succeed.',
+  title: 'About Us | Aptiflux',
+  description: 'Learn more about Aptiflux and our mission to help students succeed.',
 };
 
 export default function AboutPage() {
@@ -19,7 +19,7 @@ export default function AboutPage() {
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-primary/20 blur-[100px] rounded-full z-0 pointer-events-none"></div>
           
           <div>
-            <h1 className="text-4xl sm:text-5xl font-bold tracking-tight text-white mb-4">About <span className="text-primary">CogniCore</span></h1>
+            <h1 className="text-4xl sm:text-5xl font-bold tracking-tight text-white mb-4">About <span className="text-primary">Aptiflux</span></h1>
             <p className="text-lg text-slate-400 max-w-2xl mx-auto">
               Your ultimate platform for mastering aptitude tests and accelerating your career preparation through AI-driven personalized learning.
             </p>

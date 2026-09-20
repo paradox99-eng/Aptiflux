@@ -17,7 +17,7 @@ export default function ContactUs() {
   };
 
   const mailBody = `Name: ${formData.name}\nRoom No: ${formData.roomNo}\nYear: ${formData.year}\nStream: ${formData.stream}\n\nMessage:\n${formData.message}`;
-  const mailToLink = `mailto:parthibdutta947@gmail.com?subject=${encodeURIComponent('CogniCore Support Inquiry')}&body=${encodeURIComponent(mailBody)}`;
+  const mailToLink = `mailto:parthibdutta947@gmail.com?subject=${encodeURIComponent('Aptiflux Support Inquiry')}&body=${encodeURIComponent(mailBody)}`;
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-8 py-12">

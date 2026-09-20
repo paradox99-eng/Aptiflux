@@ -15,14 +15,14 @@ export default function TermsOfService() {
         <section>
           <h2 className="text-xl font-semibold text-foreground mb-3">1. Acceptance of Terms</h2>
           <p className="text-slate-300 mb-6 leading-relaxed">
-            By accessing and using CogniCore (created and maintained by Paradox), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by these terms, please do not use this platform.
+            By accessing and using Aptiflux (created and maintained by Paradox), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by these terms, please do not use this platform.
           </p>
         </section>
 
         <section>
           <h2 className="text-xl font-semibold text-white mb-3">2. Description of Service</h2>
           <p className="text-slate-300 mb-6 leading-relaxed">
-            CogniCore provides an online environment for students (such as those from B.Tech, DIATM, and beyond) to practice aptitude questions and view their rankings on a global leaderboard. We reserve the right to modify or discontinue, temporarily or permanently, the service with or without notice.
+            Aptiflux provides an online environment for students (such as those from B.Tech, DIATM, and beyond) to practice aptitude questions and view their rankings on a global leaderboard. We reserve the right to modify or discontinue, temporarily or permanently, the service with or without notice.
           </p>
         </section>
 

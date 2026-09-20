@@ -15,7 +15,7 @@ export default function PrivacyPolicy() {
         <section>
           <h2 className="text-xl font-semibold text-white mb-3">1. Information We Collect</h2>
           <p className="text-slate-300 mb-4 leading-relaxed">
-            When you register for an account on CogniCore, we collect the following personal information:
+            When you register for an account on Aptiflux, we collect the following personal information:
           </p>
           <ul className="list-disc pl-5 mt-2 space-y-1">
             <li><strong>Personal Identification:</strong> Paradox, <a href="mailto:momentsinmotion788@gmail.com" className="text-primary underline hover:opacity-80">momentsinmotion788@gmail.com</a></li>

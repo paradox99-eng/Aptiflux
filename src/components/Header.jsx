@@ -22,7 +22,7 @@ export default function Header() {
       <div className="max-w-5xl mx-auto px-4 sm:px-8 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center group hover:opacity-90 transition-opacity">
           <span className="font-extrabold text-2xl sm:text-3xl bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-indigo-400 to-purple-400 tracking-tight">
-            CogniCore
+            Aptiflux
           </span>
         </Link>
         

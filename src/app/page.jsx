@@ -91,7 +91,7 @@ export default function Home() {
         />
         <div className="absolute inset-0 bg-black/30 z-10"></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-8 py-12 relative z-10">
-          <h1 className="text-white text-3xl sm:text-4xl font-bold mb-3 drop-shadow-md">CogniCore Tests</h1>
+          <h1 className="text-white text-3xl sm:text-4xl font-bold mb-3 drop-shadow-md">Aptiflux Tests</h1>
           <p className="text-slate-300 text-lg mb-8 max-w-2xl drop-shadow-sm">Select a topic below to start your timed mock test. Good luck!</p>
         </div>
       </div>

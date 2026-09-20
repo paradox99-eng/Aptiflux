@@ -1,4 +1,4 @@
-# CogniCore Platform
+# Aptiflux Platform
 
 An online aptitude mock test platform designed to help students prepare for technical and aptitude interviews. 
 
