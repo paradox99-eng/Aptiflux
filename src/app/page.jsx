@@ -7,11 +7,13 @@ import { questionsData } from '../questionsData';
 import { BookOpen, LogIn, UserPlus, Flame, X } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import QuestionOfTheDay from '../components/QuestionOfTheDay';
+import { useRouter } from 'next/navigation';
 
 export default function Home() {
   const { currentUser, loading } = useAuth();
   const [showQotdModal, setShowQotdModal] = useState(false);
   const [qotdStarted, setQotdStarted] = useState(false);
+  const router = useRouter();
 
   useEffect(() => {
     if (currentUser) {
@@ -131,12 +133,12 @@ export default function Home() {
               Test your skills across 10 random questions carefully selected for this week. Your performance counts towards the leaderboard!
             </p>
           </div>
-          <Link 
-            href="/weekly-quiz"
+          <button 
+            onClick={() => router.push('/weekly-quiz')}
             className="inline-flex items-center justify-center bg-primary text-primary-foreground px-6 py-4 rounded-xl font-bold hover:bg-primary/90 transition-all shadow-md hover:shadow-lg hover:shadow-primary/20 text-lg w-full"
           >
             Take This Week's Quiz
-          </Link>
+          </button>
         </div>
       </section>
       </div>

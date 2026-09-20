@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '../../context/AuthContext';
+import { toast } from 'sonner';
 import { LogIn, Eye, EyeOff } from 'lucide-react';
 import { Button } from '../../components/ui/Button';
 import { Input } from '../../components/ui/Input';
@@ -11,20 +12,19 @@ export default function Login() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
-  const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
   const { login } = useAuth();
   const router = useRouter();
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    setError('');
     setLoading(true);
     try {
       await login(email, password);
+      toast.success('Logged in successfully!');
       router.push('/profile');
     } catch (err) {
-      setError(err.message || 'Failed to log in');
+      toast.error(err.message || 'Failed to log in');
     }
     setLoading(false);
   };
@@ -39,12 +39,6 @@ export default function Login() {
           <h2 className="text-2xl font-bold text-foreground">Welcome Back</h2>
           <p className="text-slate-400 mt-2">Sign in to track your aptitude progress.</p>
         </div>
-
-        {error && (
-          <div className="bg-incorrect-bg border border-incorrect text-incorrect px-4 py-3 rounded-lg mb-6 text-sm">
-            {error}
-          </div>
-        )}
 
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
@@ -86,7 +80,7 @@ export default function Login() {
         </form>
 
         <div className="mt-6 text-center text-sm text-slate-400 border-t border-border-subtle pt-6">
-          Don't have an account? <Link href="/signup" className="text-primary font-medium hover:underline">Sign up</Link>
+          Don&apos;t have an account? <Link href="/signup" className="text-primary font-medium hover:underline">Sign up</Link>
         </div>
       </div>
     </div>

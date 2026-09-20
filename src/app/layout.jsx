@@ -4,6 +4,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { AuthProvider } from '../context/AuthContext';
 import NextTopLoader from 'nextjs-toploader';
+import { Toaster } from 'sonner';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 
 const inter = Inter({
@@ -19,8 +20,49 @@ const firaCode = Fira_Code({
 });
 
 export const metadata = {
-  title: 'Aptiflux Platform',
-  description: 'Online Aptiflux Mock Test Platform',
+  title: {
+    default: 'Aptiflux Platform | Master Your Aptitude',
+    template: '%s | Aptiflux',
+  },
+  description: 'The ultimate online platform for mock aptitude tests, interview prep, and skill assessments. Track your progress and excel in your career.',
+  keywords: ['aptitude', 'mock test', 'interview preparation', 'career', 'assessment', 'coding', 'reasoning'],
+  authors: [{ name: 'Aptiflux Team' }],
+  creator: 'Aptiflux',
+  publisher: 'Aptiflux',
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || 'https://aptiflux.com'),
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    title: 'Aptiflux Platform | Master Your Aptitude',
+    description: 'The ultimate online platform for mock aptitude tests, interview prep, and skill assessments.',
+    url: '/',
+    siteName: 'Aptiflux',
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Aptiflux Platform | Master Your Aptitude',
+    description: 'The ultimate online platform for mock aptitude tests, interview prep, and skill assessments.',
+    creator: '@aptiflux',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
   icons: {
     icon: '/favicon.png',
   },
@@ -28,6 +70,7 @@ export const metadata = {
     google: 'neYMVTRcywO6jF8C-2B0E3Fg3XZk_AB7PJ69',
   },
 };
+
 
 export default function RootLayout({ children }) {
   return (
@@ -53,6 +96,7 @@ export default function RootLayout({ children }) {
           <Footer />
         </AuthProvider>
         <SpeedInsights />
+        <Toaster richColors position="bottom-right" theme="system" />
       </body>
     </html>
   );

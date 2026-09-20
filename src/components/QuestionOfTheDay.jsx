@@ -1,6 +1,7 @@
 "use client";
 import React, { useState, useEffect } from 'react';
 import { Flame, CheckCircle, XCircle } from 'lucide-react';
+import { toast } from 'sonner';
 import { useAuth } from '../context/AuthContext';
 
 export default function QuestionOfTheDay({ currentUser }) {
@@ -65,12 +66,12 @@ export default function QuestionOfTheDay({ currentUser }) {
         }
         setFeedback(data);
       } else {
-        alert(data.error || 'Failed to submit answer');
+        toast.error(data.error || 'Failed to submit answer');
         setSubmitState('idle');
       }
     } catch (err) {
       console.error(err);
-      alert('Network error while submitting');
+      toast.error('Network error while submitting');
       setSubmitState('idle');
     }
   };

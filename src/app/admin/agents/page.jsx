@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from 'react';
 import { BrainCircuit, Sparkles, Wand2, Activity } from 'lucide-react';
+import { toast } from 'sonner';
 
 export default function AdminAgents() {
   const [isGeneratingQuestions, setIsGeneratingQuestions] = useState(false);
@@ -29,10 +30,10 @@ export default function AdminAgents() {
         throw new Error(data.error || 'Failed to generate questions');
       }
 
-      alert(`Successfully generated ${data.count} new questions for ${topicToGenerate}! They have been added to your local questionsData.js file.`);
+      toast.success(`Successfully generated ${data.count} new questions for ${topicToGenerate}! They have been added to your local questionsData.js file.`);
     } catch (error) {
       console.error(error);
-      alert(`Error: ${error.message}`);
+      toast.error(`Error: ${error.message}`);
     } finally {
       setIsGeneratingQuestions(false);
     }
@@ -119,10 +120,10 @@ export default function AdminAgents() {
                   const response = await fetch('/api/admin/generate-weekly-quiz', { method: 'POST' });
                   const data = await response.json();
                   if (!response.ok) throw new Error(data.error || 'Failed to generate weekly quiz');
-                  alert(`Successfully generated and published 10 questions for week ${data.weekId}!`);
+                  toast.success(`Successfully generated and published 10 questions for week ${data.weekId}!`);
                 } catch (error) {
                   console.error(error);
-                  alert(`Error: ${error.message}`);
+                  toast.error(`Error: ${error.message}`);
                 } finally {
                   setIsGeneratingWeeklyQuiz(false);
                 }

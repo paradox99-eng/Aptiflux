@@ -3,6 +3,7 @@ import React, { useState, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { questionsData } from '../../../questionsData';
 import { Clock, ChevronLeft, ChevronRight, CheckCircle, Flag, Lock } from 'lucide-react';
+import { toast } from 'sonner';
 import Calculator from '../../../components/Calculator';
 import Link from 'next/link';
 import { useAuth } from '../../../context/AuthContext';
@@ -43,7 +44,7 @@ function QuizContent({ topicName }) {
     let freshQuestions = availableQuestions.filter(q => !seenQuestions.has(q.id));
     
     if (freshQuestions.length < 10) {
-      alert("You have exhausted all fresh questions for this topic! Resetting your memory so you can continue practicing.");
+      toast("You have exhausted all fresh questions for this topic! Resetting your memory so you can continue practicing.");
       const availableIds = new Set(availableQuestions.map(q => q.id));
       const newSeenStorage = seenStorage.filter(id => !availableIds.has(id));
       localStorage.setItem('seenQuestions', JSON.stringify(newSeenStorage));

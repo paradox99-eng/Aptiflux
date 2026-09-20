@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '../../context/AuthContext';
+import { toast } from 'sonner';
 import { UserPlus, Eye, EyeOff } from 'lucide-react';
 import { Button } from '../../components/ui/Button';
 import { Input } from '../../components/ui/Input';
@@ -10,24 +11,24 @@ import { Input } from '../../components/ui/Input';
 export default function Signup() {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
-  const [roomNo, setRoomNo] = useState('');
   const [stream, setStream] = useState('');
+  const [otherStream, setOtherStream] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
-  const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
   const { signup } = useAuth();
   const router = useRouter();
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    setError('');
     setLoading(true);
     try {
-      await signup(email, password, name, roomNo, stream);
+      const finalStream = stream === 'Other' ? otherStream : stream;
+      await signup(email, password, name, finalStream);
+      toast.success('Account created successfully!');
       router.push('/profile');
     } catch (err) {
-      setError(err.message || 'Failed to create an account');
+      toast.error(err.message || 'Failed to create an account');
     }
     setLoading(false);
   };
@@ -42,12 +43,6 @@ export default function Signup() {
           <h2 className="text-2xl font-bold text-foreground">Create an Account</h2>
           <p className="text-slate-400 mt-2">Join to save your aptitude test history.</p>
         </div>
-
-        {error && (
-          <div className="bg-incorrect-bg border border-incorrect text-incorrect px-4 py-3 rounded-lg mb-6 text-sm">
-            {error}
-          </div>
-        )}
 
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
@@ -71,27 +66,39 @@ export default function Signup() {
             />
           </div>
           
-          <div>
-            <label className="block text-sm font-medium text-slate-300 mb-1">Room No</label>
-            <Input 
-              type="text" 
-              required
-              className="focus:ring-accent/50 focus:border-accent"
-              value={roomNo}
-              onChange={e => setRoomNo(e.target.value)}
-            />
-          </div>
-          
-          <div>
+          <div className="space-y-1">
             <label className="block text-sm font-medium text-slate-300 mb-1">Stream</label>
-            <Input 
-              type="text" 
+            <select 
               required
-              className="focus:ring-accent/50 focus:border-accent"
+              className="w-full h-10 px-3 py-2 bg-slate-950 border border-input rounded-md text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent/50 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 text-foreground"
               value={stream}
               onChange={e => setStream(e.target.value)}
-            />
+            >
+              <option value="" disabled>Select Stream</option>
+              <option value="B.Tech">B.Tech</option>
+              <option value="BBA">BBA</option>
+              <option value="MBA">MBA</option>
+              <option value="MCA">MCA</option>
+              <option value="BCA">BCA</option>
+              <option value="BHM">BHM</option>
+              <option value="Diploma">Diploma</option>
+              <option value="Other">Other</option>
+            </select>
           </div>
+
+          {stream === 'Other' && (
+            <div className="animate-in fade-in slide-in-from-top-2 duration-300">
+              <label className="block text-sm font-medium text-slate-300 mb-1">Please mention your stream</label>
+              <Input 
+                type="text" 
+                required
+                placeholder="e.g. B.Sc, BA, etc."
+                className="focus:ring-accent/50 focus:border-accent"
+                value={otherStream}
+                onChange={e => setOtherStream(e.target.value)}
+              />
+            </div>
+          )}
 
           <div>
             <label className="block text-sm font-medium text-slate-300 mb-1">Password</label>

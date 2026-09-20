@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '../../context/AuthContext';
 import { LogOut, User, Trophy, Trash2, Award } from 'lucide-react';
+import { toast } from 'sonner';
 import Image from 'next/image';
 
 export default function Profile() {
@@ -99,15 +100,15 @@ export default function Profile() {
         const claimedBadge = claimableBadges.find(b => b.id === badgeId);
         setClaimableBadges(claimableBadges.filter(b => b.id !== badgeId));
         setClaimedBadges([...claimedBadges, claimedBadge]);
-        alert("Badge claimed successfully!");
+        toast.success("Badge claimed successfully!");
       } else {
         const errorData = await res.json();
         console.error("Failed to claim badge from API:", errorData);
-        alert(`Failed to claim badge: ${errorData.error || errorData.message || 'Unknown error'}. Check server logs for RLS issues.`);
+        toast.error(`Failed to claim badge: ${errorData.error || errorData.message || 'Unknown error'}. Check server logs for RLS issues.`);
       }
     } catch (error) {
       console.error("Failed to claim badge:", error);
-      alert("Failed to claim badge due to network error.");
+      toast.error("Failed to claim badge due to network error.");
     }
   };
 

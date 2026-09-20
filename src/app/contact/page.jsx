@@ -6,8 +6,8 @@ import { Mail, MapPin, ExternalLink } from 'lucide-react';
 export default function ContactUs() {
   const [formData, setFormData] = useState({
     name: '',
-    roomNo: '',
     stream: '',
+    otherStream: '',
     message: ''
   });
 
@@ -15,7 +15,7 @@ export default function ContactUs() {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
-  const mailBody = `Name: ${formData.name}\nRoom No: ${formData.roomNo}\nStream: ${formData.stream}\n\nMessage:\n${formData.message}`;
+  const mailBody = `Name: ${formData.name}\nStream: ${formData.stream === 'Other' ? formData.otherStream : formData.stream}\n\nMessage:\n${formData.message}`;
   const mailToLink = `mailto:parthibdutta947@gmail.com?subject=${encodeURIComponent('Aptiflux Support Inquiry')}&body=${encodeURIComponent(mailBody)}`;
 
   return (
@@ -90,10 +90,24 @@ export default function ContactUs() {
 
             <div className="space-y-4 mb-6 text-sm">
               <input type="text" name="name" value={formData.name} onChange={handleInputChange} placeholder="Your Name" className="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:border-primary transition-colors" />
-              <div className="grid grid-cols-1 gap-4">
-                <input type="text" name="roomNo" value={formData.roomNo} onChange={handleInputChange} placeholder="Room No." className="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:border-primary transition-colors" />
+              <div className="space-y-1">
+                <select name="stream" value={formData.stream} onChange={handleInputChange} className={`w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:border-primary transition-colors ${!formData.stream ? 'text-slate-400' : ''}`}>
+                  <option value="" disabled>Select Stream</option>
+                  <option value="B.Tech">B.Tech</option>
+                  <option value="BBA">BBA</option>
+                  <option value="MBA">MBA</option>
+                  <option value="MCA">MCA</option>
+                  <option value="BCA">BCA</option>
+                  <option value="BHM">BHM</option>
+                  <option value="Diploma">Diploma</option>
+                  <option value="Other">Other</option>
+                </select>
               </div>
-              <input type="text" name="stream" value={formData.stream} onChange={handleInputChange} placeholder="Stream" className="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:border-primary transition-colors" />
+              {formData.stream === 'Other' && (
+                <div className="animate-in fade-in slide-in-from-top-2 duration-300">
+                  <input type="text" name="otherStream" value={formData.otherStream} onChange={handleInputChange} placeholder="Please mention your stream (e.g. B.Sc, BA)" className="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:border-primary transition-colors" />
+                </div>
+              )}
               <textarea name="message" value={formData.message} onChange={handleInputChange} placeholder="Your Message" rows="4" className="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:border-primary transition-colors resize-none"></textarea>
             </div>
 
