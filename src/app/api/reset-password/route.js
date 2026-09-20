@@ -26,7 +26,12 @@ export async function POST(request) {
     }
 
     // 2. Check if token is expired
-    const expiryDate = new Date(user.reset_token_expires);
+    let expiryStr = user.reset_token_expires;
+    // If the database returns a timestamp without timezone, append 'Z' to treat it as UTC
+    if (expiryStr && !expiryStr.includes('Z') && !expiryStr.includes('+')) {
+      expiryStr += 'Z';
+    }
+    const expiryDate = new Date(expiryStr);
     const now = new Date();
 
     if (now > expiryDate) {

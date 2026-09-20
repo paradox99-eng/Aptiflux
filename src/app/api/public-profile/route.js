@@ -13,44 +13,48 @@ export async function GET(request) {
   }
 
   try {
-    // 1. Fetch student info (no email)
-    const { data: student, error: studentError } = await supabase
-      .from('students')
-      .select('name, stream, streak_count')
-      .eq('Uid', uid)
-      .single();
+    // Fetch all data in parallel to reduce loading time
+    const [studentRes, attemptsRes, badgesRes] = await Promise.all([
+      supabase.from('students').select('name, stream, streak_count').eq('Uid', uid).single(),
+      supabase.from('attempts').select('score, total_questions, topic_slug, submitted_at').eq('student_id', uid),
+      supabase.from('user_badges').select('badge_id').eq('student_id', uid)
+    ]);
 
-    if (studentError || !student) {
+    if (studentRes.error || !studentRes.data) {
       return NextResponse.json({ error: 'User not found' }, { status: 404 });
     }
 
-    // 2. Fetch aggregate stats from attempts
-    const { data: attempts, error: attemptsError } = await supabase
-      .from('attempts')
-      .select('score, total_questions, topic_slug')
-      .eq('student_id', uid);
-
-    if (attemptsError) {
+    if (attemptsRes.error) {
       throw new Error('Failed to fetch stats');
     }
+
+    const student = studentRes.data;
+    const attempts = attemptsRes.data;
+    const claimedRecords = badgesRes.data;
 
     const totalTests = attempts ? attempts.length : 0;
     
     let overallAvg = 0;
     if (totalTests > 0) {
+      const { getWeekNumber } = require('../../../utils/quizGenerator');
+      const currentWeek = getWeekNumber(new Date());
       const isSunday = new Date().getDay() === 0;
-      const scoredAttempts = attempts.filter(a => a.topic_slug !== 'weekly-quiz' || isSunday);
+
+      const isScoreHidden = (test) => {
+        if (test.topic_slug !== 'weekly-quiz' && test.topic_slug !== 'weekly') return false;
+        const testDate = new Date(test.submitted_at || Date.now());
+        const testWeek = getWeekNumber(testDate);
+        if (testWeek.year < currentWeek.year) return false;
+        if (testWeek.year === currentWeek.year && testWeek.week < currentWeek.week) return false;
+        return !isSunday;
+      };
+
+      const scoredAttempts = attempts.filter(a => !isScoreHidden(a));
 
       const totalScore = scoredAttempts.reduce((acc, curr) => acc + curr.score, 0);
       const totalPossible = scoredAttempts.reduce((acc, curr) => acc + curr.total_questions, 0);
       overallAvg = totalPossible > 0 ? Math.round((totalScore / totalPossible) * 100) : 0;
     }
-
-    // 3. Fetch claimed badges
-    const { data: claimedRecords } = await supabase
-      .from('user_badges')
-      .select('badge_id')
-      .eq('student_id', uid);
 
     const claimedIds = new Set((claimedRecords || []).map(r => r.badge_id));
     const claimedBadges = ALL_BADGES.filter(badge => claimedIds.has(badge.id));

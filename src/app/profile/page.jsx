@@ -5,6 +5,7 @@ import { useAuth } from '../../context/AuthContext';
 import { LogOut, User, Trophy, Trash2, Award } from 'lucide-react';
 import { toast } from 'sonner';
 import Image from 'next/image';
+import { getWeekNumber } from '../../utils/quizGenerator';
 
 export default function Profile() {
   const { currentUser, logout } = useAuth();
@@ -126,8 +127,19 @@ export default function Profile() {
 
   const totalTests = history.length;
   
+  const currentWeek = getWeekNumber(new Date());
   const isSunday = new Date().getDay() === 0;
-  const scoredHistory = history.filter(h => h.topicSlug !== 'weekly-quiz' || isSunday);
+
+  const isScoreHidden = (test) => {
+    if (test.topicSlug !== 'weekly-quiz' && test.topicSlug !== 'weekly') return false;
+    const testDate = new Date(test.date || test.submitted_at || Date.now());
+    const testWeek = getWeekNumber(testDate);
+    if (testWeek.year < currentWeek.year) return false;
+    if (testWeek.year === currentWeek.year && testWeek.week < currentWeek.week) return false;
+    return !isSunday;
+  };
+  
+  const scoredHistory = history.filter(h => !isScoreHidden(h));
   
   const overallAvg = scoredHistory.length > 0 
     ? Math.round((scoredHistory.reduce((acc, curr) => acc + curr.score, 0) / scoredHistory.reduce((acc, curr) => acc + curr.total, 0)) * 100) 
@@ -253,14 +265,14 @@ export default function Profile() {
                 <tbody>
                   {[...history].reverse().map((test, i) => {
                     const percentage = Math.round((test.score / test.total) * 100) || 0;
-                    const isHiddenScore = test.topicSlug === 'weekly-quiz' && !isSunday;
+                    const hiddenScore = isScoreHidden(test);
                     
                     return (
                       <tr key={i} className="border-b last:border-0 border-slate-800 hover:bg-slate-800/40 transition-colors">
-                        <td className="p-4 text-slate-400">{new Date(test.date).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</td>
+                        <td className="p-4 text-slate-400">{new Date(test.date || test.submitted_at || Date.now()).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</td>
                         <td className="p-4 text-foreground font-medium">{test.topicTitle}</td>
                         <td className="p-4 font-mono">
-                          {isHiddenScore ? (
+                          {hiddenScore ? (
                             <span className="px-3 py-1 rounded-full text-sm font-semibold bg-slate-800 text-slate-400 border border-slate-700">
                               Available Sunday
                             </span>
