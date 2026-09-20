@@ -137,6 +137,24 @@ export default function Profile() {
                 <div className="text-2xl font-bold text-foreground">{overallAvg}%</div>
                 <div className="text-xs text-slate-400 uppercase font-semibold">Avg Score</div>
               </div>
+              <div className="bg-slate-900/50 p-4 rounded-xl border border-slate-800">
+                <div className="text-2xl font-bold text-orange-500 flex items-center justify-center gap-1">
+                  {currentUser.streak_count || 0} <span className="text-lg">🔥</span>
+                </div>
+                <div className="text-xs text-slate-400 uppercase font-semibold">Daily Streak</div>
+              </div>
+              <div className="bg-slate-900/50 p-4 rounded-xl border border-slate-800">
+                <div className={`text-lg font-bold mt-1 ${
+                  currentUser.last_active_date === new Date().toISOString().split('T')[0]
+                    ? (currentUser.streak_count > 0 ? 'text-emerald-500' : 'text-red-500')
+                    : 'text-slate-400'
+                }`}>
+                  {currentUser.last_active_date === new Date().toISOString().split('T')[0]
+                    ? (currentUser.streak_count > 0 ? 'Correct' : 'Incorrect')
+                    : 'Pending'}
+                </div>
+                <div className="text-xs text-slate-400 uppercase font-semibold">Today's QotD</div>
+              </div>
             </div>
 
             <button 
