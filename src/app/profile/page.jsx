@@ -176,11 +176,11 @@ export default function Profile() {
               </div>
               <div className="bg-slate-900/50 p-4 rounded-xl border border-slate-800">
                 <div className={`text-lg font-bold mt-1 ${
-                  currentUser.last_active_date === new Date().toISOString().split('T')[0]
+                  currentUser.last_active_date === new Date(new Date().getTime() - (new Date().getTimezoneOffset() * 60000)).toISOString().split('T')[0]
                     ? (currentUser.streak_count > 0 ? 'text-emerald-500' : 'text-red-500')
                     : 'text-slate-400'
                 }`}>
-                  {currentUser.last_active_date === new Date().toISOString().split('T')[0]
+                  {currentUser.last_active_date === new Date(new Date().getTime() - (new Date().getTimezoneOffset() * 60000)).toISOString().split('T')[0]
                     ? (currentUser.streak_count > 0 ? 'Correct' : 'Incorrect')
                     : 'Pending'}
                 </div>

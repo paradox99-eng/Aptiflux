@@ -17,7 +17,11 @@ export default function Home() {
 
   useEffect(() => {
     if (currentUser) {
-      const todayStr = new Date().toISOString().split('T')[0];
+      // Get local date string YYYY-MM-DD
+      const now = new Date();
+      const localDate = new Date(now.getTime() - (now.getTimezoneOffset() * 60000));
+      const todayStr = localDate.toISOString().split('T')[0];
+      
       // Only show popup if they haven't answered today
       if (currentUser.last_active_date !== todayStr) {
         const timer = setTimeout(() => {

@@ -15,7 +15,10 @@ export default function QuestionOfTheDay({ currentUser }) {
 
   useEffect(() => {
     // If the user's last active date is today, they already completed it
-    const todayStr = new Date().toISOString().split('T')[0];
+    const now = new Date();
+    const localDate = new Date(now.getTime() - (now.getTimezoneOffset() * 60000));
+    const todayStr = localDate.toISOString().split('T')[0];
+    
     if (currentUser?.last_active_date === todayStr) {
       setSubmitState('already_done');
       setLoading(false);
@@ -42,6 +45,15 @@ export default function QuestionOfTheDay({ currentUser }) {
     if (!selectedOption || submitState !== 'idle') return;
     
     setSubmitState('submitting');
+    
+    const now = new Date();
+    const localDate = new Date(now.getTime() - (now.getTimezoneOffset() * 60000));
+    const todayStr = localDate.toISOString().split('T')[0];
+    
+    const yesterdayDate = new Date(now.getTime() - 86400000);
+    const localYesterday = new Date(yesterdayDate.getTime() - (yesterdayDate.getTimezoneOffset() * 60000));
+    const yesterdayStr = localYesterday.toISOString().split('T')[0];
+
     try {
       const res = await fetch('/api/qotd/submit', {
         method: 'POST',
@@ -49,20 +61,22 @@ export default function QuestionOfTheDay({ currentUser }) {
         body: JSON.stringify({
           uid: currentUser.Uid,
           questionId: qotd.id,
-          selectedAnswer: selectedOption
+          selectedAnswer: selectedOption,
+          todayStr,
+          yesterdayStr
         })
       });
       
       const data = await res.json();
       if (res.ok) {
-        const todayStr = new Date().toISOString().split('T')[0];
         if (data.correct) {
           setSubmitState('correct');
           setStreak(data.streak_count);
           updateCurrentUser({ streak_count: data.streak_count, last_active_date: todayStr });
         } else {
           setSubmitState('incorrect');
-          updateCurrentUser({ last_active_date: todayStr });
+          setStreak(0);
+          updateCurrentUser({ streak_count: 0, last_active_date: todayStr });
         }
         setFeedback(data);
       } else {

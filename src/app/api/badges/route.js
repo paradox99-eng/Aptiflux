@@ -1,9 +1,9 @@
 import { NextResponse } from 'next/server';
 import { supabase } from '../../../lib/supabase';
+import { ALL_BADGES } from '../../../lib/badges';
+import { getWeekNumber } from '../../../utils/quizGenerator';
 
 export const revalidate = 0; // Dynamic route
-
-import { ALL_BADGES } from '../../../lib/badges';
 
 export async function GET(request) {
   const { searchParams } = new URL(request.url);
@@ -15,13 +15,29 @@ export async function GET(request) {
 
   try {
     // 1. Fetch user attempts
-    const { data: attempts, error: attemptsError } = await supabase
+    const { data: rawAttempts, error: attemptsError } = await supabase
       .from('attempts')
       .select('*')
       .eq('student_id', student_id)
       .order('submitted_at', { ascending: false });
 
     if (attemptsError) throw attemptsError;
+
+    // Filter out attempts that are still hidden (weekly quiz before Sunday)
+    const today = new Date();
+    const currentWeek = getWeekNumber(today);
+    const isSunday = today.getDay() === 0;
+
+    const isScoreHidden = (test) => {
+      if (test.topic_slug !== 'weekly-quiz' && test.topic_slug !== 'weekly') return false;
+      const testDate = new Date(test.submitted_at || Date.now());
+      const testWeek = getWeekNumber(testDate);
+      if (testWeek.year < currentWeek.year) return false;
+      if (testWeek.year === currentWeek.year && testWeek.week < currentWeek.week) return false;
+      return !isSunday;
+    };
+
+    const attempts = (rawAttempts || []).filter(a => !isScoreHidden(a));
 
     // Fetch student data for streak count
     const { data: studentRecord } = await supabase
@@ -45,12 +61,12 @@ export async function GET(request) {
     const earnedIds = new Set();
 
     let flawless = false;
-    let totalQuizzes = attempts?.length || 0;
+    let totalQuizzes = attempts.length;
 
     if (totalQuizzes > 0) earnedIds.add('bronze-quizzer');
     if (streakCount >= 7) earnedIds.add('streak-7d');
 
-    attempts?.forEach(a => {
+    attempts.forEach(a => {
       if (a.score === a.total_questions && a.total_questions > 0) {
         flawless = true;
       }
@@ -59,7 +75,7 @@ export async function GET(request) {
     if (flawless) earnedIds.add('flawless');
 
     const weeksSet = new Set();
-    attempts?.forEach(a => {
+    attempts.forEach(a => {
       const d = new Date(a.submitted_at);
       const firstDayOfYear = new Date(d.getFullYear(), 0, 1);
       const pastDaysOfYear = (d.getTime() - firstDayOfYear.getTime()) / 86400000;
@@ -72,7 +88,6 @@ export async function GET(request) {
     if (uniqueWeeks >= 24) earnedIds.add('streak-6m');
     if (uniqueWeeks >= 52) earnedIds.add('streak-1y');
 
-    const today = new Date();
     const day = today.getDay();
     const diff = today.getDate() - day + (day === 0 ? -6 : 1);
     const startOfWeek = new Date(today.setDate(diff));
@@ -80,13 +95,16 @@ export async function GET(request) {
 
     const { data: lbAttempts } = await supabase
       .from('attempts')
-      .select('student_id, score, total_questions')
+      .select('student_id, score, total_questions, submitted_at, topic_slug')
       .eq('topic_slug', 'weekly-quiz')
       .gte('submitted_at', startOfWeek.toISOString());
 
     if (lbAttempts) {
+      // Filter out hidden attempts for leaderboard as well
+      const visibleLbAttempts = lbAttempts.filter(a => !isScoreHidden(a));
+
       const leaderboardMap = {};
-      lbAttempts.forEach(attempt => {
+      visibleLbAttempts.forEach(attempt => {
         const { student_id: sid, score } = attempt;
         if (!leaderboardMap[sid]) leaderboardMap[sid] = 0;
         leaderboardMap[sid] += score;

@@ -4,7 +4,7 @@ import { questionsData } from '../../../../questionsData';
 import { apiHandler } from '../../../../lib/api-handler';
 
 export const POST = apiHandler(async (request, context, session) => {
-  const { uid, questionId, selectedAnswer } = await request.json();
+  const { uid, questionId, selectedAnswer, todayStr: clientToday, yesterdayStr: clientYesterday } = await request.json();
 
   if (!uid || !questionId || !selectedAnswer) {
     return NextResponse.json({ error: 'Missing required fields' }, { status: 400 });
@@ -40,10 +40,14 @@ export const POST = apiHandler(async (request, context, session) => {
     throw new Error('Failed to fetch user data'); // apiHandler will catch this and return 500
   }
 
-  const todayStr = new Date().toISOString().split('T')[0];
-  const yesterdayDate = new Date();
-  yesterdayDate.setDate(yesterdayDate.getDate() - 1);
-  const yesterdayStr = yesterdayDate.toISOString().split('T')[0];
+  // Use client's local timezone dates if provided, else fallback to server UTC
+  const todayStr = clientToday || new Date().toISOString().split('T')[0];
+  let yesterdayStr = clientYesterday;
+  if (!yesterdayStr) {
+    const yesterdayDate = new Date();
+    yesterdayDate.setDate(yesterdayDate.getDate() - 1);
+    yesterdayStr = yesterdayDate.toISOString().split('T')[0];
+  }
 
   let newStreak = student.streak_count || 0;
   let message = 'Streak maintained!';
