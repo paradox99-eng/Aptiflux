@@ -8,7 +8,7 @@ import Image from 'next/image';
 import { getWeekNumber } from '../../utils/quizGenerator';
 
 export default function Profile() {
-  const { currentUser, logout } = useAuth();
+  const { currentUser, logout, isAdmin } = useAuth();
   const router = useRouter();
   const [history, setHistory] = useState([]);
   const [claimedBadges, setClaimedBadges] = useState([]);
