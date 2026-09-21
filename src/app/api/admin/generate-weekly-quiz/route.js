@@ -53,9 +53,8 @@ IMPORTANT: Ensure the correctAnswer matches one of the options EXACTLY. Ensure t
 
     let newQuestions = [];
     try {
-      // Save raw output for debugging
-      const fs = require('fs');
-      fs.writeFileSync('last-llm-response.txt', responseContent);
+      // Log raw output for debugging
+      console.log('Raw LLM Response:', responseContent);
       
       // Clean up common issues like unescaped newlines in JSON strings
       const sanitizedContent = cleanedContent.replace(/\\n/g, "\\n")
