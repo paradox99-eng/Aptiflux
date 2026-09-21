@@ -1,11 +1,12 @@
 export default function sitemap() {
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://yourdomain.com';
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://aptiflux.vercel.app';
 
   const routes = [
     '',
     '/about',
     '/contact',
     '/practice',
+    '/weekly-quiz',
     '/leaderboard',
     '/login',
     '/signup',

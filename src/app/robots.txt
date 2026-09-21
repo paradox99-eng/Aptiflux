@@ -4,3 +4,5 @@ Allow: /
 # Disallow admin areas
 Disallow: /admin/
 Disallow: /api/admin/
+
+Sitemap: https://aptiflux.vercel.app/sitemap.xml
