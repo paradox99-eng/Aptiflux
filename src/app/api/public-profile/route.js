@@ -15,7 +15,7 @@ export async function GET(request) {
   try {
     // Fetch all data in parallel to reduce loading time
     const [studentRes, attemptsRes, badgesRes] = await Promise.all([
-      supabase.from('students').select('name, stream, streak_count').eq('Uid', uid).single(),
+      supabase.from('students').select('name, stream, streak_count, email').eq('Uid', uid).single(),
       supabase.from('attempts').select('score, total_questions, topic_slug, submitted_at').eq('student_id', uid),
       supabase.from('user_badges').select('badge_id').eq('student_id', uid)
     ]);
@@ -40,7 +40,9 @@ export async function GET(request) {
       const currentWeek = getWeekNumber(new Date());
       const isSunday = new Date().getDay() === 0;
 
+      const isAdminProfile = student.email === 'parthibdutta947@gmail.com';
       const isScoreHidden = (test) => {
+        if (isAdminProfile) return false;
         if (test.topic_slug !== 'weekly-quiz' && test.topic_slug !== 'weekly') return false;
         const testDate = new Date(test.submitted_at || Date.now());
         const testWeek = getWeekNumber(testDate);

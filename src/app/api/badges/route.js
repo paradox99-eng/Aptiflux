@@ -23,12 +23,21 @@ export async function GET(request) {
 
     if (attemptsError) throw attemptsError;
 
+    // Fetch student data for streak count and email (to identify admin)
+    const { data: studentRecord } = await supabase
+      .from('students')
+      .select('streak_count, email')
+      .eq('Uid', student_id)
+      .single();
+
     // Filter out attempts that are still hidden (weekly quiz before Sunday)
     const today = new Date();
     const currentWeek = getWeekNumber(today);
     const isSunday = today.getDay() === 0;
+    const isAdminProfile = studentRecord?.email === 'parthibdutta947@gmail.com';
 
     const isScoreHidden = (test) => {
+      if (isAdminProfile) return false;
       if (test.topic_slug !== 'weekly-quiz' && test.topic_slug !== 'weekly') return false;
       const testDate = new Date(test.submitted_at || Date.now());
       const testWeek = getWeekNumber(testDate);
@@ -38,13 +47,6 @@ export async function GET(request) {
     };
 
     const attempts = (rawAttempts || []).filter(a => !isScoreHidden(a));
-
-    // Fetch student data for streak count
-    const { data: studentRecord } = await supabase
-      .from('students')
-      .select('streak_count')
-      .eq('Uid', student_id)
-      .single();
 
     const streakCount = studentRecord?.streak_count || 0;
 

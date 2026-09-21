@@ -131,6 +131,7 @@ export default function Profile() {
   const isSunday = new Date().getDay() === 0;
 
   const isScoreHidden = (test) => {
+    if (isAdmin) return false;
     if (test.topicSlug !== 'weekly-quiz' && test.topicSlug !== 'weekly') return false;
     const testDate = new Date(test.date || test.submitted_at || Date.now());
     const testWeek = getWeekNumber(testDate);
