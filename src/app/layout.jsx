@@ -35,9 +35,6 @@ export const metadata = {
     telephone: false,
   },
   metadataBase: new URL('https://aptiflux.vercel.app'),
-  alternates: {
-    canonical: '/',
-  },
   openGraph: {
     title: 'Aptiflux Platform | Master Your Aptitude',
     description: 'The ultimate online platform for mock aptitude tests, interview prep, and skill assessments.',
