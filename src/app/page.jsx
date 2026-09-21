@@ -33,7 +33,24 @@ export default function Home() {
   }, [currentUser]);
 
   if (loading) {
-    return <div className="p-8 text-center text-slate-500">Loading...</div>;
+    return (
+      <div className="animate-in fade-in duration-300 flex flex-col items-center min-h-[60vh] pb-12">
+        <div className="w-full h-[500px] sm:h-[600px] flex flex-col items-center justify-center relative mb-12 overflow-hidden">
+          <Image 
+            src="/images/hero.webp" 
+            alt="Hero background" 
+            fill 
+            priority
+            fetchPriority="high"
+            className="object-cover object-center"
+          />
+          <div className="absolute inset-0 bg-black/20 z-10"></div>
+          <div className="relative z-20 text-center px-4 max-w-2xl mt-16">
+            <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-white mx-auto"></div>
+          </div>
+        </div>
+      </div>
+    );
   }
 
   if (!currentUser) {
