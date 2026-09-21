@@ -3,10 +3,14 @@
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { questionsData } from '../questionsData';
+
 import { BookOpen, LogIn, UserPlus, Flame, X } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
-import QuestionOfTheDay from '../components/QuestionOfTheDay';
+import dynamic from 'next/dynamic';
+const QuestionOfTheDay = dynamic(() => import('../components/QuestionOfTheDay'), { 
+  ssr: false, 
+  loading: () => <div className="p-8 text-center text-slate-400">Loading today's question...</div>
+});
 import { useRouter } from 'next/navigation';
 
 export default function Home() {
