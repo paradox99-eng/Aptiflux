@@ -59,6 +59,22 @@ export async function POST(request) {
     const salt = await bcrypt.genSalt(10);
     const password_hash = await bcrypt.hash(password, salt);
 
+    // Explicitly check if user already exists (in case DB is missing UNIQUE constraint)
+    const { data: existingUsers, error: checkError } = await supabaseAdmin
+      .from('students')
+      .select('Uid')
+      .eq('email', email.trim().toLowerCase())
+      .limit(1);
+
+    if (checkError) {
+      console.error('Email check error:', checkError);
+      return NextResponse.json({ error: 'Failed to verify email availability' }, { status: 500 });
+    }
+
+    if (existingUsers && existingUsers.length > 0) {
+      return NextResponse.json({ error: 'User with this email already exists' }, { status: 409 });
+    }
+
     // Insert into Supabase
     const { data, error } = await supabaseAdmin
       .from('students')
