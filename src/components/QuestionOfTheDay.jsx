@@ -99,17 +99,16 @@ export default function QuestionOfTheDay({ currentUser }) {
   }
 
   return (
-    <div className="glass-card border border-slate-800 rounded-2xl p-6 mb-8 relative overflow-hidden">
-      <div className="absolute top-0 right-0 p-4 flex flex-col items-end">
-        <div className="flex items-center gap-1 text-orange-500 font-bold bg-orange-500/10 px-3 py-1.5 rounded-full border border-orange-500/20 shadow-[0_0_15px_rgba(249,115,22,0.2)]">
-          <Flame size={18} className={streak > 0 ? "animate-pulse" : ""} /> 
-          <span>{streak} Day Streak</span>
+    <div className="glass-card border border-slate-800 rounded-2xl p-6 mb-8">
+      <div className="flex flex-wrap items-center justify-between gap-2 mb-2">
+        <h2 className="text-xl font-bold text-foreground">
+          Question of the Day
+        </h2>
+        <div className="flex items-center gap-1 text-orange-500 font-bold bg-orange-500/10 px-3 py-1.5 rounded-full border border-orange-500/20 shadow-[0_0_15px_rgba(249,115,22,0.2)] shrink-0">
+          <Flame size={18} className={streak > 0 ? "animate-pulse" : ""} />
+          <span className="whitespace-nowrap">{streak} Day Streak</span>
         </div>
       </div>
-
-      <h2 className="text-xl font-bold text-foreground mb-2 flex items-center gap-2">
-        Question of the Day
-      </h2>
       
       {submitState === 'already_done' ? (
         <div className="mt-4 p-4 bg-emerald-950/30 border border-emerald-900/50 rounded-xl flex items-center gap-3 text-emerald-400">
