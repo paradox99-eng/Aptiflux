@@ -36,7 +36,7 @@ Each object must have exactly this structure:
           content: systemPrompt
         }
       ],
-      model: "openai/gpt-oss-20b",
+      model: "llama3-8b-8192",
       temperature: 0.7,
       max_tokens: 4000,
       top_p: 1,
@@ -51,13 +51,25 @@ Each object must have exactly this structure:
     }
 
     // Clean up potential markdown formatting if the model didn't follow instructions perfectly
-    const cleanedContent = responseContent.replace(/```json/gi, '').replace(/```/g, '').trim();
+    let cleanedContent = responseContent.trim();
+    const firstBracket = cleanedContent.indexOf('[');
+    const lastBracket = cleanedContent.lastIndexOf(']');
+    
+    if (firstBracket !== -1 && lastBracket !== -1) {
+      cleanedContent = cleanedContent.substring(firstBracket, lastBracket + 1);
+    }
+    
     let generatedQuestions;
     try {
-      generatedQuestions = JSON.parse(cleanedContent);
+      // Clean up common issues like unescaped newlines in JSON strings
+      const sanitizedContent = cleanedContent.replace(/\\n/g, "\\n")
+                                             .replace(/\n/g, " ")
+                                             .replace(/\r/g, "");
+      generatedQuestions = JSON.parse(sanitizedContent);
     } catch (parseError) {
       console.error("Failed to parse Groq response:", cleanedContent);
-      return NextResponse.json({ error: 'Failed to parse generated questions from LLM.' }, { status: 500 });
+      console.error("Parse Error Message:", parseError.message);
+      return NextResponse.json({ error: 'Failed to parse generated questions from LLM.', details: parseError.message }, { status: 500 });
     }
 
     // Find the right main topic for this subtopic

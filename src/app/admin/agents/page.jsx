@@ -27,7 +27,7 @@ export default function AdminAgents() {
       const data = await response.json();
 
       if (!response.ok) {
-        throw new Error(data.error || 'Failed to generate questions');
+        throw new Error(data.details ? `${data.error} Details: ${data.details}` : data.error || 'Failed to generate questions');
       }
 
       toast.success(`Successfully generated ${data.count} new questions for ${topicToGenerate}! They have been added to your local questionsData.js file.`);
@@ -119,7 +119,7 @@ export default function AdminAgents() {
                 try {
                   const response = await fetch('/api/admin/generate-weekly-quiz', { method: 'POST' });
                   const data = await response.json();
-                  if (!response.ok) throw new Error(data.error || 'Failed to generate weekly quiz');
+                  if (!response.ok) throw new Error(data.details ? `${data.error} Details: ${data.details}` : data.error || 'Failed to generate weekly quiz');
                   toast.success(`Successfully generated and published 10 questions for week ${data.weekId}!`);
                 } catch (error) {
                   console.error(error);

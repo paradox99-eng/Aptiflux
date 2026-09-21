@@ -4,5 +4,3 @@ Allow: /
 # Disallow admin areas
 Disallow: /admin/
 Disallow: /api/admin/
-
-Sitemap: https://yourdomain.com/sitemap.xml

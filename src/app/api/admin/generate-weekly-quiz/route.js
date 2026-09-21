@@ -35,7 +35,7 @@ IMPORTANT: Ensure the correctAnswer matches one of the options EXACTLY. Ensure t
     // However, they specifically mentioned having a groq free API key.
     const chatCompletion = await groq.chat.completions.create({
       messages: [{ role: "user", content: prompt }],
-      model: "openai/gpt-oss-20b",
+      model: "llama3-8b-8192",
       temperature: 0.7,
       max_tokens: 4000,
     });
@@ -57,9 +57,15 @@ IMPORTANT: Ensure the correctAnswer matches one of the options EXACTLY. Ensure t
       const fs = require('fs');
       fs.writeFileSync('last-llm-response.txt', responseContent);
       
-      newQuestions = JSON.parse(cleanedContent);
+      // Clean up common issues like unescaped newlines in JSON strings
+      const sanitizedContent = cleanedContent.replace(/\\n/g, "\\n")
+                                             .replace(/\n/g, " ")
+                                             .replace(/\r/g, "");
+      
+      newQuestions = JSON.parse(sanitizedContent);
     } catch (parseError) {
       console.error("Failed to parse Groq response:", cleanedContent);
+      console.error("Parse Error Message:", parseError.message);
       return NextResponse.json({ 
         error: 'Failed to parse generated questions from LLM.',
         details: parseError.message,
