@@ -58,11 +58,13 @@ export async function POST(request) {
       .single();
 
     if (error || !user) {
+      console.log('Login failed: User not found or DB error', { error, userFound: !!user });
       return NextResponse.json({ error: 'Invalid email or password' }, { status: 401 });
     }
 
     // Verify password
     const isPasswordValid = await bcrypt.compare(password, user.password_hash);
+    console.log('Login attempt for:', user.email, 'Password valid?', isPasswordValid);
 
     if (!isPasswordValid) {
       return NextResponse.json({ error: 'Invalid email or password' }, { status: 401 });
