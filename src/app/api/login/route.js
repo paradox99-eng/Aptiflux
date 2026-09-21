@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { supabase } from '../../../lib/supabase';
+import { supabaseAdmin } from '../../../lib/supabase-admin';
 import bcrypt from 'bcryptjs';
 
 // Simple in-memory rate limiter (Note: In a serverless environment like Vercel, this memory is ephemeral per lambda instance, but it still mitigates rapid brute-forcing)
@@ -51,7 +51,7 @@ export async function POST(request) {
     }
 
     // Fetch user from Supabase
-    const { data: user, error } = await supabase
+    const { data: user, error } = await supabaseAdmin
       .from('students')
       .select('Uid, name, email, stream, password_hash, last_active_date, streak_count')
       .eq('email', email.trim().toLowerCase()) // Normalize email
