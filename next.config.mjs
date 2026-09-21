@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // Generates .map files alongside JS bundles so browser DevTools can map
+  // minified production code back to your original source files.
+  productionBrowserSourceMaps: true,
   async headers() {
     return [
       {
