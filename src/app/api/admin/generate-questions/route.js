@@ -36,7 +36,7 @@ Each object must have exactly this structure:
           content: systemPrompt
         }
       ],
-      model: "llama3-8b-8192",
+      model: "openai/gpt-oss-120b",
       temperature: 0.7,
       max_tokens: 4000,
       top_p: 1,

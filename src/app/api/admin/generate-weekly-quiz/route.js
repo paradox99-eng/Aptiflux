@@ -35,7 +35,7 @@ IMPORTANT: Ensure the correctAnswer matches one of the options EXACTLY. Ensure t
     // However, they specifically mentioned having a groq free API key.
     const chatCompletion = await groq.chat.completions.create({
       messages: [{ role: "user", content: prompt }],
-      model: "llama3-8b-8192",
+      model: "openai/gpt-oss-20b",
       temperature: 0.7,
       max_tokens: 4000,
     });
