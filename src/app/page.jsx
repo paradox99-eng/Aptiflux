@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
-import { BookOpen, LogIn, UserPlus, Flame, X } from 'lucide-react';
+import { PenLine, Trophy, Clock, LogIn, UserPlus, Flame, X } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import dynamic from 'next/dynamic';
 const QuestionOfTheDay = dynamic(() => import('../components/QuestionOfTheDay'), { 
@@ -129,7 +129,9 @@ export default function Home() {
         <div className="glass-card p-8 rounded-3xl flex flex-col justify-between">
           <div>
             <div className="flex justify-center mb-6">
-              <BookOpen className="text-slate-400 w-16 h-16" />
+              <div className="w-20 h-20 rounded-2xl bg-slate-800/80 border border-slate-700 flex items-center justify-center shadow-inner">
+                <PenLine className="text-slate-300 w-9 h-9" />
+              </div>
             </div>
             <h2 className="text-2xl font-bold text-foreground mb-4">Normal Practice</h2>
             <p className="text-slate-400 mb-8">
@@ -138,7 +140,7 @@ export default function Home() {
           </div>
           <Link 
             href="/practice"
-            className="inline-flex items-center justify-center bg-slate-800 text-slate-200 border border-slate-700 px-6 py-4 rounded-xl font-bold hover:bg-slate-700 transition-all shadow-sm hover:shadow text-lg w-full"
+            className="inline-flex items-center justify-center bg-primary text-primary-foreground border border-primary px-6 py-4 rounded-xl font-bold hover:bg-primary/90 transition-all shadow-[0_0_18px_rgba(37,99,235,0.35)] hover:shadow-[0_0_28px_rgba(37,99,235,0.55)] text-lg w-full"
           >
             Start Practice
           </Link>
@@ -151,7 +153,14 @@ export default function Home() {
           </div>
           <div>
             <div className="flex justify-center mb-6">
-              <BookOpen className="text-primary w-16 h-16 drop-shadow-md" />
+              <div className="relative">
+                <div className="w-20 h-20 rounded-2xl bg-primary/10 border border-primary/30 flex items-center justify-center shadow-[0_0_20px_rgba(37,99,235,0.2)]">
+                  <Trophy className="text-primary w-9 h-9 drop-shadow-md" />
+                </div>
+                <div className="absolute -bottom-2 -right-2 bg-amber-500 rounded-full p-1 shadow-lg border-2 border-slate-950">
+                  <Clock className="text-amber-950 w-3.5 h-3.5" />
+                </div>
+              </div>
             </div>
             <h2 className="text-2xl font-bold text-foreground mb-4">Weekly Quiz</h2>
             <p className="text-slate-400 mb-8">
