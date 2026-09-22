@@ -116,10 +116,10 @@ export default function Home() {
           fetchPriority="high"
           className="object-cover object-center"
         />
-        <div className="absolute inset-0 bg-black/30 z-10"></div>
+        <div className="absolute inset-0 bg-black/55 z-10"></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-8 py-12 relative z-10">
-          <h1 className="text-white text-3xl sm:text-4xl font-bold mb-3 drop-shadow-md">Aptiflux Tests</h1>
-          <p className="text-slate-300 text-lg mb-8 max-w-2xl drop-shadow-sm">Select a topic below to start your timed mock test. Good luck!</p>
+          <h1 className="text-white text-3xl sm:text-4xl font-bold mb-3 drop-shadow-2xl" style={{textShadow: '0 2px 16px rgba(0,0,0,0.9), 0 1px 4px rgba(0,0,0,0.8)'}}>Aptiflux Tests</h1>
+          <p className="text-slate-200 text-lg mb-8 max-w-2xl drop-shadow-lg" style={{textShadow: '0 1px 8px rgba(0,0,0,0.8)'}}>Select a topic below to start your timed mock test. Good luck!</p>
         </div>
       </div>
 
@@ -140,7 +140,7 @@ export default function Home() {
           </div>
           <Link 
             href="/practice"
-            className="inline-flex items-center justify-center bg-primary text-primary-foreground border border-primary px-6 py-4 rounded-xl font-bold hover:bg-primary/90 transition-all shadow-[0_0_18px_rgba(37,99,235,0.35)] hover:shadow-[0_0_28px_rgba(37,99,235,0.55)] text-lg w-full"
+            className="inline-flex items-center justify-center h-14 bg-transparent text-slate-300 border border-slate-600 px-6 rounded-xl font-bold hover:bg-slate-800/60 hover:border-slate-500 hover:text-slate-100 transition-all text-lg w-full"
           >
             Start Practice
           </Link>
@@ -169,7 +169,7 @@ export default function Home() {
           </div>
           <button 
             onClick={() => router.push('/weekly-quiz')}
-            className="inline-flex items-center justify-center bg-primary text-primary-foreground px-6 py-4 rounded-xl font-bold hover:bg-primary/90 transition-all shadow-md hover:shadow-lg hover:shadow-primary/20 text-lg w-full"
+            className="inline-flex items-center justify-center h-14 bg-primary text-primary-foreground px-6 rounded-xl font-bold hover:bg-primary/90 transition-all shadow-md hover:shadow-lg hover:shadow-primary/20 text-lg w-full"
           >
             Take This Week's Quiz
           </button>

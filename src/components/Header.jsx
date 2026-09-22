@@ -17,7 +17,7 @@ export default function Header() {
 
   // ── Desktop: ALL links share one shape. Active = underline + primary tint ───
   const navClass = (href) =>
-    `flex items-center gap-1.5 text-sm px-3 py-2 rounded-lg font-medium transition-all relative ${
+    `flex items-center gap-1.5 text-sm px-3 h-9 rounded-lg font-medium transition-all relative ${
       isActive(href)
         ? 'text-primary bg-primary/10 after:absolute after:bottom-0 after:left-2 after:right-2 after:h-0.5 after:bg-primary after:rounded-full'
         : 'text-slate-400 hover:text-slate-100 hover:bg-slate-800/50'
@@ -25,7 +25,7 @@ export default function Header() {
 
   // ── Desktop Profile: same rounded-lg family, just with avatar bg ─────────────
   const profileClass = () =>
-    `flex items-center gap-1.5 text-sm px-3 py-2 rounded-lg font-medium transition-all relative ${
+    `flex items-center gap-1.5 text-sm px-3 h-9 rounded-lg font-medium transition-all relative ${
       isActive('/profile')
         ? 'text-primary bg-primary/10 after:absolute after:bottom-0 after:left-2 after:right-2 after:h-0.5 after:bg-primary after:rounded-full'
         : 'text-slate-300 hover:text-slate-100 hover:bg-slate-800/50'
