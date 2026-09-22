@@ -105,9 +105,7 @@ export default function Home() {
   return (
     <div className="animate-in fade-in duration-300">
       {/* Hero Banner for Dashboard */}
-      <div 
-        className="w-full h-[320px] sm:h-[400px] flex items-center justify-center relative mb-10 overflow-hidden"
-      >
+      <div className="w-full h-[200px] sm:h-[240px] flex items-end relative overflow-hidden">
         <Image 
           src="/images/hero.webp" 
           alt="Hero background" 
@@ -117,64 +115,72 @@ export default function Home() {
           className="object-cover object-center"
         />
         <div className="absolute inset-0 bg-black/55 z-10"></div>
-        <div className="max-w-7xl mx-auto px-4 sm:px-8 py-12 relative z-10">
-          <h1 className="text-white text-3xl sm:text-4xl font-bold mb-3 drop-shadow-2xl" style={{textShadow: '0 2px 16px rgba(0,0,0,0.9), 0 1px 4px rgba(0,0,0,0.8)'}}>Aptiflux Tests</h1>
-          <p className="text-slate-200 text-lg mb-8 max-w-2xl drop-shadow-lg" style={{textShadow: '0 1px 8px rgba(0,0,0,0.8)'}}>Select a topic below to start your timed mock test. Good luck!</p>
+        <div className="max-w-5xl w-full mx-auto px-4 sm:px-8 pb-6 relative z-10">
+          <h1 className="text-white text-3xl sm:text-4xl font-bold mb-1 drop-shadow-2xl" style={{textShadow: '0 2px 16px rgba(0,0,0,0.9), 0 1px 4px rgba(0,0,0,0.8)'}}>Aptiflux Tests</h1>
+          <p className="text-slate-200 text-base max-w-2xl drop-shadow-lg" style={{textShadow: '0 1px 8px rgba(0,0,0,0.8)'}}>Select a topic below to start your timed mock test. Good luck!</p>
         </div>
       </div>
 
-      <div className="p-4 md:p-8 max-w-5xl mx-auto">
-        <section className="mb-12 grid grid-cols-1 md:grid-cols-2 gap-8">
-        {/* Practice Card */}
-        <div className="glass-card p-8 rounded-3xl flex flex-col justify-between">
-          <div>
-            <div className="flex justify-center mb-6">
-              <div className="w-20 h-20 rounded-2xl bg-slate-800/80 border border-slate-700 flex items-center justify-center shadow-inner">
-                <PenLine className="text-slate-300 w-9 h-9" />
-              </div>
-            </div>
-            <h2 className="text-2xl font-bold text-foreground mb-4">Normal Practice</h2>
-            <p className="text-slate-400 mb-8">
-              Practice questions topic by topic at your own pace. Immediate feedback, no time limits, and scores are not tracked on the leaderboard.
-            </p>
-          </div>
-          <Link 
-            href="/practice"
-            className="inline-flex items-center justify-center h-14 bg-transparent text-slate-300 border border-slate-600 px-6 rounded-xl font-bold hover:bg-slate-800/60 hover:border-slate-500 hover:text-slate-100 transition-all text-lg w-full"
-          >
-            Start Practice
-          </Link>
-        </div>
+      <div className="px-4 sm:px-8 pt-6 pb-8 max-w-5xl mx-auto">
+        <section className="mb-8 grid grid-cols-1 md:grid-cols-2 gap-6">
 
-        {/* Weekly Quiz Card */}
-        <div className="glass-card p-8 rounded-3xl flex flex-col justify-between relative overflow-hidden">
-          <div className="absolute top-0 right-0 bg-amber-500 text-amber-950 text-xs font-bold px-3 py-1 rounded-bl-xl shadow-lg">
-            Ranked
-          </div>
-          <div>
-            <div className="flex justify-center mb-6">
-              <div className="relative">
-                <div className="w-20 h-20 rounded-2xl bg-primary/10 border border-primary/30 flex items-center justify-center shadow-[0_0_20px_rgba(37,99,235,0.2)]">
-                  <Trophy className="text-primary w-9 h-9 drop-shadow-md" />
-                </div>
-                <div className="absolute -bottom-2 -right-2 bg-amber-500 rounded-full p-1 shadow-lg border-2 border-slate-950">
-                  <Clock className="text-amber-950 w-3.5 h-3.5" />
+          {/* Practice Card — same base, slate accent */}
+          <div className="glass-card p-8 rounded-3xl flex flex-col justify-between border border-slate-800 relative overflow-hidden">
+            {/* Left accent stripe */}
+            <div className="absolute top-0 left-0 bottom-0 w-1 bg-slate-600 rounded-l-3xl" />
+            <div>
+              <div className="flex justify-center mb-6">
+                <div className="w-20 h-20 rounded-2xl bg-slate-800/60 border border-slate-700 flex items-center justify-center">
+                  <PenLine className="text-slate-300 w-9 h-9" />
                 </div>
               </div>
+              <h2 className="text-2xl font-bold text-foreground mb-4">Normal Practice</h2>
+              <p className="text-slate-400 mb-8">
+                Practice questions topic by topic at your own pace. Immediate feedback, no time limits, and scores are not tracked on the leaderboard.
+              </p>
             </div>
-            <h2 className="text-2xl font-bold text-foreground mb-4">Weekly Quiz</h2>
-            <p className="text-slate-400 mb-8">
-              Test your skills across 10 random questions carefully selected for this week. Your performance counts towards the leaderboard!
-            </p>
+            <Link
+              href="/practice"
+              className="inline-flex items-center justify-center h-14 bg-slate-700 text-slate-100 border-2 border-slate-500 px-6 rounded-xl font-bold hover:bg-slate-600 hover:border-slate-400 hover:text-white transition-all text-lg w-full"
+            >
+              Start Practice
+            </Link>
           </div>
-          <button 
-            onClick={() => router.push('/weekly-quiz')}
-            className="inline-flex items-center justify-center h-14 bg-primary text-primary-foreground px-6 rounded-xl font-bold hover:bg-primary/90 transition-all shadow-md hover:shadow-lg hover:shadow-primary/20 text-lg w-full"
-          >
-            Take This Week's Quiz
-          </button>
-        </div>
-      </section>
+
+          {/* Weekly Quiz Card — same base, primary accent + ranked badge */}
+          <div className="glass-card p-8 rounded-3xl flex flex-col justify-between border border-slate-800 relative overflow-hidden">
+            {/* Left accent stripe */}
+            <div className="absolute top-0 left-0 bottom-0 w-1 bg-primary rounded-l-3xl shadow-[2px_0_12px_rgba(37,99,235,0.4)]" />
+            {/* Ranked badge */}
+            <div className="absolute top-0 right-0 bg-amber-500 text-amber-950 text-xs font-bold px-3 py-1 rounded-bl-xl shadow-lg">
+              Ranked
+            </div>
+            <div>
+              <div className="flex justify-center mb-6">
+                <div className="relative">
+                  <div className="w-20 h-20 rounded-2xl bg-slate-800/60 border border-slate-700 flex items-center justify-center">
+                    <Trophy className="text-primary w-9 h-9" />
+                  </div>
+                  <div className="absolute -bottom-2 -right-2 bg-amber-500 rounded-full p-1 shadow-lg border-2 border-slate-950">
+                    <Clock className="text-amber-950 w-3.5 h-3.5" />
+                  </div>
+                </div>
+              </div>
+              <h2 className="text-2xl font-bold text-foreground mb-4">Weekly Quiz</h2>
+              <p className="text-slate-400 mb-8">
+                Test your skills across 10 random questions carefully selected for this week. Your performance counts towards the leaderboard!
+              </p>
+            </div>
+            <button
+              onClick={() => router.push('/weekly-quiz')}
+              className="inline-flex items-center justify-center h-14 bg-primary text-primary-foreground px-6 rounded-xl font-bold hover:bg-primary/90 transition-all shadow-[0_0_18px_rgba(37,99,235,0.3)] hover:shadow-[0_0_28px_rgba(37,99,235,0.5)] text-lg w-full"
+            >
+              Take This Week's Quiz
+            </button>
+          </div>
+
+        </section>
+
       </div>
 
       {/* QotD Modal */}
