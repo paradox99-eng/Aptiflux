@@ -262,9 +262,9 @@ export default function Profile() {
               <table className="w-full text-left">
                 <thead className="bg-slate-900/80 border-b border-slate-800">
                   <tr>
-                    <th className="p-4 font-semibold text-slate-400">Time</th>
+                    <th className="p-4 font-semibold text-slate-400 w-px whitespace-nowrap">Time</th>
                     <th className="p-4 font-semibold text-slate-400">Topic</th>
-                    <th className="p-4 font-semibold text-slate-400">Score</th>
+                    <th className="p-4 font-semibold text-slate-400 w-px whitespace-nowrap">Score</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -274,15 +274,15 @@ export default function Profile() {
                     
                     return (
                       <tr key={i} className="border-b last:border-0 border-slate-800 hover:bg-slate-800/40 transition-colors">
-                        <td className="p-4 text-slate-400">{new Date(test.date || test.submitted_at || Date.now()).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</td>
+                        <td className="p-4 text-slate-400 w-px whitespace-nowrap">{new Date(test.date || test.submitted_at || Date.now()).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</td>
                         <td className="p-4 text-foreground font-medium">{test.topicTitle}</td>
-                        <td className="p-4 font-mono">
+                        <td className="p-4 font-mono w-px whitespace-nowrap">
                           {hiddenScore ? (
-                            <span className="px-3 py-1 rounded-full text-sm font-semibold bg-slate-800 text-slate-400 border border-slate-700">
+                            <span className="px-3 py-1 rounded-full text-sm font-semibold bg-slate-800 text-slate-400 border border-slate-700 whitespace-nowrap">
                               Available Sunday
                             </span>
                           ) : (
-                            <span className={`px-3 py-1 rounded-full text-sm font-semibold ${
+                            <span className={`px-3 py-1 rounded-full text-sm font-semibold whitespace-nowrap ${
                               percentage >= 50 ? 'bg-emerald-950/50 text-emerald-500 border border-emerald-900' : 'bg-red-950/50 text-red-500 border border-red-900'
                             }`}>
                               {test.score} / {test.total} ({percentage}%)
